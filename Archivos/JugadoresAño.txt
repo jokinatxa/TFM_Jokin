@@ -1,0 +1,8857 @@
+Jugador_Año
+Víctor Valdés_2010
+Rubén Miño_2010
+Oier Olazábal_2010
+José Manuel Pinto_2010
+Gerard Piqué_2010
+Carles Puyol_2010
+Gabriel Milito_2010
+Marc Muniesa_2010
+Andreu Fontàs_2010
+Marc Bartra_2010
+Sergi Gómez_2010
+Éric Abidal_2010
+Adriano_2010
+Maxwell_2010
+Dani Alves_2010
+Martín Montoya_2010
+Sergio Busquets_2010
+Javier Mascherano_2010
+Jonathan dos Santos_2010
+Oriol Romeu_2010
+Andrés Iniesta_2010
+Xavi_2010
+Seydou Keita_2010
+Thiago_2010
+Sergi Roberto_2010
+Ibrahim Afellay_2010
+Víctor Vázquez_2010
+Nolito_2010
+Lionel Messi_2010
+Pedro_2010
+Jeffrén_2010
+Bojan Krkic_2010
+David Villa_2010
+Zlatan Ibrahimović_2010
+Gerard Deulofeu_2010
+Víctor Valdés_2011
+Oier Olazábal_2011
+Rubén Miño_2011
+José Manuel Pinto_2011
+Gerard Piqué_2011
+Carles Puyol_2011
+Andreu Fontàs_2011
+Marc Muniesa_2011
+Marc Bartra_2011
+Sergi Gómez_2011
+Adriano_2011
+Éric Abidal_2011
+Maxwell_2011
+Dani Alves_2011
+Martín Montoya_2011
+Kiko Femenía_2011
+Sergio Busquets_2011
+Javier Mascherano_2011
+Jonathan dos Santos_2011
+Andrés Iniesta_2011
+Cesc Fàbregas_2011
+Xavi_2011
+Thiago_2011
+Seydou Keita_2011
+Sergi Roberto_2011
+Martí Riverola_2011
+Ibrahim Afellay_2011
+Rafinha_2011
+Cristian Tello_2011
+Isaac Cuenca_2011
+Lionel Messi_2011
+Pedro_2011
+David Villa_2011
+Alexis Sánchez_2011
+Gerard Deulofeu_2011
+Víctor Valdés_2012
+Oier Olazábal_2012
+Jordi Masip_2012
+José Manuel Pinto_2012
+Gerard Piqué_2012
+Marc Bartra_2012
+Carles Puyol_2012
+Sergi Gómez_2012
+Jordi Alba_2012
+Adriano_2012
+Carles Planas_2012
+Éric Abidal_2012
+Dani Alves_2012
+Martín Montoya_2012
+Sergio Busquets_2012
+Javier Mascherano_2012
+Alex Song_2012
+Jonathan dos Santos_2012
+Andrés Iniesta_2012
+Cesc Fàbregas_2012
+Thiago_2012
+Xavi_2012
+Sergi Roberto_2012
+Rafinha_2012
+Cristian Tello_2012
+Lionel Messi_2012
+Pedro_2012
+Alexis Sánchez_2012
+Gerard Deulofeu_2012
+David Villa_2012
+Víctor Valdés_2013
+Oier Olazábal_2013
+José Manuel Pinto_2013
+Gerard Piqué_2013
+Marc Bartra_2013
+Sergi Gómez_2013
+Carles Puyol_2013
+Patric_2013
+Jordi Alba_2013
+Adriano_2013
+Dani Alves_2013
+Martín Montoya_2013
+Sergio Busquets_2013
+Alex Song_2013
+Javier Mascherano_2013
+Jonathan dos Santos_2013
+Andrés Iniesta_2013
+Cesc Fàbregas_2013
+Xavi_2013
+Sergi Roberto_2013
+Ibrahim Afellay_2013
+Neymar_2013
+Cristian Tello_2013
+Isaac Cuenca_2013
+Lionel Messi_2013
+Pedro_2013
+Adama Traoré_2013
+Alexis Sánchez_2013
+Jean Marie Dongou_2013
+Marc-André ter Stegen_2014
+Claudio Bravo_2014
+Jordi Masip_2014
+Gerard Piqué_2014
+Marc Bartra_2014
+Thomas Vermaelen_2014
+Edgar Ié_2014
+Jordi Alba_2014
+Jérémy Mathieu_2014
+Adriano_2014
+Martín Montoya_2014
+Dani Alves_2014
+Douglas_2014
+Sergio Busquets_2014
+Javier Mascherano_2014
+Sergi Samper_2014
+Diawandou Diagne_2014
+Gerard Gumbau_2014
+Andrés Iniesta_2014
+Ivan Rakitic_2014
+Sergi Roberto_2014
+Xavi_2014
+Rafinha_2014
+Alen Halilovic_2014
+Neymar_2014
+Lionel Messi_2014
+Pedro_2014
+Munir El Haddadi_2014
+Adama Traoré_2014
+Luis Suárez_2014
+Sandro Ramírez_2014
+Marc-André ter Stegen_2015
+Claudio Bravo_2015
+Jordi Masip_2015
+Gerard Piqué_2015
+Marc Bartra_2015
+Thomas Vermaelen_2015
+Jordi Alba_2015
+Jérémy Mathieu_2015
+Adriano_2015
+Dani Alves_2015
+Douglas_2015
+Sergio Busquets_2015
+Javier Mascherano_2015
+Sergi Samper_2015
+Gerard Gumbau_2015
+Ivan Rakitic_2015
+Andrés Iniesta_2015
+Sergi Roberto_2015
+Wilfrid Kaptoum_2015
+Carles Aleñá_2015
+Rafinha_2015
+Juan Cámara_2015
+Neymar_2015
+Arda Turan_2015
+Lionel Messi_2015
+Pedro_2015
+Munir El Haddadi_2015
+Aleix Vidal_2015
+Aitor Cantalapiedra_2015
+Luis Suárez_2015
+Sandro Ramírez_2015
+Dani Romera_2015
+Marc-André ter Stegen_2016
+Jasper Cillessen_2016
+Claudio Bravo_2016
+Jordi Masip_2016
+Gerard Piqué_2016
+Samuel Umtiti_2016
+Marlon_2016
+Borja López_2016
+Jordi Alba_2016
+Lucas Digne_2016
+Jérémy Mathieu_2016
+Douglas_2016
+Sergio Busquets_2016
+Javier Mascherano_2016
+Sergi Samper_2016
+Ivan Rakitic_2016
+Sergi Roberto_2016
+André Gomes_2016
+Andrés Iniesta_2016
+Carles Aleñá_2016
+Wilfrid Kaptoum_2016
+Àlex Carbonell_2016
+Denis Suárez_2016
+Rafinha_2016
+Nili Perdomo_2016
+Neymar_2016
+Arda Turan_2016
+Lionel Messi_2016
+Munir El Haddadi_2016
+Aleix Vidal_2016
+Luis Suárez_2016
+Paco Alcácer_2016
+Marc Cardona_2016
+Marc-André ter Stegen_2017
+Jasper Cillessen_2017
+Adrián Ortolá_2017
+Samuel Umtiti_2017
+Gerard Piqué_2017
+Yerry Mina_2017
+Thomas Vermaelen_2017
+David Costas_2017
+Jordi Alba_2017
+Lucas Digne_2017
+Marc Cucurella_2017
+Nélson Semedo_2017
+Sergio Busquets_2017
+Javier Mascherano_2017
+Uri Busquets_2017
+Sergi Roberto_2017
+Ivan Rakitic_2017
+Paulinho_2017
+André Gomes_2017
+Andrés Iniesta_2017
+Carles Aleñá_2017
+Philippe Coutinho_2017
+Rafinha_2017
+Denis Suárez_2017
+José Manuel Arnáiz_2017
+Arda Turan_2017
+Lionel Messi_2017
+Ousmane Dembélé_2017
+Aleix Vidal_2017
+Luis Suárez_2017
+Paco Alcácer_2017
+Gerard Deulofeu_2017
+Marc-André ter Stegen_2018
+Jasper Cillessen_2018
+Iñaki Peña_2018
+Jokin Ezkieta_2018
+Clément Lenglet_2018
+Samuel Umtiti_2018
+Gerard Piqué_2018
+Jeison Murillo_2018
+Jean-Clair Todibo_2018
+Thomas Vermaelen_2018
+Chumi_2018
+Jorge Cuenca_2018
+Jordi Alba_2018
+Juan Miranda_2018
+Nélson Semedo_2018
+Moussa Wagué_2018
+Guillem Jaime_2018
+Arthur Melo_2018
+Sergio Busquets_2018
+Uri Busquets_2018
+Sergi Samper_2018
+Sergi Roberto_2018
+Ivan Rakitic_2018
+Carles Aleñá_2018
+Arturo Vidal_2018
+Riqui Puig_2018
+Philippe Coutinho_2018
+Rafinha_2018
+Denis Suárez_2018
+Kevin-Prince Boateng_2018
+Lionel Messi_2018
+Ousmane Dembélé_2018
+Malcom_2018
+Munir El Haddadi_2018
+Carles Pérez_2018
+Álex Collado_2018
+Luis Suárez_2018
+Paco Alcácer_2018
+Abel Ruiz_2018
+Marc-André ter Stegen_2019
+Neto_2019
+Iñaki Peña_2019
+Arnau Tenas_2019
+Clément Lenglet_2019
+Samuel Umtiti_2019
+Gerard Piqué_2019
+Jean-Clair Todibo_2019
+Ronald Araujo_2019
+Jorge Cuenca_2019
+Chumi_2019
+Jordi Alba_2019
+Junior Firpo_2019
+Sergio Akieme_2019
+Nélson Semedo_2019
+Moussa Wagué_2019
+Dani Morer_2019
+Óscar Mingueza_2019
+Arthur Melo_2019
+Sergio Busquets_2019
+Jandro Orellana_2019
+Frenkie de Jong_2019
+Sergi Roberto_2019
+Ivan Rakitic_2019
+Carles Aleñá_2019
+Arturo Vidal_2019
+Riqui Puig_2019
+Ludovit Reis_2019
+Monchu_2019
+Rafinha_2019
+Ansu Fati_2019
+Konrad de la Fuente_2019
+Kike Saverio_2019
+Lionel Messi_2019
+Ousmane Dembélé_2019
+Carles Pérez_2019
+Álex Collado_2019
+Antoine Griezmann_2019
+Luis Suárez_2019
+Martin Braithwaite_2019
+Abel Ruiz_2019
+Rey Manaj_2019
+Marc-André ter Stegen_2020
+Neto_2020
+Iñaki Peña_2020
+Arnau Tenas_2020
+Ronald Araujo_2020
+Clément Lenglet_2020
+Gerard Piqué_2020
+Samuel Umtiti_2020
+Santiago Ramos Mingo_2020
+Jordi Alba_2020
+Junior Firpo_2020
+Sergiño Dest_2020
+Óscar Mingueza_2020
+Sergio Busquets_2020
+Matheus Fernandes_2020
+Frenkie de Jong_2020
+Pedri_2020
+Ilaix Moriba_2020
+Miralem Pjanic_2020
+Riqui Puig_2020
+Sergi Roberto_2020
+Carles Aleñá_2020
+Philippe Coutinho_2020
+Rafinha_2020
+Ansu Fati_2020
+Trincão_2020
+Konrad de la Fuente_2020
+Lionel Messi_2020
+Ousmane Dembélé_2020
+Álex Collado_2020
+Antoine Griezmann_2020
+Martin Braithwaite_2020
+Marc-André ter Stegen_2021
+Iñaki Peña_2021
+Neto_2021
+Arnau Tenas_2021
+Lazar Carevic_2021
+Ronald Araujo_2021
+Eric García_2021
+Clément Lenglet_2021
+Gerard Piqué_2021
+Samuel Umtiti_2021
+Arnau Comas_2021
+Mika Mármol_2021
+Jordi Alba_2021
+Alejandro Balde_2021
+Emerson Royal_2021
+Sergiño Dest_2021
+Óscar Mingueza_2021
+Dani Alves_2021
+Guillem Jaime_2021
+Sergio Busquets_2021
+Jandro Orellana_2021
+Álvaro Sanz_2021
+Pedri_2021
+Frenkie de Jong_2021
+Gavi_2021
+Nico González_2021
+Miralem Pjanic_2021
+Riqui Puig_2021
+Sergi Roberto_2021
+Lucas de Vega_2021
+Philippe Coutinho_2021
+Ansu Fati_2021
+Ferran Torres_2021
+Abde Ezzalzouli_2021
+Estanis Pedrola_2021
+Ousmane Dembélé_2021
+Adama Traoré_2021
+Yusuf Demir_2021
+Ilias Akhomach_2021
+Antoine Griezmann_2021
+Memphis Depay_2021
+Pierre-Emerick Aubameyang_2021
+Martin Braithwaite_2021
+Luuk de Jong_2021
+Ferran Jutglà_2021
+Rey Manaj_2021
+Sergio Agüero_2021
+Marc-André ter Stegen_2022
+Iñaki Peña_2022
+Arnau Tenas_2022
+Ander Astralaga_2022
+Ronald Araujo_2022
+Jules Koundé_2022
+Andreas Christensen_2022
+Eric García_2022
+Chadi Riad_2022
+Gerard Piqué_2022
+Alejandro Balde_2022
+Marcos Alonso_2022
+Jordi Alba_2022
+Álex Valle_2022
+Héctor Bellerín_2022
+Sergio Busquets_2022
+Álvaro Sanz_2022
+Marc Casadó_2022
+Pau Prim_2022
+Pedri_2022
+Gavi_2022
+Frenkie de Jong_2022
+Franck Kessié_2022
+Miralem Pjanic_2022
+Sergi Roberto_2022
+Pablo Torre_2022
+Aleix Garrido_2022
+Unai Hernández_2022
+Ansu Fati_2022
+Ferran Torres_2022
+Estanis Pedrola_2022
+Ángel Alarcón_2022
+Dani Rodríguez_2022
+Ousmane Dembélé_2022
+Raphinha_2022
+Ilias Akhomach_2022
+Lamine Yamal_2022
+Robert Lewandowski_2022
+Memphis Depay_2022
+Pierre-Emerick Aubameyang_2022
+Marc Guiu_2022
+Iker Casillas_2010
+Antonio Adán_2010
+Jerzy Dudek_2010
+Jesús Fernández_2010
+Fernando Pacheco_2010
+Tomás Mejías_2010
+Sergio Ramos_2010
+Pepe_2010
+Raúl Albiol_2010
+Ricardo Carvalho_2010
+Ezequiel Garay_2010
+David Mateos_2010
+Jorge Casado_2010
+Nacho Fernández_2010
+Marcelo_2010
+Juankar_2010
+Álvaro Arbeloa_2010
+Juanfran Moreno_2010
+Xabi Alonso_2010
+Lassana Diarra_2010
+Fernando Gago_2010
+Mahamadou Diarra_2010
+Sami Khedira_2010
+Esteban Granero_2010
+Mandi_2010
+Mesut Özil_2010
+Kaká_2010
+Sergio Canales_2010
+Álex Fernández_2010
+Ángel Di María_2010
+Pedro León_2010
+Pablo Sarabia_2010
+Cristiano Ronaldo_2010
+Gonzalo Higuaín_2010
+Karim Benzema_2010
+Emmanuel Adebayor_2010
+Joselu_2010
+Álvaro Morata_2010
+Iker Casillas_2011
+Antonio Adán_2011
+Jesús Fernández_2011
+Fernando Pacheco_2011
+Tomás Mejías_2011
+Sergio Ramos_2011
+Pepe_2011
+Raúl Albiol_2011
+Raphaël Varane_2011
+Ricardo Carvalho_2011
+Pedro Mendes_2011
+Nacho Fernández_2011
+Jorge Casado_2011
+Marcelo_2011
+Fábio Coentrão_2011
+Álvaro Arbeloa_2011
+Xabi Alonso_2011
+Nuri Şahin_2011
+Lassana Diarra_2011
+Sami Khedira_2011
+Esteban Granero_2011
+Andy Rodríguez_2011
+Hamit Altıntop_2011
+Mesut Özil_2011
+Kaká_2011
+Jesé_2011
+Ángel Di María_2011
+José Callejón_2011
+Cristiano Ronaldo_2011
+Karim Benzema_2011
+Gonzalo Higuaín_2011
+Joselu_2011
+Álvaro Morata_2011
+Iker Casillas_2012
+Diego López_2012
+Antonio Adán_2012
+Jesús Fernández_2012
+Sergio Ramos_2012
+Raphaël Varane_2012
+Pepe_2012
+Raúl Albiol_2012
+Nacho Fernández_2012
+Ricardo Carvalho_2012
+Diego Llorente_2012
+Marcelo_2012
+Fábio Coentrão_2012
+Álvaro Arbeloa_2012
+Xabi Alonso_2012
+Lassana Diarra_2012
+Michael Essien_2012
+Casemiro_2012
+Fabinho_2012
+Omar Mascarell_2012
+Luka Modric_2012
+Sami Khedira_2012
+Esteban Granero_2012
+José Rodríguez_2012
+Mesut Özil_2012
+Kaká_2012
+Álex Fernández_2012
+Denis Cheryshev_2012
+Ángel Di María_2012
+José Callejón_2012
+Cristiano Ronaldo_2012
+Karim Benzema_2012
+Gonzalo Higuaín_2012
+Álvaro Morata_2012
+Iker Casillas_2013
+Diego López_2013
+Jesús Fernández_2013
+Sergio Ramos_2013
+Raphaël Varane_2013
+Pepe_2013
+Nacho Fernández_2013
+Diego Llorente_2013
+Marcelo_2013
+Fábio Coentrão_2013
+Daniel Carvajal_2013
+Álvaro Arbeloa_2013
+Lucas Vázquez_2013
+Asier Illarramendi_2013
+Xabi Alonso_2013
+Casemiro_2013
+Omar Mascarell_2013
+Luka Modric_2013
+Sami Khedira_2013
+José Rodríguez_2013
+Mesut Özil_2013
+Isco_2013
+Kaká_2013
+Jesé_2013
+Burgui_2013
+Gareth Bale_2013
+Ángel Di María_2013
+Cristiano Ronaldo_2013
+Karim Benzema_2013
+Álvaro Morata_2013
+Willian José_2013
+Raúl de Tomás_2013
+Iker Casillas_2014
+Keylor Navas_2014
+Fernando Pacheco_2014
+Rubén Yáñez_2014
+Sergio Ramos_2014
+Raphaël Varane_2014
+Pepe_2014
+Nacho Fernández_2014
+Jaime Sánchez_2014
+Diego Llorente_2014
+Derik Osede_2014
+Marcelo_2014
+Fábio Coentrão_2014
+Felipe Abner_2014
+Javi Noblejas_2014
+Daniel Carvajal_2014
+Álvaro Arbeloa_2014
+Guillermo Varela_2014
+Asier Illarramendi_2014
+Lucas Silva_2014
+Xabi Alonso_2014
+Lucas Torró_2014
+Luka Modric_2014
+Toni Kroos_2014
+Sami Khedira_2014
+Álvaro Medrán_2014
+Sergio Aguza_2014
+Marcos Llorente_2014
+Javi Muñoz_2014
+James Rodríguez_2014
+Isco_2014
+Martin Ødegaard_2014
+Jesé_2014
+Gareth Bale_2014
+Ángel Di María_2014
+Cristiano Ronaldo_2014
+Karim Benzema_2014
+Chicharito_2014
+Raúl de Tomás_2014
+Eero Markkanen_2014
+Borja Mayoral_2014
+Keylor Navas_2015
+Kiko Casilla_2015
+Rubén Yáñez_2015
+Álex Craninx_2015
+Sergio Ramos_2015
+Raphaël Varane_2015
+Danilo_2015
+Pepe_2015
+Nacho Fernández_2015
+Philipp Lienhart_2015
+Marcelo_2015
+Daniel Carvajal_2015
+Lucas Vázquez_2015
+Álvaro Arbeloa_2015
+Álvaro Tejero_2015
+Casemiro_2015
+Toni Kroos_2015
+Luka Modric_2015
+Mateo Kovacic_2015
+Marcos Llorente_2015
+James Rodríguez_2015
+Isco_2015
+Martin Ødegaard_2015
+Jesé_2015
+Denis Cheryshev_2015
+José Carlos Lazo_2015
+Gareth Bale_2015
+Cristiano Ronaldo_2015
+Karim Benzema_2015
+Borja Mayoral_2015
+Keylor Navas_2016
+Kiko Casilla_2016
+Rubén Yáñez_2016
+Sergio Ramos_2016
+Raphaël Varane_2016
+Danilo_2016
+Nacho Fernández_2016
+Pepe_2016
+Marcelo_2016
+Fábio Coentrão_2016
+Daniel Carvajal_2016
+Lucas Vázquez_2016
+Álvaro Tejero_2016
+Achraf Hakimi_2016
+Casemiro_2016
+Toni Kroos_2016
+Luka Modric_2016
+Mateo Kovacic_2016
+Marcos Llorente_2016
+James Rodríguez_2016
+Isco_2016
+Enzo Zidane_2016
+Martin Ødegaard_2016
+Marco Asensio_2016
+Gareth Bale_2016
+Cristiano Ronaldo_2016
+Karim Benzema_2016
+Álvaro Morata_2016
+Mariano Díaz_2016
+Keylor Navas_2017
+Kiko Casilla_2017
+Luca Zidane_2017
+Moha Ramos_2017
+Raphaël Varane_2017
+Sergio Ramos_2017
+Nacho Fernández_2017
+Jesús Vallejo_2017
+Manu Hernando_2017
+Marcelo_2017
+Theo Hernández_2017
+Luismi Quezada_2017
+Daniel Carvajal_2017
+Lucas Vázquez_2017
+Achraf Hakimi_2017
+Álvaro Tejero_2017
+Casemiro_2017
+Toni Kroos_2017
+Mateo Kovacic_2017
+Luka Modric_2017
+Marcos Llorente_2017
+Dani Ceballos_2017
+Jaime Seoane_2017
+Isco_2017
+Óscar Rodríguez_2017
+Marco Asensio_2017
+Gareth Bale_2017
+Franchu_2017
+Cristo_2017
+Cristiano Ronaldo_2017
+Karim Benzema_2017
+Borja Mayoral_2017
+Thibaut Courtois_2018
+Keylor Navas_2018
+Andriy Lunin_2018
+Kiko Casilla_2018
+Luca Zidane_2018
+Raphaël Varane_2018
+Sergio Ramos_2018
+Nacho Fernández_2018
+Jesús Vallejo_2018
+Javi Sánchez_2018
+Adrián de la Fuente_2018
+Marcelo_2018
+Sergio Reguilón_2018
+Fran García_2018
+Daniel Carvajal_2018
+Lucas Vázquez_2018
+Álvaro Odriozola_2018
+Casemiro_2018
+Toni Kroos_2018
+Dani Ceballos_2018
+Luka Modric_2018
+Federico Valverde_2018
+Marcos Llorente_2018
+Álvaro Fidalgo_2018
+Jaume Grau_2018
+Jaime Seoane_2018
+Isco_2018
+Brahim Díaz_2018
+Vinicius Junior_2018
+Marco Asensio_2018
+Gareth Bale_2018
+Franchu_2018
+Cristo_2018
+Karim Benzema_2018
+Mariano Díaz_2018
+Borja Mayoral_2018
+Thibaut Courtois_2019
+Alphonse Areola_2019
+Keylor Navas_2019
+Diego Altube_2019
+Luis López_2019
+Raphaël Varane_2019
+Éder Militão_2019
+Sergio Ramos_2019
+Nacho Fernández_2019
+Adrián de la Fuente_2019
+Ferland Mendy_2019
+Marcelo_2019
+Javi Hernández_2019
+Miguel Gutiérrez_2019
+Daniel Carvajal_2019
+Lucas Vázquez_2019
+Álvaro Odriozola_2019
+Casemiro_2019
+Federico Valverde_2019
+Toni Kroos_2019
+Luka Modric_2019
+Isco_2019
+James Rodríguez_2019
+Reinier_2019
+Brahim Díaz_2019
+Eden Hazard_2019
+Vinicius Junior_2019
+Marco Asensio_2019
+Rodrygo_2019
+Gareth Bale_2019
+Karim Benzema_2019
+Luka Jović_2019
+Mariano Díaz_2019
+Thibaut Courtois_2020
+Andriy Lunin_2020
+Diego Altube_2020
+Luis López_2020
+Lucas Cañizares_2020
+Raphaël Varane_2020
+Éder Militão_2020
+Sergio Ramos_2020
+Nacho Fernández_2020
+Víctor Chust_2020
+Pablo Ramón_2020
+Ferland Mendy_2020
+Marcelo_2020
+Miguel Gutiérrez_2020
+Daniel Carvajal_2020
+Lucas Vázquez_2020
+Álvaro Odriozola_2020
+Sergio Santos_2020
+Casemiro_2020
+Antonio Blanco_2020
+Federico Valverde_2020
+Toni Kroos_2020
+Luka Modric_2020
+Martin Ødegaard_2020
+Isco_2020
+Sergio Arribas_2020
+Eden Hazard_2020
+Vinicius Junior_2020
+Marco Asensio_2020
+Óscar Aranda_2020
+Rodrygo_2020
+Marvin Park_2020
+Karim Benzema_2020
+Luka Jović_2020
+Borja Mayoral_2020
+Mariano Díaz_2020
+Hugo Duro_2020
+Thibaut Courtois_2021
+Andriy Lunin_2021
+Luis López_2021
+Toni Fuidias_2021
+Diego Piñeiro_2021
+Éder Militão_2021
+David Alaba_2021
+Nacho Fernández_2021
+Jesús Vallejo_2021
+Mario Gila_2021
+Rafa Marín_2021
+Ferland Mendy_2021
+Miguel Gutiérrez_2021
+Marcelo_2021
+Daniel Carvajal_2021
+Lucas Vázquez_2021
+Álvaro Odriozola_2021
+Sergio Santos_2021
+Casemiro_2021
+Antonio Blanco_2021
+Federico Valverde_2021
+Eduardo Camavinga_2021
+Toni Kroos_2021
+Dani Ceballos_2021
+Luka Modric_2021
+Isco_2021
+Vinicius Junior_2021
+Marco Asensio_2021
+Eden Hazard_2021
+Rodrygo_2021
+Gareth Bale_2021
+Peter Federico_2021
+Karim Benzema_2021
+Luka Jović_2021
+Mariano Díaz_2021
+Juanmi Latasa_2021
+Thibaut Courtois_2022
+Andriy Lunin_2022
+Mario de Luis_2022
+Luis López_2022
+Lucas Cañizares_2022
+Diego Piñeiro_2022
+Fran González_2022
+Éder Militão_2022
+David Alaba_2022
+Antonio Rüdiger_2022
+Nacho Fernández_2022
+Jesús Vallejo_2022
+Marvel_2022
+Ferland Mendy_2022
+Daniel Carvajal_2022
+Lucas Vázquez_2022
+Álvaro Odriozola_2022
+Vinícius Tobias_2022
+Aurélien Tchouaméni_2022
+Casemiro_2022
+Mario Martín_2022
+Federico Valverde_2022
+Eduardo Camavinga_2022
+Toni Kroos_2022
+Dani Ceballos_2022
+Luka Modric_2022
+Carlos Dotor_2022
+Sergio Arribas_2022
+Nico Paz_2022
+Vinicius Junior_2022
+Marco Asensio_2022
+Eden Hazard_2022
+Rodrygo_2022
+Karim Benzema_2022
+Álvaro Rodríguez_2022
+Mariano Díaz_2022
+David de Gea_2010
+Sergio Asenjo_2010
+Joel Robles_2010
+Iago Herrerín_2010
+Diego Godín_2010
+Álvaro Domínguez_2010
+Tomas Ujfalusi_2010
+Luis Amaranto Perea_2010
+Juanito_2010
+Jorge Pulido_2010
+Filipe Luís_2010
+Antonio López_2010
+Juanfran Torres_2010
+Juan Valera_2010
+Paulo Assunção_2010
+Mario Suárez_2010
+Ignacio Camacho_2010
+Tiago Mendes_2010
+Elias_2010
+Fran Mérida_2010
+Koke_2010
+José Manuel Jurado_2010
+Alberto Noguera_2010
+Simão_2010
+Alberto Perea_2010
+José Antonio Reyes_2010
+Sergio Agüero_2010
+Diego Forlán_2010
+Raúl García_2010
+Diego Costa_2010
+Borja Bastón_2010
+Thibaut Courtois_2011
+Joel Robles_2011
+Sergio Asenjo_2011
+Diego Godín_2011
+Álvaro Domínguez_2011
+Miranda_2011
+Luis Amaranto Perea_2011
+Jorge Pulido_2011
+Francisco Regalón_2011
+Filipe Luís_2011
+Antonio López_2011
+Sílvio_2011
+Juanfran Torres_2011
+Juan Valera_2011
+Javier Manquillo_2011
+Mario Suárez_2011
+Paulo Assunção_2011
+Elias_2011
+Tiago Mendes_2011
+Gabi_2011
+Koke_2011
+Fran Mérida_2011
+Miguel Ángel Luque_2011
+Saúl Ñíguez_2011
+Óliver Torres_2011
+Abdelkader Oueslati_2011
+Diego_2011
+Pizzi_2011
+Arda Turan_2011
+Momar Ndoye_2011
+Eduardo Salvio_2011
+José Antonio Reyes_2011
+Radamel Falcao_2011
+Adrián López_2011
+Raúl García_2011
+Diego Forlán_2011
+Pedro Martín_2011
+Thibaut Courtois_2012
+Sergio Asenjo_2012
+Joel Robles_2012
+Diego Godín_2012
+Miranda_2012
+Cata Díaz_2012
+Jorge Pulido_2012
+Filipe Luís_2012
+Emiliano Insúa_2012
+Domingo Cisma_2012
+Juanfran Torres_2012
+Sílvio_2012
+Javier Manquillo_2012
+Iván Calero_2012
+Mario Suárez_2012
+Koke_2012
+Gabi_2012
+Óliver Torres_2012
+Emre Belözoğlu_2012
+Tiago Mendes_2012
+Saúl Ñíguez_2012
+Abdelkader Oueslati_2012
+Cristian Rodríguez_2012
+Borja Galán_2012
+Arda Turan_2012
+Momar Ndoye_2012
+Dani Aquino_2012
+Radamel Falcao_2012
+Diego Costa_2012
+Adrián López_2012
+Raúl García_2012
+Pedro Martín_2012
+Thibaut Courtois_2013
+Daniel Aranzubia_2013
+Bono_2013
+David Gil_2013
+Diego Godín_2013
+Miranda_2013
+Toby Alderweireld_2013
+Martín Demichelis_2013
+José María Giménez_2013
+Filipe Luís_2013
+Emiliano Insúa_2013
+Lucas Hernández_2013
+Juanfran Torres_2013
+Javier Manquillo_2013
+Mario Suárez_2013
+Josuha Guilavogui_2013
+Isaac Nana_2013
+Koke_2013
+Gabi_2013
+José Sosa_2013
+Óliver Torres_2013
+Tiago Mendes_2013
+Carlos Ramos_2013
+Cristian Rodríguez_2013
+Diego_2013
+Samu Saiz_2013
+Arda Turan_2013
+Momar Ndoye_2013
+Diego Costa_2013
+Raúl García_2013
+David Villa_2013
+Adrián López_2013
+Léo Baptistão_2013
+Rubén Mesa_2013
+Héctor Hernández_2013
+Jan Oblak_2014
+Miguel Ángel Moyá_2014
+Bernabé Barragán_2014
+Diego Godín_2014
+Miranda_2014
+José María Giménez_2014
+Nacho Monsalve_2014
+Guilherme Siqueira_2014
+Cristian Ansaldi_2014
+Iván Pérez_2014
+Lucas Hernández_2014
+Juanfran Torres_2014
+Jesús Gámez_2014
+Mario Suárez_2014
+Koke_2014
+Gabi_2014
+Saúl Ñíguez_2014
+Tiago Mendes_2014
+Carlos Ramos_2014
+Cristian Rodríguez_2014
+Cani_2014
+Arda Turan_2014
+Nacho Huertas_2014
+Sekou Keita_2014
+Alessio Cerci_2014
+Ángel Correa_2014
+Antoine Griezmann_2014
+Mario Mandžukić_2014
+Raúl García_2014
+Raúl Jiménez_2014
+Fernando Torres_2014
+Héctor Hernández_2014
+Jan Oblak_2015
+Miguel Ángel Moyá_2015
+Diego Godín_2015
+José María Giménez_2015
+Stefan Savic_2015
+Nacho Monsalve_2015
+Filipe Luís_2015
+Lucas Hernández_2015
+Guilherme Siqueira_2015
+Theo Hernández_2015
+Juanfran Torres_2015
+Jesús Gámez_2015
+Borja González_2015
+Matías Kranevitter_2015
+Thomas Partey_2015
+Koke_2015
+Saúl Ñíguez_2015
+Óliver Torres_2015
+Gabi_2015
+Augusto Fernández_2015
+Tiago Mendes_2015
+Yannick Carrasco_2015
+Ángel Correa_2015
+Samuel Villa_2015
+Antoine Griezmann_2015
+Luciano Vietto_2015
+Jackson Martínez_2015
+Raúl García_2015
+Fernando Torres_2015
+Roberto Núñez_2015
+Jan Oblak_2016
+Miguel Ángel Moyá_2016
+André Moreira_2016
+Bernabé Barragán_2016
+Diego Godín_2016
+Stefan Savic_2016
+José María Giménez_2016
+Álex García_2016
+Tachi_2016
+Filipe Luís_2016
+Lucas Hernández_2016
+Caio Henrique_2016
+Sime Vrsaljko_2016
+Juanfran Torres_2016
+Javier Manquillo_2016
+Rafa Muñoz_2016
+Thomas Partey_2016
+Koke_2016
+Saúl Ñíguez_2016
+Augusto Fernández_2016
+Gabi_2016
+Tiago Mendes_2016
+Keidi Bare_2016
+Roberto Olabe_2016
+Toni Moya_2016
+Nico Gaitán_2016
+Yannick Carrasco_2016
+Diogo Jota_2016
+Nicolás Schiappacasse_2016
+Ferni_2016
+Ángel Correa_2016
+Alessio Cerci_2016
+Juan Moreno_2016
+Antoine Griezmann_2016
+Kévin Gameiro_2016
+Fernando Torres_2016
+Roberto Núñez_2016
+Zaka_2016
+Jan Oblak_2017
+Miguel Ángel Moyá_2017
+Axel Werner_2017
+Miguel San Román_2017
+Álex dos Santos_2017
+José María Giménez_2017
+Stefan Savic_2017
+Diego Godín_2017
+Antonio Montoro_2017
+Lucas Hernández_2017
+Filipe Luís_2017
+Sergi González_2017
+Sime Vrsaljko_2017
+Juanfran Torres_2017
+Carlos Isaac_2017
+Thomas Partey_2017
+Koke_2017
+Saúl Ñíguez_2017
+Gabi_2017
+Augusto Fernández_2017
+Keidi Bare_2017
+Toni Moya_2017
+Roberto Olabe_2017
+Nico Gaitán_2017
+Yannick Carrasco_2017
+Vitolo_2017
+Ángel Correa_2017
+Arona Sané_2017
+Juan Moreno_2017
+Juan Agüero_2017
+Antoine Griezmann_2017
+Diego Costa_2017
+Kévin Gameiro_2017
+Luciano Vietto_2017
+Fernando Torres_2017
+Alberto Ródenas_2017
+Jan Oblak_2018
+Antonio Adán_2018
+Álex dos Santos_2018
+José María Giménez_2018
+Stefan Savic_2018
+Diego Godín_2018
+Javi Montero_2018
+Nehuén Pérez_2018
+Tachi_2018
+Lucas Hernández_2018
+Filipe Luís_2018
+Manu Sánchez_2018
+Santiago Arias_2018
+Juanfran Torres_2018
+Andrés Solano_2018
+Carlos Isaac_2018
+Rodri_2018
+Thomas Partey_2018
+Gustavo Assunção_2018
+Saúl Ñíguez_2018
+Koke_2018
+Roberto Olabe_2018
+Toni Moya_2018
+Cristian Rodríguez_2018
+Mikel Carro_2018
+Thomas Lemar_2018
+Vitolo_2018
+Víctor Mollejo_2018
+Ángel Correa_2018
+Gelson Martins_2018
+Joaquín Muñoz_2018
+Antoine Griezmann_2018
+Álvaro Morata_2018
+Diego Costa_2018
+Nikola Kalinic_2018
+Borja Garcés_2018
+Sergio Camello_2018
+Jan Oblak_2019
+Antonio Adán_2019
+Álex dos Santos_2019
+José María Giménez_2019
+Stefan Savic_2019
+Felipe_2019
+Mario Hermoso_2019
+Álvaro García_2019
+Renan Lodi_2019
+Manu Sánchez_2019
+Kieran Trippier_2019
+Santiago Arias_2019
+Sime Vrsaljko_2019
+Ricard Sánchez_2019
+Thomas Partey_2019
+Saúl Ñíguez_2019
+Koke_2019
+Marcos Llorente_2019
+Héctor Herrera_2019
+Toni Moya_2019
+Thomas Lemar_2019
+Óscar Clemente_2019
+João Félix_2019
+Yannick Carrasco_2019
+Vitolo_2019
+Rodrigo Riquelme_2019
+Ángel Correa_2019
+Germán Valera_2019
+Álvaro Morata_2019
+Diego Costa_2019
+Sergio Camello_2019
+Ivan Saponjic_2019
+Darío Poveda_2019
+Jan Oblak_2020
+Ivo Grbic_2020
+Miguel San Román_2020
+José María Giménez_2020
+Mario Hermoso_2020
+Stefan Savic_2020
+Felipe_2020
+Nehuén Pérez_2020
+Álvaro García_2020
+Renan Lodi_2020
+Manu Sánchez_2020
+Juan Manuel Sanabria_2020
+Adrián Corral_2020
+Kieran Trippier_2020
+Sime Vrsaljko_2020
+Ricard Sánchez_2020
+Thomas Partey_2020
+Lucas Torreira_2020
+Geoffrey Kondogbia_2020
+Marcos Llorente_2020
+Koke_2020
+Saúl Ñíguez_2020
+Héctor Herrera_2020
+Toni Moya_2020
+Josep Calavera_2020
+Óscar Castro_2020
+Thomas Lemar_2020
+Mario Soriano_2020
+João Félix_2020
+Yannick Carrasco_2020
+Vitolo_2020
+Víctor Mollejo_2020
+Ángel Correa_2020
+Germán Valera_2020
+Moussa Dembélé_2020
+Luis Suárez_2020
+Diego Costa_2020
+Sergio Camello_2020
+Ivan Saponjic_2020
+Jan Oblak_2021
+Benjamin Lecomte_2021
+Ivo Grbic_2021
+Christian Gómez_2021
+Alejandro Iturbe_2021
+Antonio Gomis_2021
+José María Giménez_2021
+Mario Hermoso_2021
+Stefan Savic_2021
+Nehuén Pérez_2021
+Felipe_2021
+Marco Moreno_2021
+Manu Lama_2021
+Joan Rojas_2021
+Fran González_2021
+Ibra Cámara_2021
+Renan Lodi_2021
+Reinildo Mandava_2021
+Kieran Trippier_2021
+Sime Vrsaljko_2021
+Sergio Camus_2021
+Sergio Diez_2021
+Geoffrey Kondogbia_2021
+Javi Serrano_2021
+Marcos Llorente_2021
+Rodrigo de Paul_2021
+Koke_2021
+Saúl Ñíguez_2021
+Daniel Wass_2021
+Héctor Herrera_2021
+Alberto Moreno_2021
+Pablo Barrios_2021
+Thomas Lemar_2021
+João Félix_2021
+Yannick Carrasco_2021
+Ángel Correa_2021
+Antoine Griezmann_2021
+Matheus Cunha_2021
+Luis Suárez_2021
+Sergio Camello_2021
+Ivan Saponjic_2021
+Giuliano Simeone_2021
+Carlos Martín_2021
+Jan Oblak_2022
+Ivo Grbic_2022
+Alejandro Iturbe_2022
+Antonio Gomis_2022
+Sergio Mestre_2022
+José María Giménez_2022
+Mario Hermoso_2022
+Stefan Savic_2022
+Axel Witsel_2022
+Felipe_2022
+Marco Moreno_2022
+Ilias Kostis_2022
+Reinildo Mandava_2022
+Renan Lodi_2022
+Sergio Reguilón_2022
+Adrián Corral_2022
+Nahuel Molina_2022
+Matt Doherty_2022
+Sergio Diez_2022
+Geoffrey Kondogbia_2022
+Rodrigo de Paul_2022
+Marcos Llorente_2022
+Koke_2022
+Saúl Ñíguez_2022
+Pablo Barrios_2022
+Alberto Moreno_2022
+Aitor Gismera_2022
+Thomas Lemar_2022
+Antonio Alemán_2022
+João Félix_2022
+Yannick Carrasco_2022
+Salim El Jebari_2022
+Ángel Correa_2022
+Matheus Cunha_2022
+Antoine Griezmann_2022
+Álvaro Morata_2022
+Memphis Depay_2022
+Carlos Martín_2022
+Diego Bri_2022
+Abde Raihani_2022
+Vicente Guaita_2010
+César Sánchez_2010
+Miguel Ángel Moyá_2010
+Saúl Figueroa_2010
+David Navarro_2010
+Ángel Dealbert_2010
+Ricardo Costa_2010
+Marius Stankevicius_2010
+Jérémy Mathieu_2010
+Jordi Alba_2010
+Miguel_2010
+Bruno Saltor_2010
+Mehmet Topal_2010
+Hedwiges Maduro_2010
+Sofiane Feghouli_2010
+David Albelda_2010
+Éver Banega_2010
+Tino Costa_2010
+Ángel Montoro_2010
+Iván Rubio_2010
+Juan Mata_2010
+Manuel Fernandes_2010
+Alejandro Domínguez_2010
+Ignacio González_2010
+Isco_2010
+Vicente_2010
+Pablo Hernández_2010
+Joaquín_2010
+Jonas_2010
+Roberto Soldado_2010
+Aritz Aduriz_2010
+Paco Alcácer_2010
+Diego Alves_2011
+Vicente Guaita_2011
+Cristiano Figueiredo_2011
+Adil Rami_2011
+Víctor Ruiz_2011
+Ricardo Costa_2011
+Ángel Dealbert_2011
+Jérémy Mathieu_2011
+Jordi Alba_2011
+Juan Bernat_2011
+Miguel_2011
+Bruno Saltor_2011
+Antonio Barragán_2011
+Mehmet Topal_2011
+Sofiane Feghouli_2011
+Hedwiges Maduro_2011
+David Albelda_2011
+Éver Banega_2011
+Tino Costa_2011
+Dani Parejo_2011
+Sergio Canales_2011
+Pablo Piatti_2011
+Pablo Hernández_2011
+Portu_2011
+Jonas_2011
+Roberto Soldado_2011
+Aritz Aduriz_2011
+Paco Alcácer_2011
+Vicente Guaita_2012
+Diego Alves_2012
+Felipe Ramos_2012
+Adil Rami_2012
+Aly Cissokho_2012
+Víctor Ruiz_2012
+Ricardo Costa_2012
+Carlos Delgado_2012
+Álex Quintanilla_2012
+Jérémy Mathieu_2012
+Juan Bernat_2012
+Salva Ruiz_2012
+José Gayà_2012
+João Pereira_2012
+Antonio Barragán_2012
+Albert Dalmau_2012
+Sofiane Feghouli_2012
+Fernando Gago_2012
+David Albelda_2012
+Éver Banega_2012
+Dani Parejo_2012
+Andrés Guardado_2012
+Tino Costa_2012
+Sergio Canales_2012
+Jonathan Viera_2012
+Pablo Piatti_2012
+Portu_2012
+Jonas_2012
+Roberto Soldado_2012
+Nelson Valdez_2012
+Diego Alves_2013
+Vicente Guaita_2013
+Jaume Doménech_2013
+Héctor Pizana_2013
+Antonio Sivera_2013
+Nicolás Otamendi_2013
+Adil Rami_2013
+Aly Cissokho_2013
+Víctor Ruiz_2013
+Ricardo Costa_2013
+Philippe Senderos_2013
+Rúben Vezo_2013
+Sergio Ayala_2013
+Jérémy Mathieu_2013
+Juan Bernat_2013
+José Gayà_2013
+Salva Ruiz_2013
+João Pereira_2013
+Antonio Barragán_2013
+Sofiane Feghouli_2013
+Oriol Romeu_2013
+Javi Fuego_2013
+Lion Kaak_2013
+Éver Banega_2013
+Dani Parejo_2013
+Andrés Guardado_2013
+Míchel Herrero_2013
+Seydou Keita_2013
+Manu Molina_2013
+Mario Arqués_2013
+Sergio Canales_2013
+Jonathan Viera_2013
+Pablo Piatti_2013
+Dorlan Pabón_2013
+Fede Cartabia_2013
+Portu_2013
+Rober Ibáñez_2013
+Jonas_2013
+Eduardo Vargas_2013
+Paco Alcácer_2013
+Hélder Postiga_2013
+Vinícius Araújo_2013
+Diego Alves_2014
+Yoel Rodríguez_2014
+Jaume Doménech_2014
+Nicolás Otamendi_2014
+Shkodran Mustafi_2014
+Lucas Orbán_2014
+Rúben Vezo_2014
+José Gayà_2014
+Salva Ruiz_2014
+Antonio Barragán_2014
+João Cancelo_2014
+Enzo Pérez_2014
+Sofiane Feghouli_2014
+Javi Fuego_2014
+Filipe Augusto_2014
+Bruno Zuculini_2014
+Dani Parejo_2014
+André Gomes_2014
+Rodrigo de Paul_2014
+Tropi_2014
+Carles Gil_2014
+Pablo Piatti_2014
+Rober Ibáñez_2014
+Álvaro Negredo_2014
+Paco Alcácer_2014
+Rodrigo_2014
+Diego Alves_2015
+Mathew Ryan_2015
+Jaume Doménech_2015
+Yoel Rodríguez_2015
+Shkodran Mustafi_2015
+Aymen Abdennour_2015
+Aderllan Santos_2015
+Lucas Orbán_2015
+Rúben Vezo_2015
+Ibrahim Diallo_2015
+José Gayà_2015
+Guilherme Siqueira_2015
+Toni Lato_2015
+Diego Caballo_2015
+João Cancelo_2015
+Antonio Barragán_2015
+Sofiane Feghouli_2015
+Enzo Pérez_2015
+Danilo Barbosa_2015
+Javi Fuego_2015
+André Gomes_2015
+Dani Parejo_2015
+Rodrigo de Paul_2015
+Wilfried Zahibo_2015
+Tropi_2015
+Carlos Soler_2015
+Fran Villalba_2015
+Denis Cheryshev_2015
+Pablo Piatti_2015
+Zakaria Bakkali_2015
+Sito_2015
+Nacho Gil_2015
+Iban Salvador_2015
+Paco Alcácer_2015
+Rodrigo_2015
+Álvaro Negredo_2015
+Santi Mina_2015
+Rafa Mir_2015
+Diego Alves_2016
+Mathew Ryan_2016
+Jaume Doménech_2016
+Shkodran Mustafi_2016
+Eliaquim Mangala_2016
+Ezequiel Garay_2016
+Aymen Abdennour_2016
+Aderllan Santos_2016
+Rúben Vezo_2016
+Javi Jiménez_2016
+José Gayà_2016
+Toni Lato_2016
+Guilherme Siqueira_2016
+João Cancelo_2016
+Martín Montoya_2016
+Nacho Vidal_2016
+Enzo Pérez_2016
+Mario Suárez_2016
+Dani Parejo_2016
+Carlos Soler_2016
+Álvaro Medrán_2016
+Eugeni_2016
+Nani_2016
+Zakaria Bakkali_2016
+Nacho Gil_2016
+Sito_2016
+Munir El Haddadi_2016
+Fabián Orellana_2016
+Rober Ibáñez_2016
+Fede Cartabia_2016
+Nando García_2016
+Paco Alcácer_2016
+Simone Zaza_2016
+Álvaro Negredo_2016
+Rodrigo_2016
+Santi Mina_2016
+Vinícius Araújo_2016
+Rafa Mir_2016
+Neto_2017
+Jaume Doménech_2017
+Cristian Rivero_2017
+Gabriel Paulista_2017
+Jeison Murillo_2017
+Ezequiel Garay_2017
+Rúben Vezo_2017
+Javi Jiménez_2017
+José Gayà_2017
+Toni Lato_2017
+João Cancelo_2017
+Martín Montoya_2017
+Nacho Vidal_2017
+Geoffrey Kondogbia_2017
+Francis Coquelin_2017
+Carlos Soler_2017
+Dani Parejo_2017
+Nemanja Maksimovic_2017
+Álvaro Medrán_2017
+Gonzalo Villar_2017
+Andreas Pereira_2017
+Gonçalo Guedes_2017
+Ferran Torres_2017
+Nacho Gil_2017
+Fabián Orellana_2017
+Rober Ibáñez_2017
+Rodrigo_2017
+Simone Zaza_2017
+Santi Mina_2017
+Luciano Vietto_2017
+Neto_2018
+Jaume Doménech_2018
+Cristian Rivero_2018
+Gabriel Paulista_2018
+Mouctar Diakhaby_2018
+Jeison Murillo_2018
+Cristiano Piccini_2018
+Ezequiel Garay_2018
+Rúben Vezo_2018
+Facundo Roncaglia_2018
+José Gayà_2018
+Toni Lato_2018
+Álex Centelles_2018
+Geoffrey Kondogbia_2018
+Francis Coquelin_2018
+Uroš Račić_2018
+Hugo Guillamón_2018
+Carlos Soler_2018
+Dani Parejo_2018
+Daniel Wass_2018
+Kang-in Lee_2018
+Gonçalo Guedes_2018
+Ferran Torres_2018
+Denis Cheryshev_2018
+Nacho Gil_2018
+Álex Blanco_2018
+Sito_2018
+Rodrigo_2018
+Santi Mina_2018
+Michy Batshuayi_2018
+Kévin Gameiro_2018
+Rubén Sobrino_2018
+Fran Navarro_2018
+Jasper Cillessen_2019
+Jaume Doménech_2019
+Cristian Rivero_2019
+Gabriel Paulista_2019
+Mouctar Diakhaby_2019
+Eliaquim Mangala_2019
+Cristiano Piccini_2019
+Ezequiel Garay_2019
+Javi Jiménez_2019
+Guillem Molina_2019
+José Gayà_2019
+Jaume Costa_2019
+Alessandro Florenzi_2019
+Thierry Correia_2019
+Geoffrey Kondogbia_2019
+Francis Coquelin_2019
+Hugo Guillamón_2019
+Carlos Soler_2019
+Dani Parejo_2019
+Daniel Wass_2019
+Koba Koindredi_2019
+Adrián Guerrero_2019
+Kang-in Lee_2019
+Vicente Esquerdo_2019
+Pablo Gozálbez_2019
+Ferran Torres_2019
+Gonçalo Guedes_2019
+Denis Cheryshev_2019
+Manu Vallejo_2019
+Rodrigo_2019
+Maxi Gómez_2019
+Kévin Gameiro_2019
+Rubén Sobrino_2019
+Jasper Cillessen_2020
+Jaume Doménech_2020
+Cristian Rivero_2020
+Unai Etxebarria_2020
+Gabriel Paulista_2020
+Mouctar Diakhaby_2020
+Ferro_2020
+Eliaquim Mangala_2020
+Cristiano Piccini_2020
+Guillem Molina_2020
+Kevin Sibille_2020
+José Gayà_2020
+Toni Lato_2020
+Álex Centelles_2020
+Jesús Vázquez_2020
+Thierry Correia_2020
+Geoffrey Kondogbia_2020
+Uroš Račić_2020
+Hugo Guillamón_2020
+Christian Oliva_2020
+Carlos Soler_2020
+Yunus Musah_2020
+Daniel Wass_2020
+Koba Koindredi_2020
+Kang-in Lee_2020
+Vicente Esquerdo_2020
+Gonçalo Guedes_2020
+Denis Cheryshev_2020
+Álex Blanco_2020
+Jason_2020
+Manu Vallejo_2020
+Maxi Gómez_2020
+Patrick Cutrone_2020
+Kévin Gameiro_2020
+Rubén Sobrino_2020
+Giorgi Mamardashvili_2021
+Jasper Cillessen_2021
+Jaume Doménech_2021
+Cristian Rivero_2021
+Charlie Pérez_2021
+Omar Alderete_2021
+Gabriel Paulista_2021
+Mouctar Diakhaby_2021
+Eray Cömert_2021
+Cristiano Piccini_2021
+Cristhian Mosquera_2021
+César Tárrega_2021
+Rubén Iranzo_2021
+José Gayà_2021
+Jesús Vázquez_2021
+Toni Lato_2021
+Thierry Correia_2021
+Dimitri Foulquier_2021
+Joseda Menargues_2021
+Hugo Guillamón_2021
+Uroš Račić_2021
+Carlos Soler_2021
+Yunus Musah_2021
+Ilaix Moriba_2021
+Daniel Wass_2021
+Koba Koindredi_2021
+Javi Guerra_2021
+Lass Sangaré_2021
+Yellu Santiago_2021
+Pedro Alemañ_2021
+Gonçalo Guedes_2021
+Denis Cheryshev_2021
+Álex Blanco_2021
+Diego López_2021
+Bryan Gil_2021
+Hélder Costa_2021
+Jason_2021
+Hugo González_2021
+Manu Vallejo_2021
+Maxi Gómez_2021
+Hugo Duro_2021
+Marcos André_2021
+Rubén Sobrino_2021
+Mario Dominguez_2021
+Giorgi Mamardashvili_2022
+Jaume Doménech_2022
+Iago Herrerín_2022
+Emilio Bernad_2022
+Cristian Rivero_2022
+Charlie Pérez_2022
+Mouctar Diakhaby_2022
+Cenk Özkacar_2022
+Eray Cömert_2022
+Gabriel Paulista_2022
+Cristhian Mosquera_2022
+Rubén Iranzo_2022
+José Gayà_2022
+Jesús Vázquez_2022
+Toni Lato_2022
+Thierry Correia_2022
+Dimitri Foulquier_2022
+Hugo Guillamón_2022
+Uroš Račić_2022
+Carlos Soler_2022
+André Almeida_2022
+Yunus Musah_2022
+Nico González_2022
+Ilaix Moriba_2022
+Javi Guerra_2022
+Koba Koindredi_2022
+Tiago Ribeiro_2022
+Yellu Santiago_2022
+Samuel Lino_2022
+Justin Kluivert_2022
+Diego López_2022
+Samu Castillejo_2022
+Fran Pérez_2022
+Manu Vallejo_2022
+Maxi Gómez_2022
+Hugo Duro_2022
+Edinson Cavani_2022
+Marcos André_2022
+Alberto Marí_2022
+Mario Dominguez_2022
+Javi Varas_2010
+Andrés Palop_2010
+Dani Jiménez_2010
+Martín Cáceres_2010
+Sébastien Squillaci_2010
+Gary Medel_2010
+Alexis Ruano_2010
+Sergio Sánchez_2010
+Federico Fazio_2010
+Julien Escudé_2010
+Juan Cala_2010
+Ivica Dragutinovic_2010
+Bernardo Espinosa_2010
+Fernando Navarro_2010
+Antonio Luna_2010
+Jesús Navas_2010
+Mouhamadou Dabo_2010
+Abdoulay Konko_2010
+Didier Zokora_2010
+Romaric_2010
+Luca Cigarini_2010
+Ivan Rakitic_2010
+Tiberio Guarente_2010
+Renato_2010
+Luis Alberto_2010
+José Campaña_2010
+José Carlos_2010
+Diego Perotti_2010
+Diego Capel_2010
+Alejandro Alfaro_2010
+Lautaro Acosta_2010
+Álvaro Negredo_2010
+Frédéric Kanouté_2010
+Luís Fabiano_2010
+Arouna Koné_2010
+Rodri Ríos_2010
+Javi Varas_2011
+Andrés Palop_2011
+Dani Jiménez_2011
+Julián Cuesta_2011
+Sergio Rico_2011
+Martín Cáceres_2011
+Gary Medel_2011
+Federico Fazio_2011
+Emir Spahić_2011
+Alexis Ruano_2011
+Julien Escudé_2011
+Juan Cala_2011
+Deivid_2011
+Fernando Navarro_2011
+Antonio Luna_2011
+Samu de los Reyes_2011
+Alberto Moreno_2011
+Jesús Navas_2011
+Coke_2011
+Ivan Rakitic_2011
+Tiberio Guarente_2011
+José Campaña_2011
+Luis Alberto_2011
+Salva Rivas_2011
+Tom De Mul_2011
+Piotr Trochowski_2011
+Diego Perotti_2011
+Emiliano Armenteros_2011
+José Antonio Reyes_2011
+Álvaro Negredo_2011
+Manu del Moral_2011
+Baba_2011
+Frédéric Kanouté_2011
+Hiroshi Ibusuki_2011
+Diego López_2012
+Beto_2012
+Julián Cuesta_2012
+Andrés Palop_2012
+Sergio Rico_2012
+Gary Medel_2012
+Federico Fazio_2012
+Alberto Botía_2012
+Emir Spahić_2012
+Juan Cala_2012
+Bernardo Espinosa_2012
+Israel Puerto_2012
+Fernando Navarro_2012
+Alberto Moreno_2012
+Antonio Luna_2012
+Jesús Navas_2012
+Cicinho_2012
+Coke_2012
+Geoffrey Kondogbia_2012
+Hedwiges Maduro_2012
+Ivan Rakitic_2012
+José Campaña_2012
+Javi Hervás_2012
+Antonio Cotán_2012
+Piotr Trochowski_2012
+Bryan Rabello_2012
+Diego Perotti_2012
+José Antonio Reyes_2012
+Miroslav Stevanovic_2012
+Álvaro Negredo_2012
+Manu del Moral_2012
+Baba_2012
+Álex Rubio_2012
+Gonzalo Suárez_2012
+Beto_2013
+Javi Varas_2013
+Julián Cuesta_2013
+Sergio Rico_2013
+Federico Fazio_2013
+Daniel Carriço_2013
+Nicolás Pareja_2013
+Juan Cala_2013
+Israel Puerto_2013
+Alberto Moreno_2013
+Fernando Navarro_2013
+Moi Delgado_2013
+Cicinho_2013
+Diogo Figueiras_2013
+Coke_2013
+Modesto_2013
+Geoffrey Kondogbia_2013
+Stéphane Mbia_2013
+Vicente Iborra_2013
+Hedwiges Maduro_2013
+Luismi Sánchez_2013
+Ivan Rakitic_2013
+Sebastián Cristóforo_2013
+Antonio Cotán_2013
+Marko Marin_2013
+Bryan Rabello_2013
+Piotr Trochowski_2013
+Vitolo_2013
+Diego Perotti_2013
+Denis Cheryshev_2013
+José Antonio Reyes_2013
+Jairo Samperio_2013
+Carlos Bacca_2013
+Kévin Gameiro_2013
+Raul Rusescu_2013
+Carlos Fernández_2013
+Gonzalo Suárez_2013
+Beto_2014
+Sergio Rico_2014
+Mariano Barbosa_2014
+David Soria_2014
+Juan Soriano_2014
+Federico Fazio_2014
+Daniel Carriço_2014
+Nicolás Pareja_2014
+Timothée Kolodziejczak_2014
+Alejandro Arribas_2014
+Benoît Trémoulinas_2014
+Fernando Navarro_2014
+Coke_2014
+Diogo Figueiras_2014
+Modesto_2014
+Grzegorz Krychowiak_2014
+Stéphane Mbia_2014
+Vicente Iborra_2014
+Luismi Sánchez_2014
+Éver Banega_2014
+Sebastián Cristóforo_2014
+Antonio Cotán_2014
+Fran Tena_2014
+Denis Suárez_2014
+Vitolo_2014
+Aleix Vidal_2014
+José Antonio Reyes_2014
+Jairo Samperio_2014
+Carlos Bacca_2014
+Kévin Gameiro_2014
+Gerard Deulofeu_2014
+Iago Aspas_2014
+Carlos Fernández_2014
+Juan Muñoz_2014
+Sergio Rico_2015
+Beto_2015
+David Soria_2015
+Federico Fazio_2015
+Adil Rami_2015
+Timothée Kolodziejczak_2015
+Daniel Carriço_2015
+Marco Andreolli_2015
+Nicolás Pareja_2015
+Diego González_2015
+Benoît Trémoulinas_2015
+Sergio Escudero_2015
+José Matos_2015
+Mariano_2015
+Coke_2015
+Diogo Figueiras_2015
+David Carmona_2015
+Grzegorz Krychowiak_2015
+Steven Nzonzi_2015
+Vicente Iborra_2015
+Luismi Sánchez_2015
+Éver Banega_2015
+Michael Krohn-Dehli_2015
+Sebastián Cristóforo_2015
+Antonio Cotán_2015
+Denis Suárez_2015
+Gaël Kakuta_2015
+Borja Lasso_2015
+Ivi López_2015
+Yevgen Konoplyanka_2015
+Vitolo_2015
+José Antonio Reyes_2015
+Curro Sánchez_2015
+Kévin Gameiro_2015
+Ciro Immobile_2015
+Fernando Llorente_2015
+Juan Muñoz_2015
+Carlos Fernández_2015
+Sergio Rico_2016
+Salvatore Sirigu_2016
+David Soria_2016
+José Antonio Caro_2016
+Clément Lenglet_2016
+Timothée Kolodziejczak_2016
+Adil Rami_2016
+Gabriel Mercado_2016
+Daniel Carriço_2016
+Diego González_2016
+Nicolás Pareja_2016
+Cristian Tassano_2016
+Álex Muñoz_2016
+Sergio Escudero_2016
+Benoît Trémoulinas_2016
+José Matos_2016
+Mariano_2016
+Alejandro Pozo_2016
+David Carmona_2016
+Steven Nzonzi_2016
+Vicente Iborra_2016
+Matías Kranevitter_2016
+Michael Krohn-Dehli_2016
+Walter Montoya_2016
+Franco Vázquez_2016
+Samir Nasri_2016
+Hiroshi Kiyotake_2016
+Ganso_2016
+Borja Lasso_2016
+Pepe Mena_2016
+Vitolo_2016
+Yevgen Konoplyanka_2016
+Pablo Sarabia_2016
+Joaquín Correa_2016
+Wissam Ben Yedder_2016
+Luciano Vietto_2016
+Stevan Jovetic_2016
+Carlos Fernández_2016
+Sergio Rico_2017
+David Soria_2017
+Juan Soriano_2017
+Clément Lenglet_2017
+Simon Kjaer_2017
+Guido Pizarro_2017
+Gabriel Mercado_2017
+Daniel Carriço_2017
+Nicolás Pareja_2017
+Sergio Escudero_2017
+Guilherme Arana_2017
+Lionel Carole_2017
+Miguel Layún_2017
+Jesús Navas_2017
+Sébastien Corchia_2017
+Alejandro Pozo_2017
+Steven Nzonzi_2017
+Johannes Geis_2017
+Éver Banega_2017
+Roque Mesa_2017
+Michael Krohn-Dehli_2017
+Walter Montoya_2017
+Franco Vázquez_2017
+Ganso_2017
+Borja Lasso_2017
+Nolito_2017
+José Alonso Lara_2017
+Pablo Sarabia_2017
+Joaquín Correa_2017
+Wissam Ben Yedder_2017
+Luis Muriel_2017
+Sandro Ramírez_2017
+Carlos Fernández_2017
+Tomas Vaclik_2018
+Sergio Rico_2018
+Juan Soriano_2018
+Lucho García_2018
+Javi Díaz_2018
+Maximilian Wöber_2018
+Sergi Gómez_2018
+Simon Kjaer_2018
+Joris Gnagnon_2018
+Daniel Carriço_2018
+Gabriel Mercado_2018
+Nicolás Pareja_2018
+Juan Berrocal_2018
+Sergio Escudero_2018
+Guilherme Arana_2018
+Javi Vázquez_2018
+Jesús Navas_2018
+Sébastien Corchia_2018
+Ibrahim Amadou_2018
+Maxime Gonalons_2018
+Éver Banega_2018
+Roque Mesa_2018
+Marko Rog_2018
+Franco Vázquez_2018
+Ganso_2018
+Borja Lasso_2018
+Pepe Mena_2018
+Quincy Promes_2018
+Nolito_2018
+Pejiño_2018
+Pablo Sarabia_2018
+Munir El Haddadi_2018
+Bryan Gil_2018
+Aleix Vidal_2018
+Wissam Ben Yedder_2018
+André Silva_2018
+Luis Muriel_2018
+Marc Gual_2018
+Tomas Vaclik_2019
+Sergio Rico_2019
+Bono_2019
+Javi Díaz_2019
+Alfonso Pastor_2019
+Diego Carlos_2019
+Jules Koundé_2019
+Nemanja Gudelj_2019
+Sergi Gómez_2019
+Daniel Carriço_2019
+Sergio Reguilón_2019
+Sergio Escudero_2019
+Felipe Chacartegui_2019
+Pablo Pérez_2019
+Alejandro Pozo_2019
+Jesús Navas_2019
+Juanlu Sánchez_2019
+Fernando_2019
+Genaro Rodríguez_2019
+Joan Jordán_2019
+Óliver Torres_2019
+Éver Banega_2019
+Franco Vázquez_2019
+Pepe Mena_2019
+Lucas Ocampos_2019
+Nolito_2019
+José Alonso Lara_2019
+Suso_2019
+Rony Lopes_2019
+Munir El Haddadi_2019
+Bryan Gil_2019
+Youssef En-Nesyri_2019
+Luuk de Jong_2019
+Munas Dabbur_2019
+Chicharito_2019
+Bono_2020
+Tomas Vaclik_2020
+Javi Díaz_2020
+Alfonso Pastor_2020
+Adrián González_2020
+Jules Koundé_2020
+Diego Carlos_2020
+Nemanja Gudelj_2020
+Sergi Gómez_2020
+Karim Rekik_2020
+Joris Gnagnon_2020
+Kike Ríos_2020
+Marcos Acuña_2020
+Sergio Escudero_2020
+Javi Vázquez_2020
+Pablo Pérez_2020
+Alejandro Pozo_2020
+Jesús Navas_2020
+Juanlu Sánchez_2020
+Fernando_2020
+Joan Jordán_2020
+Óliver Torres_2020
+Ivan Rakitic_2020
+Óscar Rodríguez_2020
+Franco Vázquez_2020
+Carlos Álvarez_2020
+Lucas Ocampos_2020
+Papu Gómez_2020
+Oussama Idrissi_2020
+Bryan Gil_2020
+Suso_2020
+Munir El Haddadi_2020
+Aleix Vidal_2020
+Antonio Zarzana_2020
+Youssef En-Nesyri_2020
+Luuk de Jong_2020
+Carlos Fernández_2020
+Iván Romero_2020
+Bono_2021
+Marko Dmitrovic_2021
+Javi Díaz_2021
+Alfonso Pastor_2021
+Adrián González_2021
+Alberto Flores_2021
+Jules Koundé_2021
+Diego Carlos_2021
+Karim Rekik_2021
+Nemanja Gudelj_2021
+Kike Salas_2021
+Marcos Acuña_2021
+Ludwig Augustinsson_2021
+Juan María Alcedo_2021
+Pablo Pérez_2021
+Gonzalo Montiel_2021
+Alejandro Pozo_2021
+Jesús Navas_2021
+Juanlu Sánchez_2021
+Valentino Fattore_2021
+José Ángel Carmona_2021
+Fernando_2021
+Pedro Ortiz_2021
+Joan Jordán_2021
+Óliver Torres_2021
+Ivan Rakitic_2021
+Thomas Delaney_2021
+Óscar Rodríguez_2021
+Nacho Quintana_2021
+Lucas Ocampos_2021
+Papu Gómez_2021
+Oussama Idrissi_2021
+Jesús Corona_2021
+Erik Lamela_2021
+Suso_2021
+Munir El Haddadi_2021
+Luismi Cruz_2021
+Antonio Zarzana_2021
+Youssef En-Nesyri_2021
+Rafa Mir_2021
+Anthony Martial_2021
+Luuk de Jong_2021
+Iván Romero_2021
+Bono_2022
+Marko Dmitrovic_2022
+Alberto Flores_2022
+Matías Árbol_2022
+Marius Herzig_2022
+Loïc Badé_2022
+Tanguy Nianzou_2022
+Marcão_2022
+Karim Rekik_2022
+Nemanja Gudelj_2022
+Kike Salas_2022
+Marcos Acuña_2022
+Alex Telles_2022
+Pablo Pérez_2022
+Diego Hormigo_2022
+Gonzalo Montiel_2022
+José Ángel Carmona_2022
+Jesús Navas_2022
+Pape Gueye_2022
+Fernando_2022
+Pedro Ortiz_2022
+Joan Jordán_2022
+Óliver Torres_2022
+Ivan Rakitic_2022
+Thomas Delaney_2022
+Manu Bueno_2022
+Xavi Sintes_2022
+Isco_2022
+Carlos Álvarez_2022
+Nacho Quintana_2022
+Lucas Ocampos_2022
+Papu Gómez_2022
+Bryan Gil_2022
+Erik Lamela_2022
+Jesús Corona_2022
+Adnan Januzaj_2022
+Suso_2022
+Munir El Haddadi_2022
+Youssef En-Nesyri_2022
+Rafa Mir_2022
+Kasper Dolberg_2022
+Iván Romero_2022
+Diego López_2010
+Juan Carlos_2010
+Diego Mariño_2010
+Xavier Oliva_2010
+José Manuel Catalá_2010
+Gonzalo Rodríguez_2010
+Carlos Marchena_2010
+Mateo Musacchio_2010
+Mario Gaspar_2010
+Kiko Olivas_2010
+Carlos Tomás_2010
+Joan Capdevila_2010
+Joan Oriol_2010
+Ángel López_2010
+Cicinho_2010
+Bruno Soriano_2010
+Marcos Senna_2010
+Santi Cazorla_2010
+Borja Valero_2010
+Mubarak Wakaso_2010
+Javier Matilla_2010
+Marcos Gullón_2010
+Cristóbal Márquez_2010
+Natxo Insa_2010
+Gonzalo Castellani_2010
+Cani_2010
+Jefferson Montero_2010
+Iago Falque_2010
+Hernán Pérez_2010
+Giuseppe Rossi_2010
+Nilmar_2010
+Marco Ruben_2010
+Jozy Altidore_2010
+Nicki Bille Nielsen_2010
+Diego López_2011
+Diego Mariño_2011
+César Sánchez_2011
+José Manuel Catalá_2011
+Gonzalo Rodríguez_2011
+Mateo Musacchio_2011
+Cristián Zapata_2011
+Carlos Marchena_2011
+Mario Gaspar_2011
+Florian Lejeune_2011
+Pablo Iñiguez_2011
+Carlos Tomás_2011
+Joan Oriol_2011
+Jaume Costa_2011
+Ángel López_2011
+Bruno Soriano_2011
+Jonathan de Guzmán_2011
+Marcos Senna_2011
+Borja Valero_2011
+Mubarak Wakaso_2011
+Marcos Gullón_2011
+Gonzalo Castellani_2011
+Manu Trigueros_2011
+Jordi Pablo_2011
+Cani_2011
+Moi Gómez_2011
+Hernán Pérez_2011
+Javier Camuñas_2011
+Fofo_2011
+Giuseppe Rossi_2011
+Nilmar_2011
+Marco Ruben_2011
+Alejandro Martinuccio_2011
+Joselu Moreno_2011
+Gerard Bordas_2011
+Sergio Asenjo_2013
+Juan Carlos_2013
+Aitor Fernández_2013
+Mateo Musacchio_2013
+Mario Gaspar_2013
+Gabriel Paulista_2013
+Aleksandar Pantic_2013
+Pablo Iñiguez_2013
+Chechu Dorado_2013
+Diego Jiménez_2013
+Jaume Costa_2013
+Bojan Jokic_2013
+Javier Aquino_2013
+Albert Blázquez_2013
+Bruno Soriano_2013
+Óliver Torres_2013
+Tomás Pina_2013
+Manu Trigueros_2013
+Edu Ramos_2013
+Cani_2013
+Joan Román_2013
+Matías Nahuel_2013
+Moi Gómez_2013
+Hernán Pérez_2013
+Giovani dos Santos_2013
+Ikechukwu Uche_2013
+Jérémy Perbet_2013
+Jonathan Pereira_2013
+Juanto Ortuño_2013
+Sergio Asenjo_2014
+Juan Carlos_2014
+Aitor Fernández_2014
+Miguel Bañuz_2014
+Gabriel Paulista_2014
+Mateo Musacchio_2014
+Mario Gaspar_2014
+Víctor Ruiz_2014
+Eric Bailly_2014
+Chechu Dorado_2014
+Israel Puerto_2014
+Jaume Costa_2014
+Adrián Marín_2014
+Bojan Jokic_2014
+Alfonso Pedraza_2014
+Javi Jiménez_2014
+Antonio Rukavina_2014
+Felipe Alfonso_2014
+Bruno Soriano_2014
+Jonathan dos Santos_2014
+Anton Shvets_2014
+Manu Trigueros_2014
+Tomás Pina_2014
+Javier Espinosa_2014
+Sergio Marcos_2014
+Aleix García_2014
+Cani_2014
+Matías Nahuel_2014
+Denis Cheryshev_2014
+Moi Gómez_2014
+José Naranjo_2014
+Joel Campbell_2014
+Giovani dos Santos_2014
+Luciano Vietto_2014
+Ikechukwu Uche_2014
+Gerard Moreno_2014
+Fran Sol_2014
+Alphonse Areola_2015
+Sergio Asenjo_2015
+Mariano Barbosa_2015
+Mario Gaspar_2015
+Mateo Musacchio_2015
+Eric Bailly_2015
+Víctor Ruiz_2015
+Daniele Bonera_2015
+Pablo Iñiguez_2015
+Jaume Costa_2015
+Bojan Jokic_2015
+Adrián Marín_2015
+Alfonso Pedraza_2015
+Antonio Rukavina_2015
+Miguel Llambrich_2015
+Bruno Soriano_2015
+Jonathan dos Santos_2015
+Rodri_2015
+Manu Trigueros_2015
+Tomás Pina_2015
+Denis Suárez_2015
+Matías Nahuel_2015
+Samu Castillejo_2015
+Samu García_2015
+Roberto Soldado_2015
+Cédric Bakambu_2015
+Léo Baptistão_2015
+Adrián López_2015
+Sergio Asenjo_2016
+Andrés Fernández_2016
+Mariano Barbosa_2016
+Mateo Musacchio_2016
+Mario Gaspar_2016
+Víctor Ruiz_2016
+Álvaro González_2016
+Pau Torres_2016
+Daniele Bonera_2016
+Jaume Costa_2016
+Cote_2016
+Antonio Rukavina_2016
+Jonathan dos Santos_2016
+Alfred N'Diaye_2016
+Bruno Soriano_2016
+Rodri_2016
+Manu Trigueros_2016
+Pablo Larrea_2016
+Ramón Bueno_2016
+Roberto Soriano_2016
+Nicola Sansone_2016
+Denis Cheryshev_2016
+José Carlos Lazo_2016
+Samu Castillejo_2016
+Leo Suárez_2016
+Aitor Cantalapiedra_2016
+Dani Raba_2016
+Cédric Bakambu_2016
+Roberto Soldado_2016
+Alexandre Pato_2016
+Adrián López_2016
+Rafael Borré_2016
+Mario González_2016
+Darío Poveda_2016
+Sergio Asenjo_2017
+Andrés Fernández_2017
+Mariano Barbosa_2017
+Ander Cantero_2017
+Mario Gaspar_2017
+Víctor Ruiz_2017
+Álvaro González_2017
+Rúben Semedo_2017
+Pau Torres_2017
+Daniele Bonera_2017
+Genís Montolio_2017
+Pepe Castaño_2017
+Jaume Costa_2017
+Adrián Marín_2017
+Antonio Rukavina_2017
+Rodri_2017
+Alfred N'Diaye_2017
+Javi Fuego_2017
+Bruno Soriano_2017
+Manu Trigueros_2017
+Manu Morlanes_2017
+Chuca_2017
+Imanol García_2017
+Ramiro Guerra_2017
+Pedro Martínez_2017
+Sergio Lozano_2017
+Pablo Fornals_2017
+Roberto Soriano_2017
+Nicola Sansone_2017
+Denis Cheryshev_2017
+Roger Martínez_2017
+Salem Al-Dawsari_2017
+Samu Castillejo_2017
+Dani Raba_2017
+Leo Suárez_2017
+Cédric Bakambu_2017
+Carlos Bacca_2017
+Enes Ünal_2017
+Darío Poveda_2017
+Mario González_2017
+Sergio Asenjo_2018
+Andrés Fernández_2018
+Mariano Barbosa_2018
+Mario Gaspar_2018
+Álvaro González_2018
+Ramiro Funes Mori_2018
+Víctor Ruiz_2018
+Daniele Bonera_2018
+Pepe Castaño_2018
+Alfonso Pedraza_2018
+Jaume Costa_2018
+Xavi Quintillà_2018
+Miguel Layún_2018
+Miguel Llambrich_2018
+Andrei Rațiu_2018
+Santiago Cáseres_2018
+Vicente Iborra_2018
+Javi Fuego_2018
+Bruno Soriano_2018
+Manuel Iturra_2018
+Manu Trigueros_2018
+Santi Cazorla_2018
+Manu Morlanes_2018
+Pablo Fornals_2018
+Iván Martín_2018
+Nicola Sansone_2018
+Samuel Chukwueze_2018
+Dani Raba_2018
+Gerard Moreno_2018
+Karl Toko Ekambi_2018
+Carlos Bacca_2018
+Enes Ünal_2018
+Sergio Asenjo_2019
+Andrés Fernández_2019
+Mariano Barbosa_2019
+Pau Torres_2019
+Mario Gaspar_2019
+Ramiro Funes Mori_2019
+Raúl Albiol_2019
+Soufiane Chakla_2019
+Alberto Moreno_2019
+Xavi Quintillà_2019
+Rubén Peña_2019
+Andrei Rațiu_2019
+Migue Leal_2019
+Vicente Iborra_2019
+Santiago Cáseres_2019
+Bruno Soriano_2019
+Frank Anguissa_2019
+Manu Trigueros_2019
+Santi Cazorla_2019
+Manu Morlanes_2019
+Ramiro Guerra_2019
+Sergio Lozano_2019
+Iván Martín_2019
+Álex Baena_2019
+Javi Ontiveros_2019
+Moi Gómez_2019
+Samuel Chukwueze_2019
+Leo Suárez_2019
+Paco Alcácer_2019
+Gerard Moreno_2019
+Karl Toko Ekambi_2019
+Carlos Bacca_2019
+Fer Niño_2019
+Sergio Asenjo_2020
+Gerónimo Rulli_2020
+Filip Jørgensen_2020
+Iker Álvarez_2020
+Pau Torres_2020
+Mario Gaspar_2020
+Raúl Albiol_2020
+Ramiro Funes Mori_2020
+Soufiane Chakla_2020
+Alfonso Pedraza_2020
+Pervis Estupiñán_2020
+Alberto Moreno_2020
+Jaume Costa_2020
+Juan Foyth_2020
+Rubén Peña_2020
+Andrei Rațiu_2020
+Lanchi_2020
+Francis Coquelin_2020
+Vicente Iborra_2020
+Étienne Capoue_2020
+Manu Trigueros_2020
+Dani Parejo_2020
+Sergio Lozano_2020
+Álex Baena_2020
+Carlo García_2020
+Moi Gómez_2020
+Javi Ontiveros_2020
+Samuel Chukwueze_2020
+Takefusa Kubo_2020
+Yéremy Pino_2020
+Dani Raba_2020
+Gerard Moreno_2020
+Paco Alcácer_2020
+Fer Niño_2020
+Carlos Bacca_2020
+Álex Millán_2020
+Gerónimo Rulli_2021
+Sergio Asenjo_2021
+Iker Álvarez_2021
+Filip Jørgensen_2021
+Pau Torres_2021
+Jorge Cuenca_2021
+Aïssa Mandi_2021
+Mario Gaspar_2021
+Raúl Albiol_2021
+Adrián de la Fuente_2021
+Pervis Estupiñán_2021
+Alfonso Pedraza_2021
+Alberto Moreno_2021
+Dani Tasende_2021
+Juan Foyth_2021
+Serge Aurier_2021
+Rubén Peña_2021
+Lanchi_2021
+Francis Coquelin_2021
+Étienne Capoue_2021
+Vicente Iborra_2021
+Manu Trigueros_2021
+Dani Parejo_2021
+Manu Morlanes_2021
+Antonio Pacheco_2021
+Giovani Lo Celso_2021
+Carlo García_2021
+Arnaut Danjuma_2021
+Moi Gómez_2021
+Nikita Iosifov_2021
+Yéremy Pino_2021
+Samuel Chukwueze_2021
+Dani Raba_2021
+Gerard Moreno_2021
+Boulaye Dia_2021
+Paco Alcácer_2021
+Fer Niño_2021
+Nicolas Jackson_2021
+Juan Carlos Arana_2021
+Gerónimo Rulli_2022
+Filip Jørgensen_2022
+Pepe Reina_2022
+Iker Álvarez_2022
+Gianni Cassaro_2022
+Pau Torres_2022
+Jorge Cuenca_2022
+Aïssa Mandi_2022
+Mamadou Mbacke_2022
+Raúl Albiol_2022
+Adrián de la Fuente_2022
+Pervis Estupiñán_2022
+Alfonso Pedraza_2022
+Johan Mojica_2022
+Alberto Moreno_2022
+Dani Tasende_2022
+Carlos Romero_2022
+Juan Foyth_2022
+Kiko Femenía_2022
+Sergio Carreira_2022
+Marcos Sánchez_2022
+Ramón Terrats_2022
+Étienne Capoue_2022
+Francis Coquelin_2022
+Dani Parejo_2022
+Manu Morlanes_2022
+Manu Trigueros_2022
+Alberto del Moral_2022
+Antonio Pacheco_2022
+Rodri Alonso_2022
+Álex Baena_2022
+Giovani Lo Celso_2022
+Carlo García_2022
+Arnaut Danjuma_2022
+Diego Collado_2022
+Yéremy Pino_2022
+Samuel Chukwueze_2022
+Haissem Hassan_2022
+Nicolas Jackson_2022
+Gerard Moreno_2022
+Fer Niño_2022
+José Luis Morales_2022
+Jorge Pascual_2022
+Gorka Iraizoz_2010
+Raúl Fernández_2010
+Aitor Fernández_2010
+Fernando Amorebieta_2010
+Carlos Gurpegui_2010
+Jon Aurtenetxe_2010
+Ustaritz_2010
+Borja Ekiza_2010
+Aitor Ocio_2010
+Koikili_2010
+Mikel Balenziaga_2010
+Xabier Castillo_2010
+Andoni Iraola_2010
+Óscar de Marcos_2010
+Javi Martínez_2010
+Mikel San José_2010
+Pablo Orbaiz_2010
+Ander Iturraspe_2010
+David López_2010
+Iñigo Pérez_2010
+Igor Gabilondo_2010
+Iker Muniain_2010
+Igor Martínez_2010
+Ibai Gómez_2010
+Markel Susaeta_2010
+Gaizka Toquero_2010
+Fernando Llorente_2010
+Iñigo Díaz de Cerio_2010
+Ion Vélez_2010
+Urko Vera_2010
+Gorka Iraizoz_2011
+Raúl Fernández_2011
+Kepa Arrizabalaga_2011
+Fernando Amorebieta_2011
+Borja Ekiza_2011
+Jon Aurtenetxe_2011
+Carlos Gurpegui_2011
+Aitor Ocio_2011
+Jonás Ramalho_2011
+Xabier Castillo_2011
+Koikili_2011
+Andoni Iraola_2011
+Óscar de Marcos_2011
+Iban Zubiaurre_2011
+Javi Martínez_2011
+Mikel San José_2011
+Ander Iturraspe_2011
+Pablo Orbaiz_2011
+Ander Herrera_2011
+David López_2011
+Iñigo Pérez_2011
+Iñigo Ruiz de Galarreta_2011
+Igor Gabilondo_2011
+Iker Muniain_2011
+Igor Martínez_2011
+Ibai Gómez_2011
+Markel Susaeta_2011
+Gaizka Toquero_2011
+Fernando Llorente_2011
+Guillermo Fernández_2011
+Gorka Iraizoz_2012
+Raúl Fernández_2012
+Kepa Arrizabalaga_2012
+Fernando Amorebieta_2012
+Jon Aurtenetxe_2012
+Borja Ekiza_2012
+Aymeric Laporte_2012
+Carlos Gurpegui_2012
+Jonás Ramalho_2012
+Enric Saborit_2012
+Isma López_2012
+Xabier Castillo_2012
+Jonxa Vidal_2012
+Óscar de Marcos_2012
+Andoni Iraola_2012
+Markel Etxeberria_2012
+Ander Iturraspe_2012
+Mikel San José_2012
+Erik Morán_2012
+Álvaro Peña_2012
+Ander Herrera_2012
+Iñigo Pérez_2012
+Iñigo Ruiz de Galarreta_2012
+Iker Undabarrena_2012
+Ismael López_2012
+Iker Muniain_2012
+Igor Martínez_2012
+Ager Aketxe_2012
+Ibai Gómez_2012
+Aitor Seguín_2012
+Markel Susaeta_2012
+Gaizka Toquero_2012
+Fernando Llorente_2012
+Aritz Aduriz_2012
+Guillermo Fernández_2012
+Gorka Iraizoz_2013
+Iago Herrerín_2013
+Kepa Arrizabalaga_2013
+Gorka Magunazelaia_2013
+Aymeric Laporte_2013
+Borja Ekiza_2013
+Carlos Gurpegui_2013
+Xabi Etxeita_2013
+Enric Saborit_2013
+Unai Albizua_2013
+Mikel Balenziaga_2013
+Óscar de Marcos_2013
+Andoni Iraola_2013
+Ander Iturraspe_2013
+Mikel San José_2013
+Erik Morán_2013
+Ander Herrera_2013
+Beñat Etxebarria_2013
+Mikel Rico_2013
+Iñigo Pérez_2013
+Iker Muniain_2013
+Ibai Gómez_2013
+Markel Susaeta_2013
+Gaizka Toquero_2013
+Kike Sola_2013
+Aritz Aduriz_2013
+Guillermo Fernández_2013
+Gorka Iraizoz_2014
+Iago Herrerín_2014
+Álex Remiro_2014
+Aymeric Laporte_2014
+Xabi Etxeita_2014
+Jon Aurtenetxe_2014
+Carlos Gurpegui_2014
+Unai Bustinza_2014
+Mikel Balenziaga_2014
+Óscar de Marcos_2014
+Andoni Iraola_2014
+Ander Iturraspe_2014
+Mikel San José_2014
+Erik Morán_2014
+Mikel Rico_2014
+Beñat Etxebarria_2014
+Unai López_2014
+Iker Muniain_2014
+Ager Aketxe_2014
+Ibai Gómez_2014
+Markel Susaeta_2014
+Iñaki Williams_2014
+Gaizka Toquero_2014
+Aritz Aduriz_2014
+Borja Viguera_2014
+Kike Sola_2014
+Guillermo Fernández_2014
+Iago Herrerín_2015
+Gorka Iraizoz_2015
+Álex Remiro_2015
+Aymeric Laporte_2015
+Xabi Etxeita_2015
+Yeray Álvarez_2015
+Carlos Gurpegui_2015
+Enric Saborit_2015
+Mikel Balenziaga_2015
+Óscar de Marcos_2015
+Eneko Bóveda_2015
+Iñigo Lekue_2015
+Mikel San José_2015
+Ander Iturraspe_2015
+Gorka Elustondo_2015
+Beñat Etxebarria_2015
+Mikel Rico_2015
+Javi Eraso_2015
+Iker Muniain_2015
+Ager Aketxe_2015
+Ibai Gómez_2015
+Iñaki Williams_2015
+Markel Susaeta_2015
+Raúl García_2015
+Aritz Aduriz_2015
+Sabin Merino_2015
+Kike Sola_2015
+Borja Viguera_2015
+Kepa Arrizabalaga_2016
+Iago Herrerín_2016
+Álex Remiro_2016
+Gorka Iraizoz_2016
+Unai Simón_2016
+Aymeric Laporte_2016
+Yeray Álvarez_2016
+Xabi Etxeita_2016
+Enric Saborit_2016
+Mikel Balenziaga_2016
+Óscar de Marcos_2016
+Iñigo Lekue_2016
+Eneko Bóveda_2016
+Mikel San José_2016
+Ander Iturraspe_2016
+Mikel Vesga_2016
+Gorka Elustondo_2016
+Beñat Etxebarria_2016
+Mikel Rico_2016
+Javi Eraso_2016
+Iker Muniain_2016
+Ager Aketxe_2016
+Iñaki Williams_2016
+Markel Susaeta_2016
+Raúl García_2016
+Sabin Merino_2016
+Borja Viguera_2016
+Aritz Aduriz_2016
+Asier Villalibre_2016
+Kike Sola_2016
+Kepa Arrizabalaga_2017
+Iago Herrerín_2017
+Unai Simón_2017
+Aymeric Laporte_2017
+Iñigo Martínez_2017
+Yeray Álvarez_2017
+Unai Núñez_2017
+Xabi Etxeita_2017
+Enric Saborit_2017
+Óscar Gil_2017
+Dani Vivian_2017
+Mikel Balenziaga_2017
+Andoni López_2017
+Iñigo Lekue_2017
+Óscar de Marcos_2017
+Eneko Bóveda_2017
+Mikel San José_2017
+Ander Iturraspe_2017
+Mikel Vesga_2017
+Peru Nolaskoain_2017
+Beñat Etxebarria_2017
+Mikel Rico_2017
+Víctor San Bartolomé_2017
+Iker Muniain_2017
+Ager Aketxe_2017
+Iñigo Córdoba_2017
+Iñaki Williams_2017
+Markel Susaeta_2017
+Iñigo Muñoz_2017
+Raúl García_2017
+Sabin Merino_2017
+Aritz Aduriz_2017
+Kike Sola_2017
+Unai Simón_2018
+Iago Herrerín_2018
+Álex Remiro_2018
+Hodei Oleaga_2018
+Iñigo Martínez_2018
+Yeray Álvarez_2018
+Unai Núñez_2018
+Dani Vivian_2018
+Yuri Berchiche_2018
+Mikel Balenziaga_2018
+Cristian Ganea_2018
+Óscar de Marcos_2018
+Ander Capa_2018
+Iñigo Lekue_2018
+Mikel San José_2018
+Peru Nolaskoain_2018
+Ander Iturraspe_2018
+Beñat Etxebarria_2018
+Dani García_2018
+Unai López_2018
+Mikel Rico_2018
+Iker Muniain_2018
+Iñigo Córdoba_2018
+Ibai Gómez_2018
+Iñigo Vicente_2018
+Iñaki Williams_2018
+Markel Susaeta_2018
+Raúl García_2018
+Kenan Kodro_2018
+Sabin Merino_2018
+Aritz Aduriz_2018
+Gorka Guruzeta_2018
+Unai Simón_2019
+Iago Herrerín_2019
+Jokin Ezkieta_2019
+Ander Iru_2019
+Iñigo Martínez_2019
+Yeray Álvarez_2019
+Unai Núñez_2019
+Jon Sillero_2019
+Dani Vivian_2019
+Yuri Berchiche_2019
+Mikel Balenziaga_2019
+Ander Capa_2019
+Óscar de Marcos_2019
+Gaizka Larrazabal_2019
+Iñigo Lekue_2019
+Jesús Areso_2019
+Mikel San José_2019
+Mikel Vesga_2019
+Dani García_2019
+Beñat Etxebarria_2019
+Unai López_2019
+Unai Vencedor_2019
+Iker Muniain_2019
+Oihan Sancet_2019
+Álex Berenguer_2019
+Iñigo Córdoba_2019
+Ibai Gómez_2019
+Iñaki Williams_2019
+Raúl García_2019
+Asier Villalibre_2019
+Kenan Kodro_2019
+Aritz Aduriz_2019
+Unai Simón_2020
+Iago Herrerín_2020
+Jokin Ezkieta_2020
+Unai Núñez_2020
+Iñigo Martínez_2020
+Yeray Álvarez_2020
+Aitor Paredes_2020
+Yuri Berchiche_2020
+Mikel Balenziaga_2020
+Ander Capa_2020
+Óscar de Marcos_2020
+Iñigo Lekue_2020
+Peru Nolaskoain_2020
+Mikel Vesga_2020
+Julen Bernaola_2020
+Unai López_2020
+Unai Vencedor_2020
+Dani García_2020
+Oier Zarraga_2020
+Beñat Prados_2020
+Iker Muniain_2020
+Oihan Sancet_2020
+Álex Berenguer_2020
+Jon Morcillo_2020
+Iñigo Córdoba_2020
+Nico Williams_2020
+Ibai Gómez_2020
+Iñigo Vicente_2020
+Iñaki Williams_2020
+Asier Villalibre_2020
+Raúl García_2020
+Kenan Kodro_2020
+Unai Simón_2021
+Julen Agirrezabala_2021
+Jokin Ezkieta_2021
+Ander Iru_2021
+Iñigo Martínez_2021
+Yeray Álvarez_2021
+Dani Vivian_2021
+Unai Núñez_2021
+Aitor Paredes_2021
+Yuri Berchiche_2021
+Mikel Balenziaga_2021
+Iñigo Lekue_2021
+Ander Capa_2021
+Óscar de Marcos_2021
+Álex Petxa_2021
+Mikel Vesga_2021
+Peru Nolaskoain_2021
+Unai Vencedor_2021
+Oier Zarraga_2021
+Dani García_2021
+Iker Muniain_2021
+Oihan Sancet_2021
+Álex Berenguer_2021
+Nico Williams_2021
+Jon Morcillo_2021
+Nico Serrano_2021
+Luis Bilbao_2021
+Iñaki Williams_2021
+Juan Artola_2021
+Asier Villalibre_2021
+Raúl García_2021
+Unai Simón_2022
+Julen Agirrezabala_2022
+Ibon Ispizua_2022
+Ander Iru_2022
+Yeray Álvarez_2022
+Dani Vivian_2022
+Iñigo Martínez_2022
+Aitor Paredes_2022
+Yuri Berchiche_2022
+Mikel Balenziaga_2022
+Iñigo Lekue_2022
+Óscar de Marcos_2022
+Ander Capa_2022
+Mikel Vesga_2022
+Peru Nolaskoain_2022
+Unai Vencedor_2022
+Oier Zarraga_2022
+Ander Herrera_2022
+Dani García_2022
+Junior Bita_2022
+Oihan Sancet_2022
+Iker Muniain_2022
+Unai Gómez_2022
+Nico Williams_2022
+Álex Berenguer_2022
+Jon Morcillo_2022
+Adu Ares_2022
+Iñaki Williams_2022
+Asier Villalibre_2022
+Raúl García_2022
+Gorka Guruzeta_2022
+Carlos Kameni_2010
+Cristian Álvarez_2010
+Kiko Casilla_2010
+Dinu Moldovan_2010
+Víctor Ruiz_2010
+Juan Forlín_2010
+Jordi Amat_2010
+Raúl Rodríguez_2010
+David López_2010
+Albert Canal_2010
+Dídac Vilà_2010
+David García_2010
+Víctor Álvarez_2010
+Felipe Mattioni_2010
+Javi Chica_2010
+Ernesto Galán_2010
+Javi López_2010
+Aldo Duscher_2010
+Isaías Sánchez_2010
+Luis García_2010
+Javi Márquez_2010
+Raúl Baena_2010
+Manu Molina_2010
+Joan Verdú_2010
+Jesús Dátolo_2010
+Iván de la Peña_2010
+Thievy Bifouma_2010
+José Callejón_2010
+Eric López_2010
+Daniel Osvaldo_2010
+Sergio García_2010
+Iván Alonso_2010
+Ferrán Corominas_2010
+Álvaro Vázquez_2010
+Rui Fonte_2010
+Cristian Álvarez_2011
+Carlos Kameni_2011
+Kiko Casilla_2011
+Edgar Badia_2011
+Dinu Moldovan_2011
+Héctor Moreno_2011
+Juan Forlín_2011
+Jordi Amat_2011
+Raúl Rodríguez_2011
+Zouhair Feddal_2011
+Albert Canal_2011
+Dídac Vilà_2011
+Carlos Clerc_2011
+Víctor Álvarez_2011
+Javi López_2011
+Felipe Mattioni_2011
+Ernesto Galán_2011
+Romaric_2011
+Javi Márquez_2011
+Luis García_2011
+Raúl Baena_2011
+Víctor Sánchez_2011
+Cristian Gómez_2011
+Paul Quaye_2011
+Philippe Coutinho_2011
+Joan Verdú_2011
+Jesús Dátolo_2011
+Juan Albín_2011
+Christian Alfonso_2011
+Vladimír Weiss_2011
+Thievy Bifouma_2011
+Kalu Uche_2011
+Sergio García_2011
+Álvaro Vázquez_2011
+Rui Fonte_2011
+Walter Pandiani_2011
+Bacari_2011
+Cristian Álvarez_2012
+Kiko Casilla_2012
+Germán Parreño_2012
+Héctor Moreno_2012
+Juan Forlín_2012
+Raúl Rodríguez_2012
+Diego Colotto_2012
+Ferran Monzó_2012
+Víctor Álvarez_2012
+Joan Capdevila_2012
+Javi López_2012
+Felipe Mattioni_2012
+Ernesto Galán_2012
+Víctor Sánchez_2012
+Mubarak Wakaso_2012
+Sergio Tejera_2012
+Raúl Baena_2012
+Cristian Gómez_2012
+Fran Miranda_2012
+Joan Verdú_2012
+Juan Albín_2012
+Christian Alfonso_2012
+Thievy Bifouma_2012
+Simão_2012
+Martin Petrov_2012
+Cristhian Stuani_2012
+Sergio García_2012
+Álvaro Vázquez_2012
+Samuele Longo_2012
+Rui Fonte_2012
+David Cubillas_2012
+Kiko Casilla_2013
+Germán Parreño_2013
+Pau López_2013
+Héctor Moreno_2013
+Raúl Rodríguez_2013
+David López_2013
+Diego Colotto_2013
+Sidnei_2013
+Juan Rafael Fuentes_2013
+Víctor Álvarez_2013
+Carlos Clerc_2013
+Joan Capdevila_2013
+Javi López_2013
+Felipe Mattioni_2013
+Víctor Sánchez_2013
+Abraham González_2013
+Sergio Tejera_2013
+Pizzi_2013
+Manu Lanzarote_2013
+Álex Fernández_2013
+Thievy Bifouma_2013
+Simão_2013
+Gabriel Torje_2013
+Sergio García_2013
+Cristhian Stuani_2013
+Jhon Córdoba_2013
+Kiko Casilla_2014
+Pau López_2014
+Germán Parreño_2014
+Andrés Prieto_2014
+David López_2014
+Héctor Moreno_2014
+Álvaro González_2014
+Anaitz Arbilla_2014
+Eric Bailly_2014
+Diego Colotto_2014
+Raúl Rodríguez_2014
+Juan Rafael Fuentes_2014
+Víctor Álvarez_2014
+Rubén Duarte_2014
+Carlos Clerc_2014
+Lucas Vázquez_2014
+Javi López_2014
+Felipe Mattioni_2014
+Rober Correa_2014
+José Alberto Cañas_2014
+Víctor Sánchez_2014
+Salva Sevilla_2014
+Abraham González_2014
+Joan Jordán_2014
+Julián Luque_2014
+Álex Fernández_2014
+Manu Lanzarote_2014
+Paco Montañés_2014
+Sergio García_2014
+Felipe Caicedo_2014
+Cristhian Stuani_2014
+Jairo Morillas_2014
+Francesco Bardi_2015
+Giedrius Arlauskis_2015
+Pau López_2015
+Andrés Prieto_2015
+Álvaro González_2015
+Enzo Roco_2015
+Anaitz Arbilla_2015
+Óscar Duarte_2015
+Michaël Ciani_2015
+Antonio Raíllo_2015
+Lluís López_2015
+Cristian Galas_2015
+Víctor Álvarez_2015
+Rubén Duarte_2015
+Juan Rafael Fuentes_2015
+Javi López_2015
+Rober Correa_2015
+Marc Navarro_2015
+José Alberto Cañas_2015
+Pape Diop_2015
+Víctor Sánchez_2015
+Salva Sevilla_2015
+Abraham González_2015
+Joan Jordán_2015
+Marco Asensio_2015
+Paco Montañés_2015
+Burgui_2015
+Hernán Pérez_2015
+Rufo_2015
+Felipe Caicedo_2015
+Gerard Moreno_2015
+Mamadou Sylla_2015
+Adrián Dalmau_2015
+Roberto_2016
+Pau López_2016
+Diego López_2016
+Andrés Prieto_2016
+David López_2016
+Álvaro González_2016
+Diego Reyes_2016
+Óscar Duarte_2016
+Michaël Ciani_2016
+Martín Demichelis_2016
+Aarón Martín_2016
+Rubén Duarte_2016
+Víctor Álvarez_2016
+Javi López_2016
+Marc Navarro_2016
+Marc Roca_2016
+Javi Fuego_2016
+Pape Diop_2016
+Víctor Sánchez_2016
+Salva Sevilla_2016
+José Manuel Jurado_2016
+Óscar Melendo_2016
+Pablo Piatti_2016
+Hernán Pérez_2016
+José Antonio Reyes_2016
+Gerard Moreno_2016
+Léo Baptistão_2016
+Felipe Caicedo_2016
+Álvaro Vázquez_2016
+Pau López_2017
+Diego López_2017
+Edu Frías_2017
+Adri López_2017
+David López_2017
+Mario Hermoso_2017
+Naldo_2017
+Óscar Duarte_2017
+Sergio Sánchez_2017
+Aarón Martín_2017
+Dídac Vilà_2017
+Marc Navarro_2017
+Javi López_2017
+Carlos Sánchez_2017
+Javi Fuego_2017
+Pape Diop_2017
+Marc Roca_2017
+Sergi Darder_2017
+Víctor Sánchez_2017
+Esteban Granero_2017
+José Manuel Jurado_2017
+Óscar Melendo_2017
+Pablo Piatti_2017
+Hernán Pérez_2017
+Gerard Moreno_2017
+Léo Baptistão_2017
+Sergio García_2017
+Álvaro Vázquez_2017
+Jairo Morillas_2017
+Roberto_2018
+Diego López_2018
+Mario Hermoso_2018
+David López_2018
+Naldo_2018
+Óscar Duarte_2018
+Lluís López_2018
+Iago Indias_2018
+Adrià Pedrosa_2018
+Dídac Vilà_2018
+Roberto Rosales_2018
+Javi López_2018
+Pipa_2018
+Marc Roca_2018
+Alfa Semedo_2018
+Sergi Darder_2018
+Víctor Sánchez_2018
+Esteban Granero_2018
+Álex López_2018
+Óscar Melendo_2018
+Pablo Piatti_2018
+Javi Puado_2018
+Carlos Doncel_2018
+Lei Wu_2018
+Hernán Pérez_2018
+Borja Iglesias_2018
+Léo Baptistão_2018
+Facundo Ferreyra_2018
+Sergio García_2018
+Víctor Campuzano_2018
+Oier Olazábal_2019
+Diego López_2019
+Adri López_2019
+Andrés Prieto_2019
+Leandro Cabrera_2019
+David López_2019
+Bernardo Espinosa_2019
+Fernando Calero_2019
+Naldo_2019
+Lluís López_2019
+Ricard Pujol_2019
+Roman Tugarinov_2019
+Adrià Pedrosa_2019
+Dídac Vilà_2019
+Víctor Gómez_2019
+Sébastien Corchia_2019
+Javi López_2019
+Pipa_2019
+Marc Roca_2019
+Ander Iturraspe_2019
+Sergi Darder_2019
+Esteban Granero_2019
+Víctor Sánchez_2019
+Pol Lozano_2019
+Dani Villahermosa_2019
+Óscar Melendo_2019
+Nico Melamed_2019
+Matías Vargas_2019
+Pablo Piatti_2019
+Javi Puado_2019
+Mohamed Ezzarfani_2019
+Lei Wu_2019
+Adrián Embarba_2019
+Raúl de Tomás_2019
+Borja Iglesias_2019
+Jonathan Calleri_2019
+Facundo Ferreyra_2019
+Víctor Campuzano_2019
+Kévin Soni_2019
+Ferran Jutglà_2019
+Diego López_2021
+Joan García_2021
+Oier Olazábal_2021
+Leandro Cabrera_2021
+Sergi Gómez_2021
+Fernando Calero_2021
+David López_2021
+Álvaro García_2021
+Lluís Recasens_2021
+Adrià Pedrosa_2021
+Dídac Vilà_2021
+Óscar Gil_2021
+Víctor Gómez_2021
+Miguel Llambrich_2021
+Rubén Sánchez_2021
+Sergi Darder_2021
+Yangel Herrera_2021
+Manu Morlanes_2021
+Tonny Vilhena_2021
+Keidi Bare_2021
+Fran Mérida_2021
+Roger Martínez_2021
+Dani Villahermosa_2021
+Alejandro Pérez_2021
+Nico Melamed_2021
+Óscar Melendo_2021
+Gori_2021
+Javi Puado_2021
+Álvaro Vadillo_2021
+Luca Koleosho_2021
+Adrián Embarba_2021
+Lei Wu_2021
+Aleix Vidal_2021
+Jofre Carreras_2021
+Raúl de Tomás_2021
+Loren Morón_2021
+Landry Dimata_2021
+Max Svensson_2021
+Benjamin Lecomte_2022
+Fernando Pacheco_2022
+Álvaro Fernández_2022
+Joan García_2022
+Ángel Fortuño_2022
+César Montes_2022
+Leandro Cabrera_2022
+Fernando Calero_2022
+Sergi Gómez_2022
+Simo Keddari_2022
+Brian Oliván_2022
+Adrià Pedrosa_2022
+Ronaël Pierre-Gabriel_2022
+Óscar Gil_2022
+Rubén Sánchez_2022
+Omar El Hilali_2022
+Vini Souza_2022
+Sergi Darder_2022
+Edu Expósito_2022
+Keidi Bare_2022
+José Gragera_2022
+Pol Lozano_2022
+Roger Martínez_2022
+Dani Villahermosa_2022
+Nico Melamed_2022
+Denis Suárez_2022
+Javi Puado_2022
+José Carlos Lazo_2022
+Luca Koleosho_2022
+Kenneth Soler_2022
+Adrián Embarba_2022
+Aleix Vidal_2022
+Joselu_2022
+Martin Braithwaite_2022
+Dani Gómez_2022
+Nabil Touaizi_2022
+Diego Alves_2010
+Esteban_2010
+Diego García_2010
+Hernán Pellerano_2010
+Carlos García_2010
+Michael Jakobsen_2010
+Marcelo Silva_2010
+Santiago Acasiete_2010
+Baltasar Rigo_2010
+Antonio Luna_2010
+Juanma Ortiz_2010
+Michel Macedo_2010
+Lillo Castellano_2010
+Hernán Bernardello_2010
+Modeste M'Bami_2010
+Sofiane Feghouli_2010
+Juanito_2010
+Fabián Vargas_2010
+Miguel Ángel Corona_2010
+Miguel Ángel Luque_2010
+Cristóbal Gil_2010
+Diego Váleri_2010
+Pablo Piatti_2010
+Albert Crusat_2010
+Miguel Ángel Nieto_2010
+José Ortiz_2010
+Jonathan Zongo_2010
+Kalu Uche_2010
+Leonardo Ulloa_2010
+Henok Goitom_2010
+Óscar Ustari_2013
+Julián Cuesta_2013
+Esteban_2013
+Víctor Ibáñez_2013
+Marco Torsiglieri_2013
+Hernán Pellerano_2013
+Ángel Trujillo_2013
+Hans Martínez_2013
+Marcelo Silva_2013
+Fran Vélez_2013
+Sebastián Dubarbier_2013
+Mané_2013
+Bolaño_2013
+Raúl Carnero_2013
+Nélson_2013
+Rafita_2013
+Antonio Marín_2013
+Verza_2013
+Marcos Tébar_2013
+Ramon Azeez_2013
+Miguel Ángel Corona_2013
+Cristóbal Gil_2013
+Fernando Soriano_2013
+Hélder Barbosa_2013
+Suso_2013
+Aleix Vidal_2013
+Jonathan Zongo_2013
+Kiu_2013
+Edgar Méndez_2013
+Rubén Suárez_2013
+Hicham Khaloua_2013
+Rodri Ríos_2013
+Óscar Díaz_2013
+Dani Romera_2013
+Rubén Martínez_2014
+Julián Cuesta_2014
+Yeray Gómez_2014
+Ángel Trujillo_2014
+Mauro dos Santos_2014
+Fran Vélez_2014
+Charlie Took_2014
+Sebastián Dubarbier_2014
+José Manuel Casado_2014
+Mané_2014
+Ximo Navarro_2014
+Michel Macedo_2014
+Antonio Marín_2014
+Verza_2014
+Thomas Partey_2014
+Javier Espinosa_2014
+Ramon Azeez_2014
+Miguel Ángel Corona_2014
+José Ángel Jurado_2014
+Carlos Selfa_2014
+Fernando Soriano_2014
+Thievy Bifouma_2014
+Gaspar Panadero_2014
+Edgar Méndez_2014
+Wellington Silva_2014
+Jonathan Zongo_2014
+Iván Sánchez_2014
+Tomer Hemed_2014
+Teerasil Dangda_2014
+Quique González_2014
+Dani Romera_2014
+Fernando Pacheco_2022
+Fernando Martínez_2022
+Diego Mariño_2022
+Diego Fuoli_2022
+Srdjan Babic_2022
+Kaiky_2022
+Rodrigo Ely_2022
+Chumi_2022
+Sergio Akieme_2022
+Álex Centelles_2022
+Alejandro Pozo_2022
+Houboulang Mendes_2022
+Samú Costa_2022
+Iñigo Eguaras_2022
+Lucas Robertone_2022
+Gonzalo Melero_2022
+Arnau Puigmal_2022
+Gui Guedes_2022
+César de la Hoz_2022
+Martin Svidersky_2022
+Marcos Peña_2022
+Largie Ramazani_2022
+Lázaro_2022
+José Carlos Lazo_2022
+Adrián Embarba_2022
+Francisco Portillo_2022
+Curro Sánchez_2022
+Arvin Appiah_2022
+Carlos Rojas_2022
+Umar Sadiq_2022
+El Bilal Touré_2022
+Luis Suárez_2022
+Léo Baptistão_2022
+Marko Milovanovic_2022
+Dyego Sousa_2022
+Marciano Sanca_2022
+Sergio Asenjo_2010
+Willy Caballero_2010
+Rubén Martínez_2010
+Galatto_2010
+Francesc Arnau_2010
+Fran Marmolejo_2010
+Martín Demichelis_2010
+Weligton_2010
+Kris Stadsgaard_2010
+Hélder Rosário_2010
+Manu Torres_2010
+Iván González_2010
+Javier Malagueño_2010
+Eliseu_2010
+Patrick Mtiliga_2010
+Jesús Gámez_2010
+Manolo Gaspar_2010
+Sandro Silva_2010
+Juanito_2010
+Ignacio Camacho_2010
+Apoño_2010
+Enzo Maresca_2010
+Recio_2010
+Edu Ramos_2010
+Cala_2010
+Duda_2010
+Júlio Baptista_2010
+Fernando_2010
+Quincy Owusu-Abeyie_2010
+Juanmi_2010
+Albert Luque_2010
+Francisco Portillo_2010
+Sebastián Fernández_2010
+Salomón Rondón_2010
+Edinho_2010
+Nabil Baha_2010
+Jonathan Sánchez_2010
+Willy Caballero_2011
+Carlos Kameni_2011
+Rubén Martínez_2011
+Pol Freixanet_2011
+Toni Casamayor_2011
+Sergio Sánchez_2011
+Martín Demichelis_2011
+Joris Mathijsen_2011
+Weligton_2011
+Kris Stadsgaard_2011
+Hélder Rosário_2011
+Javier Malagueño_2011
+Nacho Monreal_2011
+Eliseu_2011
+Jesús Gámez_2011
+Jérémy Toulalan_2011
+Ignacio Camacho_2011
+Santi Cazorla_2011
+Apoño_2011
+Enzo Maresca_2011
+Recio_2011
+Duda_2011
+Isco_2011
+Júlio Baptista_2011
+Diego Buonanotte_2011
+Juanmi_2011
+Joaquín_2011
+Francisco Portillo_2011
+Sebastián Fernández_2011
+Salomón Rondón_2011
+Ruud van Nistelrooy_2011
+Edinho_2011
+Willy Caballero_2012
+Carlos Kameni_2012
+Pol Freixanet_2012
+Martín Demichelis_2012
+Sergio Sánchez_2012
+Oguchi Onyewu_2012
+Weligton_2012
+Diego Lugano_2012
+Diego Rodríguez_2012
+Álex Portillo_2012
+Nacho Monreal_2012
+Eliseu_2012
+Antunes_2012
+Jesús Gámez_2012
+Jurado_2012
+Jérémy Toulalan_2012
+Ignacio Camacho_2012
+Manuel Iturra_2012
+Recio_2012
+Enzo Maresca_2012
+Duda_2012
+Isco_2012
+Lucas Piazón_2012
+Júlio Baptista_2012
+Pedro Morales_2012
+Diego Buonanotte_2012
+Juanmi_2012
+Fabrice Olinga_2012
+Joaquín_2012
+Francisco Portillo_2012
+Javier Saviola_2012
+Sebastián Fernández_2012
+Roque Santa Cruz_2012
+Willy Caballero_2013
+Carlos Kameni_2013
+Aarón Escandell_2013
+Sergio Sánchez_2013
+Weligton_2013
+Flávio Ferreira_2013
+Marcos Angeleri_2013
+Roberto Chen_2013
+Álex Portillo_2013
+Eliseu_2013
+Antunes_2013
+José Manuel Casado_2013
+Jesús Gámez_2013
+Ignacio Camacho_2013
+Fernando Tissone_2013
+Pablo Pérez_2013
+Sergi Darder_2013
+Duda_2013
+Pedro Morales_2013
+Bobley Anderson_2013
+Oleksandr Yakovenko_2013
+Juanmi_2013
+Bartlomiej Pawlowski_2013
+Fabrice Olinga_2013
+Nordin Amrabat_2013
+Francisco Portillo_2013
+Samu García_2013
+Sebastián Fernández_2013
+Roque Santa Cruz_2013
+Ezequiel Rescaldani_2013
+Mounir El Hamdaoui_2013
+Guillermo Ochoa_2014
+Carlos Kameni_2014
+Agustín Cousillas_2014
+Sergio Sánchez_2014
+Egor Filipenko_2014
+Weligton_2014
+Flávio Ferreira_2014
+Marcos Angeleri_2014
+Roberto Chen_2014
+Antunes_2014
+Arthur Boka_2014
+José Manuel Casado_2014
+Roberto Rosales_2014
+Miguel Torres_2014
+Ignacio Camacho_2014
+Fernando Tissone_2014
+Sergi Darder_2014
+Luis Alberto_2014
+Recio_2014
+Duda_2014
+Juanpi_2014
+Juanmi_2014
+Ricardo Horta_2014
+Nordin Amrabat_2014
+Samu García_2014
+Samu Castillejo_2014
+Francisco Portillo_2014
+Javi Guerra_2014
+Roque Santa Cruz_2014
+Ezequiel Rescaldani_2014
+Carlos Kameni_2015
+Guillermo Ochoa_2015
+Aarón Escandell_2015
+Raúl Albentosa_2015
+Federico Ricca_2015
+Weligton_2015
+Marcos Angeleri_2015
+Egor Filipenko_2015
+Flávio Ferreira_2015
+Juankar_2015
+Arthur Boka_2015
+Roberto Rosales_2015
+Miguel Torres_2015
+Ignacio Camacho_2015
+Fernando Tissone_2015
+Sergi Darder_2015
+Recio_2015
+Duda_2015
+Juanpi_2015
+Pablo Fornals_2015
+Fábio Espinho_2015
+Hachim Mastour_2015
+Christian Atsu_2015
+Chory Castro_2015
+Ricardo Horta_2015
+Adnane Tighadouini_2015
+Javi Ontiveros_2015
+Nordin Amrabat_2015
+Miguel Cifuentes_2015
+Duje Cop_2015
+Charles_2015
+Ikechukwu Uche_2015
+Roque Santa Cruz_2015
+Carlos Kameni_2016
+Denys Boyko_2016
+Aarón Escandell_2016
+Diego Llorente_2016
+Luis Hernández_2016
+Federico Ricca_2016
+Mikel Villanueva_2016
+Bakary Koné_2016
+Weligton_2016
+Martín Demichelis_2016
+Juankar_2016
+Roberto Rosales_2016
+Miguel Torres_2016
+Ignacio Camacho_2016
+Luis Muñoz_2016
+Recio_2016
+Zdravko Kuzmanovic_2016
+José Rodríguez_2016
+Duda_2016
+Pablo Fornals_2016
+Juanpi_2016
+Adalberto Peñaranda_2016
+Javi Ontiveros_2016
+Jony_2016
+Chory Castro_2016
+Álex Mula_2016
+Keko Gontán_2016
+Kuki Zalazar_2016
+Sandro Ramírez_2016
+Michael Santos_2016
+Charles_2016
+Youssef En-Nesyri_2016
+Roberto_2017
+Andrés Prieto_2017
+Cenk Gönen_2017
+Luis Hernández_2017
+Paul Baysse_2017
+Diego González_2017
+Ignasi Miquel_2017
+Federico Ricca_2017
+Juankar_2017
+Alberto López_2017
+Roberto Rosales_2017
+Miguel Torres_2017
+Iván Rodríguez_2017
+Álex Robles_2017
+Emanuel Cecchini_2017
+Manuel Iturra_2017
+Esteban Rolón_2017
+Mehdi Lacen_2017
+Ian Soler_2017
+Adrián González_2017
+Recio_2017
+Zdravko Kuzmanovic_2017
+José Carlos Sánchez_2017
+Juanpi_2017
+Javi Ontiveros_2017
+Maxime Lestienne_2017
+Adalberto Peñaranda_2017
+Jony_2017
+Chory Castro_2017
+Álex Mula_2017
+Keko Gontán_2017
+Samu García_2017
+Miguel Cifuentes_2017
+Juan Cruz_2017
+Alberto Bueno_2017
+Diego Rolán_2017
+Borja Bastón_2017
+Brown Ideye_2017
+Isaac Success_2017
+Youssef En-Nesyri_2017
+Claudio Bravo_2010
+Eñaut Zubikarai_2010
+Toño_2010
+Mikel González_2010
+Ion Ansotegi_2010
+Vadim Demidov_2010
+Mikel Labaka_2010
+Liassine Cadamuro_2010
+Alberto de la Bella_2010
+Carlos Martínez_2010
+Dani Estrada_2010
+Gorka Elustondo_2010
+Markel Bergara_2010
+Asier Illarramendi_2010
+Xabi Prieto_2010
+David Zurutuza_2010
+Mikel Aranburu_2010
+Diego Rivas_2010
+Jeffrey Sarpong_2010
+Paco Sutil_2010
+Antoine Griezmann_2010
+Joseba Llorente_2010
+Raúl Tamudo_2010
+Diego Ifrán_2010
+Imanol Agirretxe_2010
+Borja Viguera_2010
+Claudio Bravo_2011
+Eñaut Zubikarai_2011
+Toño_2011
+Mikel González_2011
+Vadim Demidov_2011
+Iñigo Martínez_2011
+Ion Ansotegi_2011
+Liassine Cadamuro_2011
+Alberto de la Bella_2011
+Carlos Martínez_2011
+Dani Estrada_2011
+McDonald Mariga_2011
+Gorka Elustondo_2011
+Markel Bergara_2011
+Asier Illarramendi_2011
+Xabi Prieto_2011
+David Zurutuza_2011
+Mikel Aranburu_2011
+Rubén Pardo_2011
+Javi Ros_2011
+Jeffrey Sarpong_2011
+Carlos Vela_2011
+Antoine Griezmann_2011
+Imanol Agirretxe_2011
+Joseba Llorente_2011
+Diego Ifrán_2011
+Claudio Bravo_2012
+Eñaut Zubikarai_2012
+Kike Royo_2012
+Iñigo Martínez_2012
+Mikel González_2012
+Ion Ansotegi_2012
+Liassine Cadamuro_2012
+Alberto de la Bella_2012
+Cote_2012
+Carlos Martínez_2012
+Dani Estrada_2012
+Asier Illarramendi_2012
+Markel Bergara_2012
+Gorka Elustondo_2012
+Victor Fuchs_2012
+Xabi Prieto_2012
+Rubén Pardo_2012
+David Zurutuza_2012
+Javi Ros_2012
+Chory Castro_2012
+Carlos Vela_2012
+Pablo Hervías_2012
+Antoine Griezmann_2012
+Imanol Agirretxe_2012
+Diego Ifrán_2012
+Jonathan Nanizayamo_2012
+Claudio Bravo_2013
+Eñaut Zubikarai_2013
+Kike Royo_2013
+Iñigo Martínez_2013
+Mikel González_2013
+Ion Ansotegi_2013
+Liassine Cadamuro_2013
+Alexander Callens_2013
+Alberto de la Bella_2013
+Cote_2013
+Carlos Martínez_2013
+Dani Estrada_2013
+Joseba Zaldua_2013
+Markel Bergara_2013
+Gorka Elustondo_2013
+Xabi Prieto_2013
+Rubén Pardo_2013
+Esteban Granero_2013
+David Zurutuza_2013
+Javi Ros_2013
+Jon Gaztañaga_2013
+Sergio Canales_2013
+Chory Castro_2013
+Alain Oyarzun_2013
+Carlos Vela_2013
+Pablo Hervías_2013
+Marco Sangalli_2013
+Antoine Griezmann_2013
+Imanol Agirretxe_2013
+Haris Seferovic_2013
+Diego Ifrán_2013
+Gerónimo Rulli_2014
+Eñaut Zubikarai_2014
+Ander Bardají_2014
+Iñigo Martínez_2014
+Mikel González_2014
+Ion Ansotegi_2014
+Alexander Callens_2014
+Aritz Elustondo_2014
+Alberto de la Bella_2014
+Yuri Berchiche_2014
+Carlos Martínez_2014
+Joseba Zaldua_2014
+Dani Estrada_2014
+Markel Bergara_2014
+Gorka Elustondo_2014
+Xabi Prieto_2014
+Esteban Granero_2014
+Rubén Pardo_2014
+David Zurutuza_2014
+Jon Gaztañaga_2014
+Alejandro Sanz_2014
+Sergio Canales_2014
+Eneko Capilla_2014
+Chory Castro_2014
+Alain Oyarzun_2014
+Carlos Vela_2014
+Pablo Hervías_2014
+Alfred Finnbogason_2014
+Imanol Agirretxe_2014
+Iker Hernández_2014
+Gerónimo Rulli_2015
+Oier Olazábal_2015
+Ander Bardají_2015
+Iñigo Martínez_2015
+Diego Reyes_2015
+Mikel González_2015
+Aritz Elustondo_2015
+Raúl Navas_2015
+Ion Ansotegi_2015
+Igor Zubeldia_2015
+Yuri Berchiche_2015
+Alberto de la Bella_2015
+Héctor Hernández_2015
+Joseba Zaldua_2015
+Carlos Martínez_2015
+Álvaro Odriozola_2015
+Asier Illarramendi_2015
+Markel Bergara_2015
+Rubén Pardo_2015
+Xabi Prieto_2015
+Esteban Granero_2015
+David Zurutuza_2015
+Sergio Canales_2015
+Eneko Capilla_2015
+Bruma_2015
+Chory Castro_2015
+Mikel Oyarzabal_2015
+Alain Oyarzun_2015
+Carlos Vela_2015
+Jonathas_2015
+Imanol Agirretxe_2015
+Jon Bautista_2015
+Gerónimo Rulli_2016
+Toño_2016
+Ander Bardají_2016
+Iñigo Martínez_2016
+Raúl Navas_2016
+Aritz Elustondo_2016
+Mikel González_2016
+Igor Zubeldia_2016
+Yuri Berchiche_2016
+Héctor Hernández_2016
+Kévin Rodrigues_2016
+Álvaro Odriozola_2016
+Joseba Zaldua_2016
+Carlos Martínez_2016
+Asier Illarramendi_2016
+Markel Bergara_2016
+Rubén Pardo_2016
+Xabi Prieto_2016
+David Zurutuza_2016
+Esteban Granero_2016
+Jon Gaztañaga_2016
+Jon Guridi_2016
+Sergio Canales_2016
+Mikel Oyarzabal_2016
+Juanmi_2016
+Carlos Vela_2016
+David Concha_2016
+Willian José_2016
+Jon Bautista_2016
+Imanol Agirretxe_2016
+Gerónimo Rulli_2017
+Miguel Ángel Moyá_2017
+Toño_2017
+Andoni Zubiaurre_2017
+Iñigo Martínez_2017
+Diego Llorente_2017
+Igor Zubeldia_2017
+Aritz Elustondo_2017
+Héctor Moreno_2017
+Raúl Navas_2017
+Kévin Rodrigues_2017
+Alberto de la Bella_2017
+Álvaro Odriozola_2017
+Andoni Gorosabel_2017
+Carlos Martínez_2017
+Asier Illarramendi_2017
+Xabi Prieto_2017
+David Zurutuza_2017
+Rubén Pardo_2017
+Jon Guridi_2017
+Ander Guevara_2017
+Sergio Canales_2017
+Mikel Oyarzabal_2017
+Juanmi_2017
+Adnan Januzaj_2017
+Carlos Vela_2017
+Willian José_2017
+Jon Bautista_2017
+Imanol Agirretxe_2017
+Gerónimo Rulli_2018
+Miguel Ángel Moyá_2018
+Andoni Zubiaurre_2018
+Igor Zubeldia_2018
+Diego Llorente_2018
+Aritz Elustondo_2018
+Héctor Moreno_2018
+Robin Le Normand_2018
+Raúl Navas_2018
+Theo Hernández_2018
+Aihen Muñoz_2018
+Kévin Rodrigues_2018
+Joseba Zaldua_2018
+Andoni Gorosabel_2018
+Álex Sola_2018
+Asier Illarramendi_2018
+Martín Zubimendi_2018
+Mikel Merino_2018
+Rubén Pardo_2018
+Luca Sangalli_2018
+David Zurutuza_2018
+Ander Guevara_2018
+Roberto López_2018
+Mikel Oyarzabal_2018
+Ander Barrenetxea_2018
+Juanmi_2018
+Martín Merquelanz_2018
+Näis Djouahra_2018
+Adnan Januzaj_2018
+Zourdine Thior_2018
+Willian José_2018
+Sandro Ramírez_2018
+Jon Bautista_2018
+Álex Remiro_2019
+Miguel Ángel Moyá_2019
+Andoni Zubiaurre_2019
+Gaizka Ayesa_2019
+Igor Zubeldia_2019
+Diego Llorente_2019
+Robin Le Normand_2019
+Aritz Elustondo_2019
+Modibo Sagnan_2019
+Jon Pacheco_2019
+Aritz Arambarri_2019
+Aihen Muñoz_2019
+Nacho Monreal_2019
+Kévin Rodrigues_2019
+Joseba Zaldua_2019
+Andoni Gorosabel_2019
+Asier Illarramendi_2019
+Martín Zubimendi_2019
+Mikel Merino_2019
+Ander Guevara_2019
+Rubén Pardo_2019
+Luca Sangalli_2019
+David Zurutuza_2019
+Martin Ødegaard_2019
+David Silva_2019
+Roberto López_2019
+Mikel Oyarzabal_2019
+Ander Barrenetxea_2019
+Näis Djouahra_2019
+Portu_2019
+Adnan Januzaj_2019
+Willian José_2019
+Alexander Isak_2019
+Carlos Fernández_2019
+Jon Bautista_2019
+Julen Lobete_2019
+Álex Remiro_2020
+Miguel Ángel Moyá_2020
+Andoni Zubiaurre_2020
+Gaizka Ayesa_2020
+Unai Marrero_2020
+Robin Le Normand_2020
+Diego Llorente_2020
+Igor Zubeldia_2020
+Aritz Elustondo_2020
+Modibo Sagnan_2020
+Jon Pacheco_2020
+Jérémy Blasco_2020
+Aritz Arambarri_2020
+Aihen Muñoz_2020
+Nacho Monreal_2020
+Andoni Gorosabel_2020
+Joseba Zaldua_2020
+Martín Zubimendi_2020
+Asier Illarramendi_2020
+Urko González de Zarate_2020
+Mikel Merino_2020
+Ander Guevara_2020
+Jon Guridi_2020
+Luca Sangalli_2020
+Beñat Turrientes_2020
+Roberto López_2020
+David Silva_2020
+Robert Navarro_2020
+Mikel Oyarzabal_2020
+Ander Barrenetxea_2020
+Martín Merquelanz_2020
+Portu_2020
+Adnan Januzaj_2020
+Alexander Isak_2020
+Willian José_2020
+Carlos Fernández_2020
+Julen Lobete_2020
+Jon Bautista_2020
+Álex Remiro_2021
+Mathew Ryan_2021
+Gaizka Ayesa_2021
+Unai Marrero_2021
+Robin Le Normand_2021
+Aritz Elustondo_2021
+Igor Zubeldia_2021
+Jon Pacheco_2021
+Aihen Muñoz_2021
+Diego Rico_2021
+Nacho Monreal_2021
+Jonathan Gómez_2021
+Cristo Romero_2021
+Andoni Gorosabel_2021
+Joseba Zaldua_2021
+Álex Sola_2021
+Martín Zubimendi_2021
+Asier Illarramendi_2021
+Urko González de Zarate_2021
+Mikel Merino_2021
+Ander Guevara_2021
+Beñat Turrientes_2021
+Jon Guridi_2021
+Jon Ander Olasagasti_2021
+Rafinha_2021
+David Silva_2021
+Robert Navarro_2021
+Mikel Oyarzabal_2021
+Ander Barrenetxea_2021
+Näis Djouahra_2021
+Adnan Januzaj_2021
+Portu_2021
+Germán Valera_2021
+Ander Martín_2021
+Alexander Isak_2021
+Alexander Sørloth_2021
+Carlos Fernández_2021
+Jon Karrikaburu_2021
+Julen Lobete_2021
+Jon Bautista_2021
+Álex Remiro_2022
+Andoni Zubiaurre_2022
+Unai Marrero_2022
+Egoitz Arana_2022
+Robin Le Normand_2022
+Igor Zubeldia_2022
+Aritz Elustondo_2022
+Jon Pacheco_2022
+Aritz Arambarri_2022
+Aihen Muñoz_2022
+Diego Rico_2022
+Jonathan Gómez_2022
+Andoni Gorosabel_2022
+Álex Sola_2022
+Martín Zubimendi_2022
+Asier Illarramendi_2022
+Urko González de Zarate_2022
+Mikel Merino_2022
+Ander Guevara_2022
+Beñat Turrientes_2022
+Jon Ander Olasagasti_2022
+Brais Méndez_2022
+David Silva_2022
+Robert Navarro_2022
+Pablo Marín_2022
+Jon Magunazelaia_2022
+Mikel Oyarzabal_2022
+Mohamed-Ali Cho_2022
+Ander Barrenetxea_2022
+Martín Merquelanz_2022
+Takefusa Kubo_2022
+Ander Martín_2022
+Alexander Isak_2022
+Umar Sadiq_2022
+Alexander Sørloth_2022
+Jon Karrikaburu_2022
+Carlos Fernández_2022
+Óscar Ustari_2010
+Jordi Codina_2010
+Gonzalo_2010
+Cata Díaz_2010
+Iván Marcano_2010
+Rafa López_2010
+Mario Abrante_2010
+İbrahim Kaş_2010
+Pedro Alcalá_2010
+Alberto Escassi_2010
+Álex Pérez_2010
+Mané_2010
+Adrián Cañas_2010
+Miguel Torres_2010
+Pablo Pintos_2010
+Derek Boateng_2010
+Borja Fernández_2010
+Javi Casquero_2010
+Dani Parejo_2010
+Víctor Sánchez_2010
+Pedro Mosquera_2010
+Juan Albín_2010
+Jaime Gavilán_2010
+Adrián Sardinero_2010
+Pedro Ríos_2010
+Manu del Moral_2010
+Adrián Colunga_2010
+Miku_2010
+Javier Arizmendi_2010
+Miguel Ángel Moyá_2011
+Jordi Codina_2011
+Óscar Ustari_2011
+Tomeu Nadal_2011
+Alberto Lopo_2011
+Cata Díaz_2011
+Alexis Ruano_2011
+Rafa López_2011
+Alberto Escassi_2011
+Álvaro Arroyo_2011
+Álex Pérez_2011
+Mané_2011
+Tsepo Masilela_2011
+Michelangelo Albertazzi_2011
+Miguel Torres_2011
+Juan Valera_2011
+Mehdi Lacen_2011
+Juan Rodríguez_2011
+Rubén Pérez_2011
+Javi Casquero_2011
+Míchel Madera_2011
+Pedro Mosquera_2011
+Abdelaziz Barrada_2011
+Samu Saiz_2011
+Diego Castro_2011
+Jaime Gavilán_2011
+Pedro León_2011
+Pedro Ríos_2011
+Pablo Sarabia_2011
+Hugo Fraile_2011
+Miku_2011
+Adrián Colunga_2011
+Dani Güiza_2011
+Javier Arizmendi_2011
+Miguel Ángel Moyá_2012
+Jordi Codina_2012
+Alberto Domínguez_2012
+Federico Fernández_2012
+David Abraham_2012
+Alexis Ruano_2012
+Alberto Lopo_2012
+Rafa López_2012
+Sergio Postigo_2012
+Mané_2012
+Sergio Escudero_2012
+Juan Valera_2012
+Miguel Torres_2012
+José Ruiz_2012
+Xavi Torres_2012
+Mehdi Lacen_2012
+Juan Rodríguez_2012
+Borja Fernández_2012
+Míchel Madera_2012
+Diego Benito_2012
+Abdelaziz Barrada_2012
+Diego Castro_2012
+Ángel Lafita_2012
+Jaime Gavilán_2012
+Pedro León_2012
+Pablo Sarabia_2012
+Hugo Fraile_2012
+Miku_2012
+Álvaro Vázquez_2012
+Adrián Colunga_2012
+Paco Alcácer_2012
+Miguel Ángel Moyá_2013
+Jordi Codina_2013
+Júlio César_2013
+Ángel Galván_2013
+Oliver Sánchez_2013
+Lisandro López_2013
+Rafa López_2013
+Alexis Ruano_2013
+Álvaro Arroyo_2013
+Alberto Lopo_2013
+Roberto Lago_2013
+Sergio Escudero_2013
+David Forniés_2013
+Juan Valera_2013
+Carlos Vigaray_2013
+Mehdi Lacen_2013
+Borja Fernández_2013
+Juan Rodríguez_2013
+Pedro Mosquera_2013
+Míchel Madera_2013
+Sammir_2013
+Ivi López_2013
+Diego Castro_2013
+Ángel Lafita_2013
+Jaime Gavilán_2013
+Pedro León_2013
+Pablo Sarabia_2013
+Javi Navas_2013
+Álvaro Vázquez_2013
+Miku_2013
+Ciprian Marica_2013
+Adrián Colunga_2013
+Vicente Guaita_2014
+Jordi Codina_2014
+Jonathan López_2014
+Emiliano Velázquez_2014
+Alexis Ruano_2014
+Naldo_2014
+Álvaro Arroyo_2014
+Rafa López_2014
+Pablo Villalón_2014
+Sergio Escudero_2014
+Roberto Lago_2014
+Juan Valera_2014
+Carlos Vigaray_2014
+Edu Payá_2014
+Mehdi Lacen_2014
+Juan Rodríguez_2014
+Míchel Madera_2014
+Míchel Herrero_2014
+Pedro Astray_2014
+Alex Felip_2014
+Philtzgerald Mbaka_2014
+Sammir_2014
+Ivi López_2014
+Ángel Lafita_2014
+Diego Castro_2014
+Fredy Hinestroza_2014
+Pere Milla_2014
+Pedro León_2014
+Pablo Sarabia_2014
+Karim Yoda_2014
+Emiliano Buendía_2014
+Álvaro Vázquez_2014
+Baba_2014
+Vicente Guaita_2015
+Balázs Megyeri_2015
+Emiliano Velázquez_2015
+Santiago Vergini_2015
+Alexis Ruano_2015
+Juan Cala_2015
+José Carrillo_2015
+Álvaro Pereira_2015
+Roberto Lago_2015
+Javi Noblejas_2015
+Damián Suárez_2015
+Carlos Vigaray_2015
+Miguel Muñoz_2015
+Mehdi Lacen_2015
+Juan Rodríguez_2015
+Álvaro Medrán_2015
+Víctor Rodríguez_2015
+Bernard Mensah_2015
+Borja Galán_2015
+Moi Gómez_2015
+Ángel Lafita_2015
+Wanderson_2015
+Pablo Sarabia_2015
+Pedro León_2015
+Karim Yoda_2015
+Emiliano Buendía_2015
+Álvaro Vázquez_2015
+Stefan Scepovic_2015
+Henok Goitom_2015
+Ian González_2015
+Vicente Guaita_2017
+Emiliano Martínez_2017
+Filip Manojlovic_2017
+Djené_2017
+Juan Cala_2017
+Bruno González_2017
+Leandro Cabrera_2017
+Nicolas Gorosito_2017
+Alberto Redondo_2017
+Miguel Rubio_2017
+David Alba_2017
+Antunes_2017
+Mathías Olivera_2017
+Damián Suárez_2017
+Francisco Molinero_2017
+Markel Bergara_2017
+Mehdi Lacen_2017
+Dani Pacheco_2017
+Mathieu Flamini_2017
+Mauro Arambarri_2017
+Fayçal Fajr_2017
+Gaku Shibasaki_2017
+Sergio Mora_2017
+Gustavo Quezada_2017
+Diego Barri_2017
+Amath Ndiaye_2017
+Jefferson Montero_2017
+Merveil Ndockyt_2017
+Francisco Portillo_2017
+Álvaro Jiménez_2017
+Carlos Calderón_2017
+Loïc Rémy_2017
+Ángel Rodríguez_2017
+Chuli_2017
+Jorge Molina_2017
+Hugo Duro_2017
+David Soria_2018
+Leandro Chichizola_2018
+Rubén Yáñez_2018
+Djené_2018
+Leandro Cabrera_2018
+Bruno González_2018
+Ignasi Miquel_2018
+Miguel Rubio_2018
+Mathías Olivera_2018
+Antunes_2018
+Damián Suárez_2018
+Dimitri Foulquier_2018
+Markel Bergara_2018
+Mathieu Flamini_2018
+Mauro Arambarri_2018
+Nemanja Maksimovic_2018
+Gaku Shibasaki_2018
+Sebastián Cristóforo_2018
+Samu Saiz_2018
+Amath Ndiaye_2018
+Francisco Portillo_2018
+Iván Alejo_2018
+Rober Ibáñez_2018
+Jaime Mata_2018
+Sergi Guardiola_2018
+Ángel Rodríguez_2018
+Jorge Molina_2018
+Hugo Duro_2018
+David Soria_2019
+Leandro Chichizola_2019
+Filip Manojlovic_2019
+Marcos Lavín_2019
+Djené_2019
+Leandro Cabrera_2019
+Erick Cabaco_2019
+Xabi Etxeita_2019
+Bruno González_2019
+Chema Rodríguez_2019
+Florent Poulolo_2019
+Marc Cucurella_2019
+Antunes_2019
+Mathías Olivera_2019
+Raúl Carnero_2019
+Allan Nyom_2019
+Damián Suárez_2019
+David Timor_2019
+Markel Bergara_2019
+Mauro Arambarri_2019
+Nemanja Maksimovic_2019
+Peter Etebo_2019
+Fayçal Fajr_2019
+Kenedy_2019
+Amath Ndiaye_2019
+Jason_2019
+Francisco Portillo_2019
+Jaime Mata_2019
+Ángel Rodríguez_2019
+Deyverson_2019
+Hugo Duro_2019
+Jorge Molina_2019
+Enric Gallego_2019
+David Soria_2020
+Rubén Yáñez_2020
+Djené_2020
+Erick Cabaco_2020
+Xabi Etxeita_2020
+Chema Rodríguez_2020
+Soufiane Chakla_2020
+David Alba_2020
+Ryan Nolan_2020
+Marc Cucurella_2020
+Mathías Olivera_2020
+Koffi_2020
+Allan Nyom_2020
+Damián Suárez_2020
+Juan Iglesias_2020
+David Timor_2020
+Mauro Arambarri_2020
+Carles Aleñá_2020
+Nemanja Maksimovic_2020
+Ante Palaversa_2020
+John Joe Patrick Finn_2020
+Sabit Abdulai_2020
+Víctor Mollejo_2020
+Josete Miranda_2020
+Takefusa Kubo_2020
+Abdoulay Diaby_2020
+Francisco Portillo_2020
+Cucho Hernández_2020
+Enes Ünal_2020
+Jaime Mata_2020
+Ángel Rodríguez_2020
+Darío Poveda_2020
+Mamor Niang_2020
+David Soria_2021
+Rubén Yáñez_2021
+Diego Conde_2021
+Djené_2021
+Jorge Cuenca_2021
+Erick Cabaco_2021
+Stefan Mitrovic_2021
+Ignasi Miquel_2021
+Chema Rodríguez_2021
+Gastón Álvarez_2021
+Álvaro López_2021
+Chinchu_2021
+Marc Cucurella_2021
+Mathías Olivera_2021
+Jonathan Silva_2021
+Koffi_2021
+Juan Iglesias_2021
+Damián Suárez_2021
+Allan Nyom_2021
+Florentino_2021
+Okay Yokuşlu_2021
+David Timor_2021
+Ángel Algobia_2021
+Mauro Arambarri_2021
+Nemanja Maksimovic_2021
+Carles Aleñá_2021
+Gonzalo Villar_2021
+John Joe Patrick Finn_2021
+Totti_2021
+Jakub Jankto_2021
+Óscar Rodríguez_2021
+Santi García_2021
+Diego López_2021
+Vitolo_2021
+Pablo Montero_2021
+Enes Ünal_2021
+Hugo Duro_2021
+Borja Mayoral_2021
+José Juan Macías_2021
+Sandro Ramírez_2021
+Jaime Mata_2021
+Darío Poveda_2021
+Mamor Niang_2021
+David Soria_2022
+Diego Conde_2022
+Kiko Casilla_2022
+Vicente Bellmunt_2022
+Djené_2022
+Gastón Álvarez_2022
+Domingos Duarte_2022
+Omar Alderete_2022
+Stefan Mitrovic_2022
+Álex Revuelta_2022
+Pablo Ramirez_2022
+Fabrizio Angileri_2022
+Jordan Amavi_2022
+Koffi_2022
+Gorka Rivera_2022
+Juan Iglesias_2022
+Damián Suárez_2022
+Alex Rodríguez_2022
+Ángel Algobia_2022
+Carles Aleñá_2022
+Mauro Arambarri_2022
+Nemanja Maksimovic_2022
+Luis Milla_2022
+Gonzalo Villar_2022
+Jaime Seoane_2022
+John Joe Patrick Finn_2022
+Santi García_2022
+Moi Parra_2022
+Portu_2022
+Munir El Haddadi_2022
+Enes Ünal_2022
+Borja Mayoral_2022
+Juanmi Latasa_2022
+Jaime Mata_2022
+Daniel Aranzubia_2010
+Manu Fernández_2010
+Felipe Ramos_2010
+Alberto Lopo_2010
+Diego Colotto_2010
+Zé Castro_2010
+Aythami Artiles_2010
+David Rochela_2010
+Claudio Morel_2010
+Knut Olav Rindarøy_2010
+Manuel Pablo_2010
+Diego Seoane_2010
+Laure_2010
+Juan Rodríguez_2010
+Juca_2010
+Rubén Pérez_2010
+Andrés Guardado_2010
+Antonio Tomás_2010
+Míchel Herrero_2010
+Juan Domínguez_2010
+Saúl_2010
+Juan Carlos Valerón_2010
+Yves Desmarets_2010
+Javito_2010
+Pablo Álvarez_2010
+Jonathan Urretaviscaya_2010
+Adrián López_2010
+Riki_2010
+José Sand_2010
+Lassad Nouioui_2010
+Xisco_2010
+Dioni_2010
+Iago Beceiro_2010
+Daniel Aranzubia_2012
+Germán Lux_2012
+Marc Martínez_2012
+Zé Castro_2012
+Aythami Artiles_2012
+Roderick Miranda_2012
+Carlos Marchena_2012
+Pablo Insua_2012
+Kaká_2012
+Tiago Pinto_2012
+Evaldo_2012
+Ayoze Díaz_2012
+Sílvio_2012
+Laure_2012
+Diego Seoane_2012
+Manuel Pablo_2012
+Abel Aguilar_2012
+Álex Bergantiños_2012
+André Santos_2012
+Paulo Assunção_2012
+Juan Domínguez_2012
+Jesús Vázquez_2012
+Pizzi_2012
+Saúl_2012
+Juan Carlos Valerón_2012
+Bruno Gama_2012
+Diogo Salomão_2012
+Javier Camuñas_2012
+Nélson Oliveira_2012
+Riki_2012
+Rodolfo Bodipo_2012
+Germán Lux_2014
+Fabri_2014
+David Gómez_2014
+Pablo Insua_2014
+Sidnei_2014
+Modibo Diakité_2014
+Borja López_2014
+Alberto Lopo_2014
+Iago López_2014
+Luisinho_2014
+Roberto Canella_2014
+Juanfran Moreno_2014
+Laure_2014
+Diego Seoane_2014
+Manuel Pablo_2014
+Álex Bergantiños_2014
+Cezary Wilk_2014
+José Rodríguez_2014
+Haris Medunjanin_2014
+Juan Domínguez_2014
+Celso Borges_2014
+Dani Iglesias_2014
+Luis Fariña_2014
+Juan Carlos Real_2014
+Marcos Remeseiro_2014
+Ivan Cavaleiro_2014
+Isaac Cuenca_2014
+Hélder Costa_2014
+Diogo Salomão_2014
+Lucas Pérez_2014
+Oriol Riera_2014
+Hélder Postiga_2014
+Toché_2014
+Fabri_2015
+Germán Lux_2015
+Stipe Pletikosa_2015
+Manu Fernández_2015
+David Gómez_2015
+Sidnei_2015
+Alejandro Arribas_2015
+Alberto Lopo_2015
+Róber Pier_2015
+Luisinho_2015
+Fernando Navarro_2015
+Saúl García_2015
+Juanfran Moreno_2015
+Laure_2015
+Manuel Pablo_2015
+Álex Bergantiños_2015
+Pedro Mosquera_2015
+Fayçal Fajr_2015
+Luis Alberto_2015
+Celso Borges_2015
+Haris Medunjanin_2015
+Juan Domínguez_2015
+Jonás Gutiérrez_2015
+Cani_2015
+Miguel Cardoso_2015
+Óscar Pinchi_2015
+Fede Cartabia_2015
+Lucas Pérez_2015
+Jonathan Rodríguez_2015
+Oriol Riera_2015
+Davy Roef_2016
+Przemyslaw Tyton_2016
+Rubén Martínez_2016
+Germán Lux_2016
+Sidnei_2016
+Pablo Insua_2016
+Raúl Albentosa_2016
+Alejandro Arribas_2016
+Róber Pier_2016
+Nacho Monsalve_2016
+Luisinho_2016
+Saúl García_2016
+Fernando Navarro_2016
+Juanfran Moreno_2016
+Laure_2016
+Guilherme_2016
+Álex Bergantiños_2016
+Celso Borges_2016
+Pedro Mosquera_2016
+Fayçal Fajr_2016
+Juan Domínguez_2016
+Edu Expósito_2016
+Emre Çolak_2016
+Carles Gil_2016
+Gaël Kakuta_2016
+Bicho_2016
+Óscar Pinchi_2016
+Ryan Babel_2016
+Ola John_2016
+Bruno Gama_2016
+Marlos Moreno_2016
+Fede Cartabia_2016
+Lucas Pérez_2016
+Florin Andone_2016
+Joselu_2016
+Oriol Riera_2016
+Borja Valle_2016
+Costel Pantilimon_2017
+Maksym Koval_2017
+Rubén Martínez_2017
+Przemyslaw Tyton_2017
+Francis Uzoho_2017
+Sidnei_2017
+Fabian Schär_2017
+Alejandro Arribas_2017
+Raúl Albentosa_2017
+Aldo One_2017
+Quique Fornos_2017
+Mujaid Sadick_2017
+Luisinho_2017
+Saúl García_2017
+Fernando Navarro_2017
+Juanfran Moreno_2017
+Eneko Bóveda_2017
+Blas Alonso_2017
+Guilherme_2017
+Federico Valverde_2017
+Celso Borges_2017
+Pedro Mosquera_2017
+Michael Krohn-Dehli_2017
+Edu Expósito_2017
+Sulley Muntari_2017
+Emre Çolak_2017
+Carles Gil_2017
+Óscar Pinchi_2017
+Zakaria Bakkali_2017
+Bruno Gama_2017
+Fede Cartabia_2017
+Gerard Valentín_2017
+Lucas Pérez_2017
+Florin Andone_2017
+Adrián López_2017
+Borja Valle_2017
+Toño_2010
+Fabio Coltorti_2010
+Mario Fernández_2010
+Henrique_2010
+Marc Torrejón_2010
+Waldo Ponce_2010
+Osmar_2010
+Álvaro González_2010
+Domingo Cisma_2010
+Bolaño_2010
+Francis Pérez_2010
+Pablo Pinillos_2010
+Mehdi Lacen_2010
+Gonzalo Colsa_2010
+Pape Diop_2010
+Alexandros Tziolis_2010
+Adrián González_2010
+Edu Bedia_2010
+Ramón Arcas_2010
+Julián Luque_2010
+Tato_2010
+Kennedy_2010
+Óscar Serrano_2010
+Manuel Arana_2010
+Giovani dos Santos_2010
+Pedro Munitis_2010
+Mémé Tchité_2010
+Markus Rosenberg_2010
+Iván Bolado_2010
+Ariel Nahuelpán_2010
+Toño_2011
+Mario Fernández_2011
+Óscar Santiago_2011
+Dani Sotres_2011
+Marc Torrejón_2011
+Álvaro González_2011
+Bernardo Espinosa_2011
+Osmar_2011
+José Picón_2011
+Borja García_2011
+Alberto Guitián_2011
+Javi Barrio_2011
+Domingo Cisma_2011
+Bolaño_2011
+Francis Pérez_2011
+Gonzalo Herrero_2011
+Pape Diop_2011
+Gonzalo Colsa_2011
+Alexandros Tziolis_2011
+Adrián González_2011
+Marcos Gullón_2011
+Julián Luque_2011
+Edu Bedia_2011
+Quique Rivero_2011
+César de la Hoz_2011
+Kennedy_2011
+Óscar Serrano_2011
+Lautaro Acosta_2011
+Borja Docal_2011
+Manuel Arana_2011
+Jairo Samperio_2011
+Pedro Munitis_2011
+Cristhian Stuani_2011
+Khouma Babacar_2011
+Ariel Nahuelpán_2011
+Mamadou Koné_2011
+Jaime Isuardi_2011
+Javi Martínez_2011
+Asier Riesgo_2010
+Ricardo_2010
+Nacho Zabal_2010
+Miguel Flaño_2010
+Sergio Fernández_2010
+Josetxo_2010
+Ekhi Senar_2010
+Nacho Monreal_2010
+Juanfran Torres_2010
+Nélson_2010
+Damià Abella_2010
+Javad Nekounam_2010
+Lolo_2010
+Patxi Puñal_2010
+Oier Sanjurjo_2010
+David Timor_2010
+Rúper_2010
+Krisztián Vadócz_2010
+Javier Calleja_2010
+Fernando Soriano_2010
+Masoud Shojaei_2010
+Xavier Annunziata_2010
+Javier Camuñas_2010
+Álvaro Cejudo_2010
+Carlos Aranda_2010
+Dejan Lekic_2010
+Walter Pandiani_2010
+Ferrán Corominas_2010
+Kike Sola_2010
+Andrés Fernández_2011
+Asier Riesgo_2011
+Ricardo_2011
+Miguel Flaño_2011
+Rubén González_2011
+Rovérsio_2011
+Jukka Raitala_2011
+Jon Echaide_2011
+Sergio Fernández_2011
+Eneko Satrústegui_2011
+Sergio Postigo_2011
+José Manuel Hermosa_2011
+Marc Bertrán_2011
+Damià Abella_2011
+Marcos Pérez_2011
+Javad Nekounam_2011
+Lolo_2011
+David Timor_2011
+Patxi Puñal_2011
+Raoul Loé_2011
+Javier Calleja_2011
+Masoud Shojaei_2011
+Roberto Torres_2011
+Roland Lamah_2011
+Xavier Annunziata_2011
+Álvaro Cejudo_2011
+Raúl García_2011
+Nino_2011
+Ibrahima Balde_2011
+Kike Sola_2011
+Dejan Lekic_2011
+Manu Onwu_2011
+Andrés Fernández_2012
+Asier Riesgo_2012
+Ricardo_2012
+Imanol Elías_2012
+Alejandro Arribas_2012
+Miguel Flaño_2012
+Rubén González_2012
+Jon Echaide_2012
+Unai García_2012
+Nano_2012
+Marc Bertrán_2012
+Damià Abella_2012
+Raoul Loé_2012
+Oier Sanjurjo_2012
+Lolo_2012
+Anthony Annan_2012
+Francisco Silva_2012
+David Timor_2012
+Patxi Puñal_2012
+Sisi González_2012
+Masoud Shojaei_2012
+Roberto Torres_2012
+Maikel Mesa_2012
+Emiliano Armenteros_2012
+Roland Lamah_2012
+Miguel de las Cuevas_2012
+Álvaro Cejudo_2012
+Kike Sola_2012
+Nino_2012
+Joseba Llorente_2012
+Manu Onwu_2012
+Andrés Fernández_2013
+Asier Riesgo_2013
+Ander Cantero_2013
+Alejandro Arribas_2013
+Jordan Lotiès_2013
+Miguel Flaño_2013
+Jon Echaide_2013
+Eneko Satrústegui_2013
+Joan Oriol_2013
+Marc Bertrán_2013
+Damià Abella_2013
+Francisco Silva_2013
+Lolo_2013
+Oier Sanjurjo_2013
+Raoul Loé_2013
+Patxi Puñal_2013
+Roberto Torres_2013
+Sisi González_2013
+José García_2013
+Emiliano Armenteros_2013
+Cristian Lobato_2013
+Jorge Gómez_2013
+Miguel de las Cuevas_2013
+Álvaro Cejudo_2013
+José Núñez_2013
+Oriol Riera_2013
+Manu Onwu_2013
+Javi Acuña_2013
+Nino_2013
+Salvatore Sirigu_2016
+Nauzet Pérez_2016
+Mario Fernández_2016
+Álvaro Fernández_2016
+Juan Pérez_2016
+David García_2016
+Unai García_2016
+Jhon Mondragón_2016
+Tano Bonnín_2016
+Miguel Flaño_2016
+Nikola Vujadinovic_2016
+Iván Márquez_2016
+Juan Rafael Fuentes_2016
+Carlos Clerc_2016
+Aitor Buñuel_2016
+Javier Flaño_2016
+Oier Sanjurjo_2016
+Raoul Loé_2016
+Didier Digard_2016
+Luis Perea_2016
+Goran Causic_2016
+Fran Mérida_2016
+Fausto Tienza_2016
+Imanol García_2016
+Antonio Otegui_2016
+Roberto Torres_2016
+Álex Berenguer_2016
+Miguel de las Cuevas_2016
+Jaime Romero_2016
+Javi Álamo_2016
+Miguel Olavide_2016
+Kike Barja_2016
+Aitor Lorea_2016
+Sergio León_2016
+Kenan Kodro_2016
+Oriol Riera_2016
+Emmanuel Rivière_2016
+Sergio Herrera_2019
+Rubén Martínez_2019
+Juan Pérez_2019
+Iñaki Álvarez_2019
+Aridane Hernández_2019
+David García_2019
+Facundo Roncaglia_2019
+Raúl Navas_2019
+Unai García_2019
+Pervis Estupiñán_2019
+Toni Lato_2019
+Endika Irigoyen_2019
+Nacho Vidal_2019
+Lillo Castellano_2019
+Gorka Zabarte_2019
+Oier Sanjurjo_2019
+Luis Perea_2019
+Jon Moncayola_2019
+Darko Brasanac_2019
+Fran Mérida_2019
+Iñigo Pérez_2019
+Antonio Otegui_2019
+Roberto Torres_2019
+Javi Martínez_2019
+Aimar Oroz_2019
+Rubén García_2019
+José Manuel Arnáiz_2019
+José Hualde_2019
+Rober Ibáñez_2019
+Kike Barja_2019
+Juan Villar_2019
+Chimy Ávila_2019
+Adrián López_2019
+Marc Cardona_2019
+Enric Gallego_2019
+Brandon Thomas_2019
+Iván Barbero_2019
+Sergio Herrera_2020
+Juan Pérez_2020
+Rubén Martínez_2020
+Iván Martínez_2020
+Iñaki Álvarez_2020
+David García_2020
+Aridane Hernández_2020
+Unai García_2020
+Facundo Roncaglia_2020
+Jonás Ramalho_2020
+Raúl Navas_2020
+Jorge Herrando_2020
+Manu Sánchez_2020
+Juan Cruz_2020
+Nacho Vidal_2020
+Gorka Zabarte_2020
+Lucas Torró_2020
+Oier Sanjurjo_2020
+Jon Moncayola_2020
+Darko Brasanac_2020
+Iñigo Pérez_2020
+Roberto Torres_2020
+Javi Martínez_2020
+Aimar Oroz_2020
+Rubén García_2020
+Jony_2020
+Asier Córdoba_2020
+Kike Saverio_2020
+Kike Barja_2020
+Chimy Ávila_2020
+Ante Budimir_2020
+Jonathan Calleri_2020
+Adrián López_2020
+Enric Gallego_2020
+Marc Cardona_2020
+Brandon Thomas_2020
+Sergio Herrera_2021
+Juan Pérez_2021
+Darío Ramos_2021
+Yoel Ramírez_2021
+David García_2021
+Unai García_2021
+Aridane Hernández_2021
+Jonás Ramalho_2021
+Unai Dufur_2021
+Manu Sánchez_2021
+Juan Cruz_2021
+Cote_2021
+Nacho Vidal_2021
+Jesús Areso_2021
+Lucas Torró_2021
+Oier Sanjurjo_2021
+Jon Moncayola_2021
+Darko Brasanac_2021
+Jaume Grau_2021
+Iñigo Pérez_2021
+Roberto Torres_2021
+Javi Martínez_2021
+Rubén García_2021
+Javi Ontiveros_2021
+Kike Barja_2021
+Rober Ibáñez_2021
+Iker Benito_2021
+Pau Martínez_2021
+Chimy Ávila_2021
+Ante Budimir_2021
+Kike García_2021
+Iván Barbero_2021
+Sergio Herrera_2022
+Aitor Fernández_2022
+Juan Pérez_2022
+Darío Ramos_2022
+Pablo Valencia_2022
+Yoel Ramírez_2022
+David García_2022
+Unai García_2022
+Aridane Hernández_2022
+Jorge Herrando_2022
+Manu Sánchez_2022
+Juan Cruz_2022
+Nacho Vidal_2022
+Rubén Peña_2022
+Diego Moreno_2022
+Lucas Torró_2022
+Iker Muñoz_2022
+Jon Moncayola_2022
+Darko Brasanac_2022
+Pablo Ibáñez_2022
+Aimar Oroz_2022
+Roberto Torres_2022
+Javi Martínez_2022
+Abde Ezzalzouli_2022
+Moi Gómez_2022
+Rubén García_2022
+Kike Barja_2022
+Iker Benito_2022
+Chimy Ávila_2022
+Ante Budimir_2022
+Kike García_2022
+Leo Franco_2010
+Toni Doblas_2010
+Álex Sánchez_2010
+Pablo Alcolea_2010
+Matteo Contini_2010
+Paulo da Silva_2010
+Jiri Jarosik_2010
+Maurizio Lanzaro_2010
+Ádám Pintér_2010
+Víctor Laguardia_2010
+Raúl Goni_2010
+Ivan Obradovic_2010
+Javier Paredes_2010
+Isma López_2010
+Carlos Diogo_2010
+Kevin Lacruz_2010
+José Ruiz_2010
+Leonardo Ponzio_2010
+Guirane N'Daw_2010
+Edmílson_2010
+Ander Herrera_2010
+Gabi_2010
+Saïd Boutahar_2010
+Nicolás Bertolo_2010
+Ángel Lafita_2010
+Jorge López_2010
+Florent Sinama-Pongolle_2010
+Ikechukwu Uche_2010
+Marco Pérez_2010
+Braulio Nóbrega_2010
+Roberto_2011
+Leo Franco_2011
+Kilian Falcón_2011
+Pablo Alcolea_2011
+Fernando Meira_2011
+Paulo da Silva_2011
+Maurizio Lanzaro_2011
+David Mateos_2011
+Ádám Pintér_2011
+Ramiro Mayor_2011
+Ivan Obradovic_2011
+Javier Paredes_2011
+Juankar_2011
+Abraham Minero_2011
+Efraín Juárez_2011
+Pablo Álvarez_2011
+Edu Oriol_2011
+Kevin Lacruz_2011
+Leonardo Ponzio_2011
+Rúben Micael_2011
+Luis García_2011
+Franco Zuculini_2011
+Apoño_2011
+Tomislav Dujmovic_2011
+Antonio Tomás_2011
+Joel Valencia_2011
+Ángel Lafita_2011
+Pablo Barrera_2011
+Hélder Postiga_2011
+Ikechukwu Uche_2011
+Carlos Aranda_2011
+Braulio Nóbrega_2011
+Jorge Ortí_2011
+Roberto_2012
+Toni Doblas_2012
+Leo Franco_2012
+Kilian Falcón_2012
+Pablo Alcolea_2012
+Álvaro González_2012
+Cristian Săpunaru_2012
+Glenn Loovens_2012
+Ádám Pintér_2012
+Maurizio Lanzaro_2012
+Raúl Goni_2012
+Carlos Hernández_2012
+Fran González_2012
+Abraham Minero_2012
+Javier Paredes_2012
+Ivan Obradovic_2012
+Héctor Hernández_2012
+José Manuel Fernández_2012
+Edu Oriol_2012
+Romaric_2012
+José Mari_2012
+José María Movilla_2012
+Apoño_2012
+Franco Zuculini_2012
+Tarsi Aguado_2012
+Víctor Rodríguez_2012
+Stefan Babovic_2012
+Lucas Wilchez_2012
+Paco Montañés_2012
+Adrià Carmona_2012
+Rubén Rochina_2012
+Javi Álamo_2012
+Hélder Postiga_2012
+Henri Bienvenu_2012
+Rodri Ríos_2012
+Carlos Aranda_2012
+Jorge Ortí_2012
+Dudu Aouate_2010
+Germán Lux_2010
+Tomeu Nadal_2010
+Iván Ramis_2010
+José Nunes_2010
+Rubén González_2010
+Martí Crespí_2010
+Ayoze Díaz_2010
+Enrique Corrales_2010
+Kevin García_2010
+Pau Cendrós_2010
+Edson Ratinho_2010
+Ximo Navarro_2010
+Jonathan de Guzmán_2010
+João Victor_2010
+Josep Lluís Martí_2010
+Sergio Tejera_2010
+Tomás Pina_2010
+Chory Castro_2010
+Michaël Pereira_2010
+Akihiro Ienaga_2010
+Tuni_2010
+Pierre Webó_2010
+Emilio Nsue_2010
+Víctor Casadesús_2010
+Fernando Cavenaghi_2010
+Sergi Enrich_2010
+Abdón Prats_2010
+Dudu Aouate_2011
+Juan Calatayud_2011
+Yeray Gómez_2011
+Iván Ramis_2011
+Chico Flores_2011
+Gianni Zuiverloon_2011
+José Nunes_2011
+Martí Crespí_2011
+Pedro Bigas_2011
+Pablo Marí_2011
+Pablo Cáceres_2011
+Kevin García_2011
+Pau Cendrós_2011
+Biel Company_2011
+Jonathan de Guzmán_2011
+João Victor_2011
+Fernando Tissone_2011
+Josep Lluís Martí_2011
+Tomás Pina_2011
+Sergio Tejera_2011
+Tià Sastre_2011
+Chory Castro_2011
+Alejandro Alfaro_2011
+Michaël Pereira_2011
+Akihiro Ienaga_2011
+Xisco Hernández_2011
+Marvin Ogunjimi_2011
+Emilio Nsue_2011
+Víctor Casadesús_2011
+Tomer Hemed_2011
+Álvaro Giménez_2011
+Abdón Prats_2011
+Dudu Aouate_2012
+Juan Calatayud_2012
+Rubén Miño_2012
+Pedro Geromel_2012
+Pedro Bigas_2012
+Andreu Fontàs_2012
+Anderson Conceição_2012
+José Nunes_2012
+Pablo Marí_2012
+Charlie Took_2012
+Antonio Luna_2012
+Antonio López_2012
+Kevin García_2012
+Alan Hutton_2012
+Ximo Navarro_2012
+Biel Company_2012
+João Victor_2012
+Fernando Tissone_2012
+Josep Lluís Martí_2012
+Tomás Pina_2012
+Javi Márquez_2012
+Tià Sastre_2012
+Uche_2012
+Carlos Cristeto_2012
+Nico Baleani_2012
+Alejandro Alfaro_2012
+Marc Fernández_2012
+Michaël Pereira_2012
+Giovani dos Santos_2012
+Tomer Hemed_2012
+Víctor Casadesús_2012
+Emilio Nsue_2012
+Javier Arizmendi_2012
+Brandon Thomas_2012
+Álvaro Giménez_2012
+Abdón Prats_2012
+Fabri_2019
+Manolo Reina_2019
+Miquel Parera_2019
+Jesús Ruiz_2019
+Pere García_2019
+Martin Valjent_2019
+Antonio Raíllo_2019
+Aleksandar Sedlar_2019
+Xisco Campos_2019
+Fran González_2019
+Leonardo Koutris_2019
+Abdul Rahman Baba_2019
+Lumor Agbenyenu_2019
+Rafa Obrador_2019
+Alejandro Pozo_2019
+Joan Sastre_2019
+Fran Gámez_2019
+Sung-yueng Ki_2019
+Aleix Febas_2019
+Iddrisu Baba_2019
+Marc Pedraza_2019
+Salva Sevilla_2019
+Dani Rodríguez_2019
+Josep Señé_2019
+Lago Júnior_2019
+Aleksandar Trajkovski_2019
+Takefusa Kubo_2019
+Yannis Salibur_2019
+Aridai Cabrera_2019
+Luka Romero_2019
+Cucho Hernández_2019
+Ante Budimir_2019
+Pablo Chavarría_2019
+Abdón Prats_2019
+Álex Alegría_2019
+Sergio Rico_2021
+Dominik Greif_2021
+Leo Román_2021
+Manolo Reina_2021
+Pere García_2021
+Ferran Quetglás_2021
+Martin Valjent_2021
+Antonio Raíllo_2021
+Franco Russo_2021
+Aleksandar Sedlar_2021
+Josep Gayá_2021
+Brian Oliván_2021
+Jaume Costa_2021
+Marc Carmona_2021
+Marcos Fernández_2021
+Pablo Maffeo_2021
+Joan Sastre_2021
+Giovanni González_2021
+Miguelito_2021
+Rodrigo Battaglia_2021
+Iddrisu Baba_2021
+Iñigo Ruiz de Galarreta_2021
+Antonio Sánchez_2021
+Aleix Febas_2021
+Clément Grenier_2021
+Salva Sevilla_2021
+Thomas Giaquinto_2021
+Kang-in Lee_2021
+Dani Rodríguez_2021
+Víctor Mollejo_2021
+Amath Ndiaye_2021
+Lago Júnior_2021
+Javi Llabrés_2021
+Takefusa Kubo_2021
+Jordi Mboula_2021
+Vedat Muriqi_2021
+Fer Niño_2021
+Ángel Rodríguez_2021
+Abdón Prats_2021
+Matthew Hoppe_2021
+Pablo Gálvez_2021
+Predrag Rajkovic_2022
+Dominik Greif_2022
+Leo Román_2022
+Pere García_2022
+Martin Valjent_2022
+Antonio Raíllo_2022
+José Copete_2022
+Dennis Hadzikadunic_2022
+Matija Nastasic_2022
+Franco Russo_2022
+Benjamín Garay_2022
+Josep Gayá_2022
+Ludwig Augustinsson_2022
+Braian Cufré_2022
+Jaume Costa_2022
+Marcos Fernández_2022
+Pablo Maffeo_2022
+Giovanni González_2022
+Miguelito_2022
+Rodrigo Battaglia_2022
+Manu Morlanes_2022
+Iñigo Ruiz de Galarreta_2022
+Iddrisu Baba_2022
+Antonio Sánchez_2022
+Clément Grenier_2022
+Miquel Llabrés_2022
+Luis Montiel_2022
+Rubén Quintanilla_2022
+Kang-in Lee_2022
+Dani Rodríguez_2022
+Amath Ndiaye_2022
+Lago Júnior_2022
+Javi Llabrés_2022
+Tòfol Montiel_2022
+Vedat Muriqi_2022
+Tino Kadewere_2022
+Abdón Prats_2022
+Ángel Rodríguez_2022
+Juan Pablo Colinas_2010
+Iván Cuéllar_2010
+Raúl Domínguez_2010
+Alberto Botía_2010
+Grégory Arnolin_2010
+Iván Hernández_2010
+Jorge García_2010
+Alain Álvarez_2010
+Javi Poves_2010
+Pedro Orfila_2010
+Cote_2010
+Roberto Canella_2010
+Ayoze García_2010
+Rafael Sastre_2010
+Sebastián Eguren_2010
+Sergio Matabuena_2010
+Sergio Álvarez_2010
+Alberto Lora_2010
+Alberto Rivera_2010
+Castro_2010
+Nacho Cases_2010
+Cristian Portilla_2010
+Marcos Landeira_2010
+Carmelo_2010
+Juan Muñiz_2010
+Diego Castro_2010
+Miguel de las Cuevas_2010
+Nacho Novo_2010
+Gastón Sangoy_2010
+David Barral_2010
+Luis Morán_2010
+Mate Bilic_2010
+Guillermo Méndez_2010
+Juan Pablo Colinas_2011
+Iván Cuéllar_2011
+Raúl Domínguez_2011
+Dennis Díaz_2011
+Alberto Botía_2011
+Grégory Arnolin_2011
+Iván Hernández_2011
+Pedro Orfila_2011
+Alejandro Gálvez_2011
+Alain Álvarez_2011
+Moisés García_2011
+Roberto Canella_2011
+Ayoze García_2011
+Álex Menéndez_2011
+Damián Suárez_2011
+Sebastián Eguren_2011
+Sergio Álvarez_2011
+Alberto Lora_2011
+Castro_2011
+Nacho Cases_2011
+Alberto Rivera_2011
+Ricardo León_2011
+Óscar Trejo_2011
+Carmelo_2011
+Juan Muñiz_2011
+Miguel de las Cuevas_2011
+Nacho Novo_2011
+Gastón Sangoy_2011
+Formose Mendy_2011
+Adrián Colunga_2011
+David Barral_2011
+Luis Morán_2011
+Mate Bilic_2011
+Iván Cuéllar_2015
+Alberto García_2015
+Dennis Díaz_2015
+Luis Hernández_2015
+Bernardo Espinosa_2015
+Jorge Meré_2015
+Igor Lichnovsky_2015
+Ognjen Vranjes_2015
+Alberto Guitián_2015
+Isma López_2015
+Roberto Canella_2015
+Álex Menéndez_2015
+Sergio Álvarez_2015
+Omar Mascarell_2015
+Alberto Lora_2015
+Nacho Cases_2015
+Rachid Aït-Atmane_2015
+Álex Barrera_2015
+Alen Halilovic_2015
+Pablo Pérez_2015
+Dani Ndi_2015
+Juan Muñiz_2015
+Jony_2015
+Carlos Carmona_2015
+Hugo Fraile_2015
+Miguel Ángel Guerrero_2015
+Antonio Sanabria_2015
+Carlos Castro_2015
+Sergio Mendigutxia_2015
+Iván Cuéllar_2016
+Diego Mariño_2016
+Óscar Whalley_2016
+Jorge Meré_2016
+Jean-Sylvain Babin_2016
+Fernando Amorebieta_2016
+Juan Rodríguez_2016
+Isma López_2016
+Roberto Canella_2016
+Elderson_2016
+Lillo Castellano_2016
+Douglas_2016
+Sergio Álvarez_2016
+Mikel Vesga_2016
+Xavi Torres_2016
+Cristian Salvador_2016
+Nacho Cases_2016
+Rachid Aït-Atmane_2016
+Alberto Lora_2016
+Víctor Rodríguez_2016
+Dani Ndi_2016
+Pablo Fernández_2016
+Moi Gómez_2016
+Burgui_2016
+Akram Afif_2016
+Carlos Carmona_2016
+Duje Cop_2016
+Lacina Traoré_2016
+Carlos Castro_2016
+Borja Viguera_2016
+Rubén Sánchez_2016
+Juan Calatayud_2010
+Piet Velthuizen_2010
+Unai Alba_2010
+Álex Berenguer_2010
+Abraham Paz_2010
+Rodri_2010
+Noé Pamarot_2010
+Mohamed Sarr_2010
+Paco Peña_2010
+Cristian Pulhac_2010
+Pepe Sellés_2010
+David Cortés_2010
+Kiko Femenía_2010
+Juanra_2010
+Abel Aguilar_2010
+Matías Fritzler_2010
+Javier Farinós_2010
+Tiago Gomes_2010
+Jesús Pastor_2010
+Royston Drenthe_2010
+Olivier Thomert_2010
+Cristian Hidalgo_2010
+Sendoa Agirre_2010
+Luis Carlos Martín_2010
+Borja Arlanzón_2010
+Francisco Rufete_2010
+Javo_2010
+David Trezeguet_2010
+Nelson Valdez_2010
+Tote_2010
+Javier Portillo_2010
+Sergio Poveda_2010
+Manolo Reina_2010
+Gustavo Munúa_2010
+Sergio Garabato_2010
+Nano Rivas_2010
+Héctor Rodas_2010
+Miquel Robusté_2010
+Sergio Ballesteros_2010
+Antonio López_2010
+Asier del Horno_2010
+Juanfran_2010
+Mossa_2010
+David Cerra_2010
+Javi Venta_2010
+Vicente Iborra_2010
+Xavi Torres_2010
+Miguel Pallardó_2010
+Sergio_2010
+Gorka Larrea_2010
+Miguel Pérez_2010
+Juanlu_2010
+Ignacio González_2010
+Adrián Lois_2010
+Jefferson Montero_2010
+Valdo_2010
+Xisco Nadal_2010
+Wellington Silva_2010
+José Higón_2010
+Rubén Suárez_2010
+Xisco Muñoz_2010
+Felipe Caicedo_2010
+Cristhian Stuani_2010
+Rafa Jordá_2010
+Mono_2010
+Gustavo Munúa_2011
+Keylor Navas_2011
+Mario Guillén_2011
+Sergio Garabato_2011
+Pablo Coronado_2011
+Pedro Botelho_2011
+David Navarro_2011
+Gustavo Cabral_2011
+Nano Rivas_2011
+Sergio Ballesteros_2011
+Héctor Rodas_2011
+Asier del Horno_2011
+Juanfran_2011
+Pedro López_2011
+Javi Venta_2011
+Iván López_2011
+Xavi Torres_2011
+Vicente Iborra_2011
+Javier Farinós_2011
+Miguel Pallardó_2011
+Juanlu_2011
+Óscar Serrano_2011
+José Javier Barkero_2011
+Marc Mateu_2011
+Valdo_2011
+Nabil El Zhar_2011
+Wellington Silva_2011
+José Higón_2011
+Rubén Suárez_2011
+Arouna Koné_2011
+Abdelkader Ghezzal_2011
+Carlos Aranda_2011
+Rafa Jordá_2011
+Roger Martí_2011
+Keylor Navas_2012
+Gustavo Munúa_2012
+Sergio Garabato_2012
+Loukas Vyntra_2012
+Simão_2012
+Massimo Volta_2012
+David Navarro_2012
+Héctor Rodas_2012
+Sergio Ballesteros_2012
+Nikolaos Karabelas_2012
+Juanfran_2012
+Christian Lell_2012
+Pedro López_2012
+Iván López_2012
+Vicente Iborra_2012
+Pape Diop_2012
+Dariusz Dudka_2012
+Míchel Herrero_2012
+Miguel Pallardó_2012
+Óscar Serrano_2012
+Juanlu_2012
+José Javier Barkero_2012
+Rubén García_2012
+Nabil El Zhar_2012
+Pedro Ríos_2012
+Valdo_2012
+Jason_2012
+Obafemi Martins_2012
+Robert Acquafresca_2012
+Ángel Rodríguez_2012
+Theofanis Gekas_2012
+Roger Martí_2012
+Keylor Navas_2013
+Javi Jiménez_2013
+Leandro Montagud_2013
+Simão_2013
+Loukas Vyntra_2013
+Héctor Rodas_2013
+David Navarro_2013
+Jordi César_2013
+Nikolaos Karabelas_2013
+Juanfran_2013
+Pedro López_2013
+Christian Lell_2013
+Nagore_2013
+Carlos Expósito_2013
+Pape Diop_2013
+Mohamed Sissoko_2013
+Issam El Adoua_2013
+Rémi Gomis_2013
+Sérgio da Silva Pinto_2013
+Miguel Pallardó_2013
+Víctor Camarasa_2013
+Andreas Ivanschitz_2013
+Rubén García_2013
+Jordi Xumetra_2013
+Nabil El Zhar_2013
+Pedro Ríos_2013
+Jason_2013
+Álvaro Traver_2013
+Víctor Casadesús_2013
+Baba_2013
+David Barral_2013
+Ángel Rodríguez_2013
+Aloys Nong_2013
+Diego Mariño_2014
+Jesús Fernández_2014
+Iván Ramis_2014
+Simão_2014
+Héctor Rodas_2014
+Loukas Vyntra_2014
+David Navarro_2014
+Jordi César_2014
+Nikolaos Karabelas_2014
+Toño García_2014
+Juanfran_2014
+Pedro López_2014
+Iván López_2014
+Pape Diop_2014
+Mohamed Sissoko_2014
+Issam El Adoua_2014
+José Mari_2014
+Víctor Camarasa_2014
+Víctor Pérez_2014
+Andreas Ivanschitz_2014
+Rubén García_2014
+Jaime Gavilán_2014
+Nabil El Zhar_2014
+Jordi Xumetra_2014
+Jason_2014
+Kalu Uche_2014
+Víctor Casadesús_2014
+Rafael Martins_2014
+José Luis Morales_2014
+David Barral_2014
+Juan Delgado_2014
+Diego Mariño_2015
+Rubén Martínez_2015
+Jesús Fernández_2015
+Lucas Orbán_2015
+Simão_2015
+Zouhair Feddal_2015
+Ángel Trujillo_2015
+David Navarro_2015
+Dani Calvo_2015
+Toño García_2015
+Nikolaos Karabelas_2015
+Juanfran_2015
+Iván López_2015
+Pedro López_2015
+Verza_2015
+Carl Medjani_2015
+Jefferson Lerma_2015
+José Mari_2015
+Pepelu_2015
+Víctor Camarasa_2015
+Joan Verdú_2015
+Rubén García_2015
+Mauricio Cuero_2015
+Jordi Xumetra_2015
+Álvaro Traver_2015
+Giuseppe Rossi_2015
+Deyverson_2015
+José Luis Morales_2015
+Nabil Ghilas_2015
+Víctor Casadesús_2015
+Roger Martí_2015
+Oier Olazábal_2017
+Raúl Fernández_2017
+Mitchell Langerak_2017
+Iván Villar_2017
+Koke Vegas_2017
+Róber Pier_2017
+Chema Rodríguez_2017
+Sergio Postigo_2017
+Erick Cabaco_2017
+Antonio Luna_2017
+Toño García_2017
+Aly Abeid_2017
+Coke_2017
+Iván López_2017
+Shaq Moore_2017
+Pedro López_2017
+Jefferson Lerma_2017
+Cheick Doukouré_2017
+Verza_2017
+Moctar El Hacen_2017
+José Campaña_2017
+Saša Lukić_2017
+Youssouf Yalike_2017
+Enis Bardhi_2017
+Ivi López_2017
+Emmanuel Boateng_2017
+Rubén Rochina_2017
+Jason_2017
+Samu García_2017
+Fahad Al-Muwallad_2017
+Enes Ünal_2017
+José Luis Morales_2017
+Roger Martí_2017
+Armando Sadiku_2017
+Giampaolo Pazzini_2017
+Álex Alegría_2017
+Nano Mesa_2017
+Oier Olazábal_2018
+Aitor Fernández_2018
+Koke Vegas_2018
+Rúben Vezo_2018
+Erick Cabaco_2018
+Róber Pier_2018
+Chema Rodríguez_2018
+Sergio Postigo_2018
+Genís Montolio_2018
+Antonio Luna_2018
+Toño García_2018
+Coke_2018
+Shaq Moore_2018
+Pedro López_2018
+Nikola Vukcevic_2018
+Cheick Doukouré_2018
+Pepelu_2018
+José Campaña_2018
+Sanjin Prcic_2018
+Fran Manzanara_2018
+Enis Bardhi_2018
+Arturo Molina_2018
+Moses Simon_2018
+Emmanuel Boateng_2018
+Jason_2018
+Rubén Rochina_2018
+Samu García_2018
+Roger Martí_2018
+José Luis Morales_2018
+Borja Mayoral_2018
+Raphael Dwamena_2018
+Aitor Fernández_2019
+Oier Olazábal_2019
+Koke Vegas_2019
+Dani Cárdenas_2019
+Rúben Vezo_2019
+Erick Cabaco_2019
+Sergio Postigo_2019
+Róber Pier_2019
+Bruno González_2019
+Óscar Duarte_2019
+Gonzalo Pereira_2019
+Eliseo Falcón_2019
+Carlos Clerc_2019
+Toño García_2019
+Jorge Miramón_2019
+Coke_2019
+Iván López_2019
+Rubén García_2019
+Nemanja Radoja_2019
+Nikola Vukcevic_2019
+José Campaña_2019
+Gonzalo Melero_2019
+Pablo Martínez_2019
+Álex Blesa_2019
+Giorgi Kochorashvili_2019
+Enis Bardhi_2019
+Hernâni_2019
+Rubén Rochina_2019
+Joan Monterde_2019
+Roger Martí_2019
+José Luis Morales_2019
+Borja Mayoral_2019
+Sergio León_2019
+Aitor Fernández_2020
+Dani Cárdenas_2020
+Koke Vegas_2020
+Pablo Cuñat_2020
+Rúben Vezo_2020
+Róber Pier_2020
+Sergio Postigo_2020
+Óscar Duarte_2020
+Alfredo Pedraza_2020
+Euse Monzó_2020
+Carlos Clerc_2020
+Toño García_2020
+Jorge Miramón_2020
+Son_2020
+Coke_2020
+Mickaël Malsa_2020
+Nemanja Radoja_2020
+Nikola Vukcevic_2020
+Cheick Doukouré_2020
+José Campaña_2020
+Gonzalo Melero_2020
+Pablo Martínez_2020
+Álex Blesa_2020
+Giorgi Kochorashvili_2020
+Enis Bardhi_2020
+Hernâni_2020
+Alejandro Cantero_2020
+Jorge de Frutos_2020
+Rubén Rochina_2020
+Edgar Sevikyan_2020
+Roger Martí_2020
+José Luis Morales_2020
+Dani Gómez_2020
+Sergio León_2020
+Aitor Fernández_2021
+Dani Cárdenas_2021
+Koke Vegas_2021
+Pablo Picón_2021
+Pablo Cuñat_2021
+Álex Primo_2021
+Rúben Vezo_2021
+Shkodran Mustafi_2021
+Róber Pier_2021
+Martín Cáceres_2021
+Óscar Duarte_2021
+Sergio Postigo_2021
+José Manuel_2021
+Antonio Leal_2021
+Marcelo Saracchi_2021
+Carlos Clerc_2021
+Enric Franquesa_2021
+Jorge Miramón_2021
+Son_2021
+Marc Pubill_2021
+Coke_2021
+Carlos Giménez_2021
+Joseda Álvarez_2021
+Pepelu_2021
+Mickaël Malsa_2021
+Nemanja Radoja_2021
+Nikola Vukcevic_2021
+José Campaña_2021
+Gonzalo Melero_2021
+Pablo Martínez_2021
+Álex Blesa_2021
+Giorgi Kochorashvili_2021
+Carlos Benítez_2021
+Enis Bardhi_2021
+Alejandro Cantero_2021
+Hernâni_2021
+Jorge de Frutos_2021
+Roger Martí_2021
+José Luis Morales_2021
+Dani Gómez_2021
+Roberto Soldado_2021
+Omar Faraj_2021
+Roberto Fernández_2011
+Júlio César_2011
+José Juan Figueras_2011
+Hugo Cantero_2011
+Pape Diakhaté_2011
+Noé Pamarot_2011
+Iñigo López_2011
+Borja Gómez_2011
+Diego Maínz_2011
+Manuel Lucena_2011
+Guilherme Siqueira_2011
+Jorge Ribeiro_2011
+Allan Nyom_2011
+David Cortés_2011
+Samuel Marfil_2011
+Moisés Hurtado_2011
+Hassan Yebda_2011
+Mikel Rico_2011
+Abel Gómez_2011
+Fran Rico_2011
+Richard Boateng Welbeck_2011
+Cristian Baena_2011
+Carlos Martins_2011
+Dani Benítez_2011
+Miguel García_2011
+Yohan Mollo_2011
+Jaime Romero_2011
+Franco Jara_2011
+Ikechukwu Uche_2011
+Odion Ighalo_2011
+Álex Geijo_2011
+Henrique Almeida_2011
+Toño_2012
+Roberto Fernández_2012
+Jorge Sánchez_2012
+Pape Diakhaté_2012
+Diego Maínz_2012
+Iñigo López_2012
+Borja Gómez_2012
+Manuel Lucena_2012
+Guilherme Siqueira_2012
+Brayan Angulo_2012
+Allan Nyom_2012
+Juanma Ortiz_2012
+Moisés Hurtado_2012
+Mikel Rico_2012
+Recio_2012
+Hassan Yebda_2012
+Iriney_2012
+Fran Rico_2012
+Diego Buonanotte_2012
+Nolito_2012
+Yacine Brahimi_2012
+Dani Benítez_2012
+Darwin Machís_2012
+Miguel García_2012
+Gabriel Torje_2012
+Fabián Orellana_2012
+Jaime Romero_2012
+Youssef El Arabi_2012
+Antonio Floro Flores_2012
+Odion Ighalo_2012
+Carlos Aranda_2012
+Orestis Karnezis_2013
+Roberto Fernández_2013
+Stole Dimitrievski_2013
+Tiago Ilori_2013
+Jeison Murillo_2013
+Pape Diakhaté_2013
+Diego Maínz_2013
+Alexandre Coeff_2013
+Fran Morante_2013
+Brayan Angulo_2013
+Matías Campos Toro_2013
+Allan Nyom_2013
+Dimitri Foulquier_2013
+Manuel Iturra_2013
+Mohammed Fatau_2013
+Sulayman Marreh_2013
+Recio_2013
+Fran Rico_2013
+Hassan Yebda_2013
+Richard Boateng Welbeck_2013
+Adolfo Martínez_2013
+Piti_2013
+Diego Buonanotte_2013
+Yacine Brahimi_2013
+Dani Benítez_2013
+Álvaro García_2013
+Michaël Pereira_2013
+Christian Bravo_2013
+Youssef El Arabi_2013
+Odion Ighalo_2013
+Riki_2013
+Carlos Aranda_2013
+Wilson Cuero_2013
+Isaac Success_2013
+Oier Olazábal_2014
+Roberto Fernández_2014
+Stole Dimitrievski_2014
+Jeison Murillo_2014
+Jean-Sylvain Babin_2014
+Dany Nounkeu_2014
+Diego Maínz_2014
+Héctor Yuste_2014
+Juan Cala_2014
+Marcelo Djaló_2014
+Fran Morante_2014
+Juankar_2014
+Emanuel Insúa_2014
+Luís Martins_2014
+Allan Nyom_2014
+Dimitri Foulquier_2014
+Manuel Iturra_2014
+Rubén Pérez_2014
+Abdoul Wahid Sissoko_2014
+Sulayman Marreh_2014
+Uche Agbo_2014
+Fran Rico_2014
+Javi Márquez_2014
+Eddy Israfilov_2014
+Clifford Aboagye_2014
+Piti_2014
+Darwin Machís_2014
+Lass Bangoura_2014
+Rober Ibáñez_2014
+Daniel Candeias_2014
+Rubén Rochina_2014
+Nico Hidalgo_2014
+Youssef El Arabi_2014
+Jhon Córdoba_2014
+Adrián Colunga_2014
+Daniel Larsson_2014
+Isaac Success_2014
+Riki_2014
+Alfredo Ortuño_2014
+Andrés Fernández_2015
+Jesús Fernández_2015
+Ivan Kelava_2015
+Stole Dimitrievski_2015
+Jean-Sylvain Babin_2015
+David Lombán_2015
+Matheus Dória_2015
+Diego Maínz_2015
+Ricardo Costa_2015
+Neuton_2015
+Cristiano Biraghi_2015
+Salva Ruiz_2015
+Miguel Lopes_2015
+Dimitri Foulquier_2015
+Rene Krhin_2015
+Rubén Pérez_2015
+Uche Agbo_2015
+Abdoulaye Doucouré_2015
+Fran Rico_2015
+Javi Márquez_2015
+Clifford Aboagye_2015
+Piti_2015
+Nicolás López_2015
+Adalberto Peñaranda_2015
+Thievy Bifouma_2015
+Isaac Cuenca_2015
+Rubén Rochina_2015
+Rober Ibáñez_2015
+Edgar Méndez_2015
+Youssef El Arabi_2015
+Jhon Córdoba_2015
+Isaac Success_2015
+David Barral_2015
+Guillermo Ochoa_2016
+Rui Silva_2016
+Oier Olazábal_2016
+Ivan Kelava_2016
+David Lombán_2016
+Rúben Vezo_2016
+Gastón Silva_2016
+Matthieu Saunier_2016
+Sverrir Ingi Ingason_2016
+Gabriel Silva_2016
+Franck Tabanou_2016
+Héctor Hernández_2016
+Luís Martins_2016
+Pervis Estupiñán_2016
+Tito_2016
+Dimitri Foulquier_2016
+Sergi Samper_2016
+Uche Agbo_2016
+Rene Krhin_2016
+Martin Hongla_2016
+Fran Rico_2016
+Panagiotis Kone_2016
+Mubarak Wakaso_2016
+Javi Márquez_2016
+Victorien Angban_2016
+Jean Carlos Silva_2016
+Andreas Pereira_2016
+Jon Toral_2016
+Jérémie Boga_2016
+Isaac Cuenca_2016
+Juanan Entrena_2016
+Mehdi Carcela-González_2016
+Omer Atzili_2016
+Aly Malle_2016
+Alberto Bueno_2016
+Adrián Ramos_2016
+Ezequiel Ponce_2016
+Artem Kravets_2016
+David Barral_2016
+Sergi Guardiola_2016
+Rui Silva_2019
+Aarón Escandell_2019
+João Costa_2019
+Unai Etxebarria_2019
+Jesús Vallejo_2019
+Domingos Duarte_2019
+José Antonio Martínez_2019
+Germán Sánchez_2019
+Neyder Lozano_2019
+Antonio Montoro_2019
+Pepe Sánchez_2019
+Carlos Neva_2019
+Álex Martínez_2019
+İsmail Köybaşı_2019
+Dimitri Foulquier_2019
+Víctor Díaz_2019
+Quini_2019
+Maxime Gonalons_2019
+Yan Eteki_2019
+Yangel Herrera_2019
+Ángel Montoro_2019
+Ramon Azeez_2019
+Isma Ruiz_2019
+Gil Dias_2019
+Fede Vico_2019
+Antonio Aranda_2019
+Darwin Machís_2019
+Álvaro Vadillo_2019
+Mario Rodríguez_2019
+Antonio Puertas_2019
+Carlos Fernández_2019
+Antoñín_2019
+Roberto Soldado_2019
+Adrián Ramos_2019
+Rui Silva_2020
+Aarón Escandell_2020
+João Costa_2020
+Arnau Fàbrega_2020
+Ángel Jiménez_2020
+Rafael Romero_2020
+Domingos Duarte_2020
+Jesús Vallejo_2020
+Nehuén Pérez_2020
+Germán Sánchez_2020
+Neyder Lozano_2020
+Pepe Sánchez_2020
+Raúl Torrente_2020
+Sergio Barcia_2020
+Carlos Neva_2020
+Adrián Marín_2020
+Dimitri Foulquier_2020
+Víctor Díaz_2020
+Quini_2020
+Kingsley Fobi_2020
+Maxime Gonalons_2020
+Yan Eteki_2020
+Eris Abedini_2020
+Yangel Herrera_2020
+Luis Milla_2020
+Domingos Quina_2020
+Ángel Montoro_2020
+Ramon Azeez_2020
+Isma Ruiz_2020
+Álvaro Bravo_2020
+Juan Brunet_2020
+Carlos León_2020
+Fede Vico_2020
+Antonio Aranda_2020
+Darwin Machís_2020
+Kenedy_2020
+Dani Plomer_2020
+Antonio Puertas_2020
+Alberto Soro_2020
+Jesús Rodríguez_2020
+Luis Suárez_2020
+Antoñín_2020
+Jorge Molina_2020
+Roberto Soldado_2020
+Luís Maximiano_2021
+Aarón Escandell_2021
+João Costa_2021
+Cheikh Kane Sarr_2021
+Ángel Jiménez_2021
+Domingos Duarte_2021
+Luis Abram_2021
+Raúl Torrente_2021
+Germán Sánchez_2021
+Pepe Sánchez_2021
+Sergio Barcia_2021
+Neyder Lozano_2021
+Carlos Neva_2021
+Sergio Escudero_2021
+Miguel Ángel Brau_2021
+Dimitri Foulquier_2021
+Santiago Arias_2021
+Víctor Díaz_2021
+Quini_2021
+Njegos Petrovic_2021
+Maxime Gonalons_2021
+Yan Eteki_2021
+Luis Milla_2021
+Monchu_2021
+Ángel Montoro_2021
+Isma Ruiz_2021
+Darwin Machís_2021
+Myrto Uzuni_2021
+Bryan Zaragoza_2021
+Antonio Puertas_2021
+Álex Collado_2021
+Alberto Soro_2021
+Rubén Rochina_2021
+Dani Raba_2021
+Luis Suárez_2021
+Matías Arezo_2021
+Jorge Molina_2021
+Carlos Bacca_2021
+Adrián Butzke_2021
+Casto_2011
+Iñaki Goitia_2011
+Fabri_2011
+Adrián_2011
+Chechu Dorado_2011
+Paulão_2011
+Ustaritz_2011
+Dusko Tosic_2011
+Mario Abrante_2011
+Antonio Amaya_2011
+Juanito Calahorro_2011
+Súper_2011
+Nacho_2011
+Álex Martínez_2011
+Nélson_2011
+Javi Chica_2011
+Isidoro_2011
+Manu Palancar_2011
+José Alberto Cañas_2011
+Beñat Etxebarria_2011
+Iriney_2011
+Salva Sevilla_2011
+Javier Matilla_2011
+Nono_2011
+Alejandro Pozuelo_2011
+Carlos García_2011
+Sergio Rodríguez_2011
+Jefferson Montero_2011
+Momo_2011
+Álvaro Vadillo_2011
+Juanma_2011
+Ezequiel Calvente_2011
+Roque Santa Cruz_2011
+Rubén Castro_2011
+Jonathan Pereira_2011
+Jorge Molina_2011
+Adrián_2012
+Casto_2012
+Fabri_2012
+Paulão_2012
+Antonio Amaya_2012
+Damien Perquis_2012
+Mario Abrante_2012
+Chechu Dorado_2012
+Borja Navarro_2012
+Juankar_2012
+Nacho_2012
+Álex Martínez_2012
+Fran Varela_2012
+Javi Chica_2012
+Nélson_2012
+Ángel López_2012
+Manu Palancar_2012
+José Alberto Cañas_2012
+Rubén Pérez_2012
+Beñat Etxebarria_2012
+Salva Sevilla_2012
+Nosa Igiebor_2012
+Nono_2012
+Fausto Tienza_2012
+Alejandro Pozuelo_2012
+Eder Vilarchao_2012
+Carlos García_2012
+Sergio Rodríguez_2012
+Álvaro Vadillo_2012
+Eneko Eizmendi_2012
+Dorlan Pabón_2012
+Joel Campbell_2012
+Salvador Agra_2012
+Rubén Castro_2012
+Jorge Molina_2012
+Jonathan Pereira_2012
+Guillermo Molins_2012
+Antonio Adán_2013
+Stephan Andersen_2013
+Guillermo Sara_2013
+Javi Montoya_2013
+Pedro López_2013
+Antonio Amaya_2013
+Jordi Figueras_2013
+Paulão_2013
+Damien Perquis_2013
+José Antonio Caro_2013
+Jesús Pozo_2013
+José Carlos Ramírez_2013
+Dídac Vilà_2013
+Juankar_2013
+Nacho_2013
+Fran Varela_2013
+Juanfran Moreno_2013
+Javi Chica_2013
+Markus Steinhöfer_2013
+Alfred N'Diaye_2013
+Xavi Torres_2013
+Lorenzo Reyes_2013
+Javier Matilla_2013
+Salva Sevilla_2013
+Nosa Igiebor_2013
+Nono_2013
+Dani Ceballos_2013
+Joan Verdú_2013
+Sergio Rodríguez_2013
+Carlos García_2013
+Álvaro Vadillo_2013
+Cedrick_2013
+Pibe_2013
+Ignacio Abeledo_2013
+Juanma García_2013
+Léo Baptistão_2013
+Jorge Molina_2013
+Rubén Castro_2013
+Chuli_2013
+Braian Rodríguez_2013
+Pepelu Vidal_2013
+Antonio Adán_2015
+Dani Giménez_2015
+Pedro López_2015
+Ángel de la Calzada_2015
+Bruno González_2015
+Germán Pezzella_2015
+Jordi Figueras_2015
+Heiko Westermann_2015
+Cristiano Piccini_2015
+Amro Tarek_2015
+Juan Manuel Vargas_2015
+Fran Varela_2015
+Martín Montoya_2015
+Francisco Molinero_2015
+Alfred N'Diaye_2015
+Petros_2015
+Xavi Torres_2015
+Didier Digard_2015
+Dani Ceballos_2015
+Fabián Ruiz_2015
+Foued Kadir_2015
+Rafael van der Vaart_2015
+Charly Musonda Jr._2015
+Álvaro Vadillo_2015
+Francisco Portillo_2015
+Joaquín_2015
+Fran Díaz_2015
+Álvaro Cejudo_2015
+Leandro Damião_2015
+Ricky van Wolfswinkel_2015
+Rubén Castro_2015
+Vincenzo Rennella_2015
+Jorge Molina_2015
+Antonio Adán_2016
+Dani Giménez_2016
+Manu Herrera_2016
+Germán Pezzella_2016
+Aïssa Mandi_2016
+Cristiano Piccini_2016
+Bruno González_2016
+Ryan Donk_2016
+Alin Toșca_2016
+José Carlos Ramírez_2016
+Riza Durmisi_2016
+Álex Martínez_2016
+Rafa Navarro_2016
+Petros_2016
+Jonas Martin_2016
+Dani Ceballos_2016
+Rubén Pardo_2016
+Darko Brasanac_2016
+Felipe Gutiérrez_2016
+Fabián Ruiz_2016
+Matías Nahuel_2016
+Charly Musonda Jr._2016
+Joaquín_2016
+Álvaro Cejudo_2016
+Antonio Sanabria_2016
+Álex Alegría_2016
+Roman Zozulya_2016
+Rubén Castro_2016
+Antonio Adán_2017
+Pedro López_2017
+Dani Giménez_2017
+Dani Rebollo_2017
+Marc Bartra_2017
+Aïssa Mandi_2017
+Jordi Amat_2017
+Zouhair Feddal_2017
+Alin Toșca_2017
+Riza Durmisi_2017
+Junior Firpo_2017
+Carlos Redruello_2017
+Antonio Barragán_2017
+Francis Guerrero_2017
+Rafa Navarro_2017
+Javi García_2017
+Fabián Ruiz_2017
+Víctor Camarasa_2017
+Andrés Guardado_2017
+Julio Gracia_2017
+Ryad Boudebouz_2017
+Matías Nahuel_2017
+Cristian Tello_2017
+Joel Campbell_2017
+Joaquín_2017
+Aitor Ruibal_2017
+Antonio Sanabria_2017
+Loren Morón_2017
+Sergio León_2017
+Rubén Castro_2017
+Juanjo Narváez_2017
+Pau López_2018
+Joel Robles_2018
+Marc Bartra_2018
+Aïssa Mandi_2018
+Sidnei_2018
+Zouhair Feddal_2018
+Edgar González_2018
+Junior Firpo_2018
+Julio Alonso_2018
+Diego Altamirano_2018
+Francis Guerrero_2018
+Emerson Royal_2018
+Antonio Barragán_2018
+William Carvalho_2018
+Javi García_2018
+Paul Akouokou_2018
+Andrés Guardado_2018
+Wilfrid Kaptoum_2018
+Darko Brasanac_2018
+Jaime Garijo_2018
+Giovani Lo Celso_2018
+Sergio Canales_2018
+Ryad Boudebouz_2018
+Rober González_2018
+Cristian Tello_2018
+Jesé_2018
+Takashi Inui_2018
+José Manuel Irizo_2018
+Diego Lainez_2018
+Joaquín_2018
+Adrián Tellado_2018
+Loren Morón_2018
+Antonio Sanabria_2018
+Sergio León_2018
+Joel Robles_2019
+Dani Martín_2019
+Carlos Marín_2019
+Dani Rebollo_2019
+Marc Bartra_2019
+Aïssa Mandi_2019
+Sidnei_2019
+Zouhair Feddal_2019
+Edgar González_2019
+Ricardo Visus_2019
+Alfonso Pedraza_2019
+Álex Moreno_2019
+Emerson Royal_2019
+Francis Guerrero_2019
+Antonio Barragán_2019
+José Luis Trápaga_2019
+William Carvalho_2019
+Guido Rodríguez_2019
+Javi García_2019
+Carles Aleñá_2019
+Andrés Guardado_2019
+Wilfrid Kaptoum_2019
+Ismael Gutiérrez_2019
+David Ramos_2019
+Alejandro Meléndez_2019
+Nil Garrido_2019
+Nabil Fekir_2019
+Sergio Canales_2019
+Rodri Sánchez_2019
+Jorge Jiménez_2019
+Cristian Tello_2019
+Juanmi_2019
+Diego Lainez_2019
+Joaquín_2019
+Ángel Baena_2019
+Loren Morón_2019
+Borja Iglesias_2019
+Raúl García_2019
+Joel Robles_2020
+Dani Martín_2020
+Claudio Bravo_2020
+Dani Rebollo_2020
+Carlos Marín_2020
+Marc Bartra_2020
+Aïssa Mandi_2020
+Sidnei_2020
+Víctor Ruiz_2020
+Geovanni Barba_2020
+Juan Miranda_2020
+Álex Moreno_2020
+José Calderón_2020
+Emerson Royal_2020
+Martín Montoya_2020
+Fran Delgado_2020
+Guido Rodríguez_2020
+William Carvalho_2020
+Paul Akouokou_2020
+Víctor Camarasa_2020
+Andrés Guardado_2020
+Nabil Fekir_2020
+Sergio Canales_2020
+Rodri Sánchez_2020
+Yassin Fekir_2020
+Cristian Tello_2020
+Juanmi_2020
+Diego Lainez_2020
+Aitor Ruibal_2020
+Joaquín_2020
+Borja Iglesias_2020
+Loren Morón_2020
+Antonio Sanabria_2020
+Rui Silva_2021
+Joel Robles_2021
+Claudio Bravo_2021
+Dani Rebollo_2021
+Edgar González_2021
+Marc Bartra_2021
+Germán Pezzella_2021
+Sidnei_2021
+Víctor Ruiz_2021
+Kike Hermoso_2021
+Álex Moreno_2021
+Juan Miranda_2021
+Marc Baró_2021
+José Calderón_2021
+Héctor Bellerín_2021
+Youssouf Sabaly_2021
+Martín Montoya_2021
+Fran Delgado_2021
+Guido Rodríguez_2021
+William Carvalho_2021
+Paul Akouokou_2021
+Andrés Guardado_2021
+Víctor Camarasa_2021
+Antonio Marchena_2021
+Nabil Fekir_2021
+Sergio Canales_2021
+Rodri Sánchez_2021
+Rober González_2021
+Yassin Fekir_2021
+Juanmi_2021
+Cristian Tello_2021
+Aitor Ruibal_2021
+Diego Lainez_2021
+Joaquín_2021
+Borja Iglesias_2021
+Willian José_2021
+Loren Morón_2021
+Raúl García_2021
+Rui Silva_2022
+Dani Martín_2022
+Claudio Bravo_2022
+Fran Vieites_2022
+Germán García_2022
+Luiz Felipe_2022
+Edgar González_2022
+Germán Pezzella_2022
+Víctor Ruiz_2022
+Félix Garreta_2022
+Ricardo Visus_2022
+Álex Moreno_2022
+Abner_2022
+Juan Miranda_2022
+Youssouf Sabaly_2022
+Martín Montoya_2022
+Fran Delgado_2022
+Guido Rodríguez_2022
+William Carvalho_2022
+Paul Akouokou_2022
+Andrés Guardado_2022
+Víctor Camarasa_2022
+Quique Fernández_2022
+Nabil Fekir_2022
+Sergio Canales_2022
+Rodri Sánchez_2022
+Rober González_2022
+Dani Pérez_2022
+Juanmi_2022
+Ayoze Pérez_2022
+José Alonso Lara_2022
+Luiz Henrique_2022
+Aitor Ruibal_2022
+Joaquín_2022
+Juan Cruz_2022
+Borja Iglesias_2022
+Willian José_2022
+Loren Morón_2022
+Joel Robles_2011
+David Cobeño_2011
+Dani Giménez_2011
+Isma Gil_2011
+Jordi Figueras_2011
+Alejandro Arribas_2011
+Pedro Botelho_2011
+Mikel Labaka_2011
+Raúl Bravo_2011
+Jorge Pulido_2011
+José Alcañiz_2011
+José Manuel Casado_2011
+Tito_2011
+Sueliton_2011
+Aitor Núñez_2011
+Rober Correa_2011
+Javi Fuego_2011
+José María Movilla_2011
+Dani Pacheco_2011
+Roberto Trashorras_2011
+Rafa García_2011
+Diego Benito_2011
+Pape Maly Diamanka_2011
+Piti_2011
+Míchel_2011
+Jorge Sáez_2011
+Nono_2011
+Emiliano Armenteros_2011
+Alberto Perea_2011
+Lass Bangoura_2011
+Néstor Susaeta_2011
+Rayco García_2011
+Michu_2011
+Diego Costa_2011
+Raúl Tamudo_2011
+Andrija Delibasic_2011
+Koke_2011
+Rubén Martínez_2012
+David Cobeño_2012
+Dani Giménez_2012
+Isma Gil_2012
+Jordi Amat_2012
+Alejandro Gálvez_2012
+Jordi Figueras_2012
+Anaitz Arbilla_2012
+Rodri_2012
+Mikel Labaka_2012
+José Manuel Casado_2012
+Nacho Martínez_2012
+Tito_2012
+Sueliton_2012
+Rober Correa_2012
+Javi Fuego_2012
+Mohammed Abu_2012
+Roberto Trashorras_2012
+Adrián González_2012
+Isi Gómez_2012
+Piti_2012
+José Carlos_2012
+Alejandro Domínguez_2012
+Franco Vázquez_2012
+Nono_2012
+Alberto Perea_2012
+Rubén Ramiro_2012
+Lass Bangoura_2012
+Manuel Arana_2012
+Léo Baptistão_2012
+Nicki Bille Nielsen_2012
+Andrija Delibasic_2012
+Raúl Tamudo_2012
+Adrián Saballs_2012
+Rubén Martínez_2013
+David Cobeño_2013
+Isma Gil_2013
+Alejandro Gálvez_2013
+Borja López_2013
+Anaitz Arbilla_2013
+Zé Castro_2013
+Leonel Galeano_2013
+Rodri_2013
+Mario Gómez_2013
+Răzvan Raţ_2013
+Nacho Martínez_2013
+Johan Mojica_2013
+Tito_2013
+Saúl Ñíguez_2013
+Roberto Trashorras_2013
+Adrián González_2013
+Raúl Baena_2013
+Jonathan Viera_2013
+José Carlos_2013
+Christian Cueva_2013
+Alberto Perea_2013
+Rubén Ramiro_2013
+Lass Bangoura_2013
+Iago Falque_2013
+Nery Castillo_2013
+Rubén Rochina_2013
+Adrián Embarba_2013
+Alberto Bueno_2013
+Sebastián Fernández_2013
+Samuele Longo_2013
+Joaquín Larrivey_2013
+Adrián Saballs_2013
+Cristian Álvarez_2014
+Toño_2014
+David Cobeño_2014
+Álex Campos_2014
+Abdoulaye Ba_2014
+Antonio Amaya_2014
+Zé Castro_2014
+Jorge Morcillo_2014
+Emiliano Insúa_2014
+Nacho Martínez_2014
+Álex Moreno_2014
+Javier Aquino_2014
+Tito_2014
+Quini_2014
+Mohammed Fatau_2014
+Raúl Baena_2014
+Roberto Trashorras_2014
+Jozabed Sánchez_2014
+Pablo Clavería_2014
+Gaël Kakuta_2014
+Alejandro Pozuelo_2014
+Licá_2014
+Lass Bangoura_2014
+Adrián Embarba_2014
+Alberto Bueno_2014
+Léo Baptistão_2014
+Miku_2014
+Manucho_2014
+Jonathan Pereira_2014
+Yoel Rodríguez_2015
+Juan Carlos_2015
+Toño_2015
+David Cobeño_2015
+Álex Campos_2015
+Diego Llorente_2015
+Zé Castro_2015
+Antonio Amaya_2015
+Chechu Dorado_2015
+José Crespo_2015
+Nacho Martínez_2015
+Răzvan Raţ_2015
+Sergio Akieme_2015
+Tito_2015
+Quini_2015
+Manuel Iturra_2015
+Ousseynou Cissé_2015
+Jozabed Sánchez_2015
+Raúl Baena_2015
+Roberto Trashorras_2015
+Pablo Clavería_2015
+Luis Fariña_2015
+Piti_2015
+Joni Montiel_2015
+Bebé_2015
+Pablo Hernández_2015
+Aras Özbiliz_2015
+Lass Bangoura_2015
+Patrick Ebert_2015
+Adrián Embarba_2015
+Chengdong Zhang_2015
+Miku_2015
+Javi Guerra_2015
+Manucho_2015
+Juancho Victoria_2015
+Stole Dimitrievski_2018
+Alberto García_2018
+Miguel Ángel Morro_2018
+Jordi Amat_2018
+Abdoulaye Ba_2018
+Emiliano Velázquez_2018
+Alejandro Gálvez_2018
+José León_2018
+Alejandro Catena_2018
+Chechu Dorado_2018
+Martín Pascual_2018
+Álex Moreno_2018
+Sergio Akieme_2018
+Luis Advíncula_2018
+Tito_2018
+Luis Meseguer_2018
+Giannelli Imbula_2018
+Uche Agbo_2018
+Mario Suárez_2018
+Gorka Elustondo_2018
+Ángel Algobia_2018
+Santi Comesaña_2018
+Álvaro Medrán_2018
+Manu Navarro_2018
+José Pozo_2018
+Óscar Trejo_2018
+Gaël Kakuta_2018
+Álvaro García_2018
+Bebé_2018
+Adrián Embarba_2018
+Lass Bangoura_2018
+Raúl de Tomás_2018
+Franco Di Santo_2018
+Álex Alegría_2018
+Javi Guerra_2018
+Sergio Moreno_2018
+Stole Dimitrievski_2021
+Luca Zidane_2021
+Iván Arboleda_2021
+Miguel Ángel Morro_2021
+Adrián Quintela_2021
+Alejandro Catena_2021
+Nikola Maras_2021
+Esteban Saveljich_2021
+Jorge Moreno_2021
+Sergio Gimeno_2021
+Iker Recio_2021
+Fran García_2021
+Kévin Rodrigues_2021
+Iván Balliu_2021
+Mario Hernández_2021
+Mario Suárez_2021
+Santi Comesaña_2021
+Unai López_2021
+Óscar Valentín_2021
+Pathé Ciss_2021
+Manu Navarro_2021
+Randy Nteka_2021
+Óscar Trejo_2021
+José Pozo_2021
+Álvaro García_2021
+Martín Merquelanz_2021
+Bebé_2021
+Álvaro Aguirre_2021
+Alejandro Asensio_2021
+Isi Palazón_2021
+Sergi Guardiola_2021
+Radamel Falcao_2021
+Andrés Martín_2021
+Mamadou Sylla_2021
+Yacine Qasmi_2021
+Sergio Moreno_2021
+Stole Dimitrievski_2022
+Miguel Ángel Morro_2022
+Diego López_2022
+Alejandro Catena_2022
+Florian Lejeune_2022
+Abdul Mumin_2022
+Esteban Saveljich_2022
+Fran García_2022
+Pep Chavarría_2022
+Iván Balliu_2022
+Mario Hernández_2022
+Mario Suárez_2022
+Santi Comesaña_2022
+Óscar Valentín_2022
+Unai López_2022
+Pathé Ciss_2022
+Diego Méndez_2022
+Óscar Trejo_2022
+Randy Nteka_2022
+José Pozo_2022
+Pablo Muñoz_2022
+Álvaro García_2022
+Bebé_2022
+Isi Palazón_2022
+Salvi Sánchez_2022
+Sergio Camello_2022
+Raúl de Tomás_2022
+Radamel Falcao_2022
+Andrés Martín_2022
+Javi Varas_2012
+Rubén Blanco_2012
+Sergio Álvarez_2012
+Andres Tuñez_2012
+Gustavo Cabral_2012
+Vadim Demidov_2012
+Samuel Llorca_2012
+Roberto Lago_2012
+Danijel Pranjic_2012
+Carlos Bellvís_2012
+Hugo Mallo_2012
+Jonny Otto_2012
+Borja Oubiña_2012
+Augusto Fernández_2012
+Álex López_2012
+Michael Krohn-Dehli_2012
+Natxo Insa_2012
+Jonathan Vila_2012
+Cristian Bustos_2012
+Antón de Vicente_2012
+Quique de Lucas_2012
+Levy Madinda_2012
+Joan Tomás_2012
+Fabián Orellana_2012
+Toni Dovale_2012
+Dani Abalo_2012
+Mario Bermejo_2012
+Iago Aspas_2012
+Chu-young Park_2012
+Santi Mina_2012
+Yoel Rodríguez_2013
+Sergio Álvarez_2013
+Rubén Blanco_2013
+Andreu Fontàs_2013
+Jon Aurtenetxe_2013
+Gustavo Cabral_2013
+David Costas_2013
+Iñigo López_2013
+Samuel Llorca_2013
+David Goldar_2013
+Carlos Bellvís_2013
+Hugo Mallo_2013
+Jonny Otto_2013
+Borja Oubiña_2013
+Augusto Fernández_2013
+Álex López_2013
+Michael Krohn-Dehli_2013
+Jonathan Vila_2013
+Javi Rey_2013
+Rafinha_2013
+Levy Madinda_2013
+Nolito_2013
+Fabián Orellana_2013
+Toni Dovale_2013
+Mario Bermejo_2013
+Charles_2013
+Welliton_2013
+Santi Mina_2013
+David Rodríguez_2013
+Sergio Álvarez_2014
+Rubén Blanco_2014
+Andreu Fontàs_2014
+Sergi Gómez_2014
+Gustavo Cabral_2014
+David Costas_2014
+Diego Alende_2014
+Carles Planas_2014
+Samu Araújo_2014
+Hugo Mallo_2014
+Jonny Otto_2014
+Kevin Vázquez_2014
+Nemanja Radoja_2014
+Borja Oubiña_2014
+Augusto Fernández_2014
+Álex López_2014
+Michael Krohn-Dehli_2014
+Pablo Hernández_2014
+Borja Fernández_2014
+Pape Cheikh_2014
+Levy Madinda_2014
+Nolito_2014
+Fabián Orellana_2014
+Théo Bongonda_2014
+Joaquín Larrivey_2014
+Santi Mina_2014
+Charles_2014
+Borja Iglesias_2014
+Sergio Álvarez_2015
+Rubén Blanco_2015
+Néstor Díaz_2015
+Andreu Fontàs_2015
+Sergi Gómez_2015
+Gustavo Cabral_2015
+David Goldar_2015
+Diego Alende_2015
+Carles Planas_2015
+Hugo Mallo_2015
+Jonny Otto_2015
+Nemanja Radoja_2015
+Marcelo Díaz_2015
+Daniel Wass_2015
+Augusto Fernández_2015
+Pablo Hernández_2015
+Pape Cheikh_2015
+Borja Fernández_2015
+Levy Madinda_2015
+Josep Señé_2015
+Nolito_2015
+Dejan Drazic_2015
+Fabián Orellana_2015
+Théo Bongonda_2015
+Iago Aspas_2015
+John Guidetti_2015
+Claudio Beauvue_2015
+Borja Iglesias_2015
+Sergio Álvarez_2016
+Rubén Blanco_2016
+Iván Villar_2016
+Sergi Gómez_2016
+Facundo Roncaglia_2016
+Gustavo Cabral_2016
+Andreu Fontàs_2016
+David Costas_2016
+Carles Planas_2016
+Hugo Mallo_2016
+Jonny Otto_2016
+Álvaro Lemos_2016
+Nemanja Radoja_2016
+Marcelo Díaz_2016
+Daniel Wass_2016
+Pablo Hernández_2016
+Jozabed Sánchez_2016
+Pape Cheikh_2016
+Andrew Hjulsager_2016
+Josep Señé_2016
+Pione Sisto_2016
+José Naranjo_2016
+Dejan Drazic_2016
+Théo Bongonda_2016
+Fabián Orellana_2016
+Iago Aspas_2016
+John Guidetti_2016
+Giuseppe Rossi_2016
+Claudio Beauvue_2016
+Rubén Blanco_2017
+Sergio Álvarez_2017
+Iván Villar_2017
+Dani Sotres_2017
+Fran Vieites_2017
+Sergi Gómez_2017
+Andreu Fontàs_2017
+Facundo Roncaglia_2017
+Gustavo Cabral_2017
+Diego Alende_2017
+Robert Mazan_2017
+Diego Pampín_2017
+Hugo Mallo_2017
+Jonny Otto_2017
+Stanislav Lobotka_2017
+Nemanja Radoja_2017
+Daniel Wass_2017
+Pablo Hernández_2017
+Jozabed Sánchez_2017
+Dani Molina_2017
+Brais Méndez_2017
+Andrew Hjulsager_2017
+Pione Sisto_2017
+Dejan Drazic_2017
+Emre Mor_2017
+Víctor Pastrana_2017
+Maxi Gómez_2017
+Iago Aspas_2017
+John Guidetti_2017
+Claudio Beauvue_2017
+Lucas Boyé_2017
+Dennis Eckert Ayensa_2017
+Rubén Blanco_2018
+Sergio Álvarez_2018
+Iván Villar_2018
+Wesley Hoedt_2018
+Néstor Araújo_2018
+David Costas_2018
+Júnior Alonso_2018
+Facundo Roncaglia_2018
+Gustavo Cabral_2018
+Lucas Olaza_2018
+David Juncà_2018
+Robert Mazan_2018
+Hugo Mallo_2018
+Kevin Vázquez_2018
+Stanislav Lobotka_2018
+Okay Yokuşlu_2018
+Nemanja Radoja_2018
+Fran Beltrán_2018
+Mathias Jensen_2018
+Jozabed Sánchez_2018
+Brais Méndez_2018
+Ryad Boudebouz_2018
+Andrew Hjulsager_2018
+Sofiane Boufal_2018
+Pione Sisto_2018
+Emre Mor_2018
+Maxi Gómez_2018
+Iago Aspas_2018
+Dennis Eckert Ayensa_2018
+Emmanuel Apeh_2018
+Rubén Blanco_2019
+Sergio Álvarez_2019
+Dragan Rosic_2019
+Iván Villar_2019
+Fran Vieites_2019
+Iago Domínguez_2019
+Joseph Aidoo_2019
+Jeison Murillo_2019
+Néstor Araújo_2019
+David Costas_2019
+Jorge Sáenz_2019
+José Fontán_2019
+Lucas Olaza_2019
+David Juncà_2019
+Hugo Mallo_2019
+Kevin Vázquez_2019
+Sergio Carreira_2019
+Stanislav Lobotka_2019
+Okay Yokuşlu_2019
+Filip Bradaric_2019
+Fran Beltrán_2019
+Pape Cheikh_2019
+Brais Méndez_2019
+Denis Suárez_2019
+Rafinha_2019
+Pione Sisto_2019
+Nolito_2019
+Juan Hernández_2019
+Iker Losada_2019
+Sergio Bermejo_2019
+Jacobo González_2019
+Iago Aspas_2019
+Santi Mina_2019
+Fedor Smolov_2019
+Gabriel Fernández_2019
+Rubén Blanco_2020
+Iván Villar_2020
+Sergio Álvarez_2020
+Iago Domínguez_2020
+Patrick Sequeira_2020
+Álvaro Fernández_2020
+Ruly García_2020
+Néstor Araújo_2020
+Jeison Murillo_2020
+Joseph Aidoo_2020
+Carlos Domínguez_2020
+David Costas_2020
+Jorge Sáenz_2020
+José Fontán_2020
+Gael Alonso_2020
+Lucas Olaza_2020
+Aarón Martín_2020
+David Juncà_2020
+Diego Pampín_2020
+Hugo Mallo_2020
+Sergio Carreira_2020
+Kevin Vázquez_2020
+Renato Tapia_2020
+Okay Yokuşlu_2020
+Jordan Holsgrove_2020
+Fran Beltrán_2020
+Gabri Veiga_2020
+Hugo Sotelo_2020
+Brais Méndez_2020
+Denis Suárez_2020
+Miguel Baeza_2020
+Nolito_2020
+Álvaro Vadillo_2020
+Alfon González_2020
+Augusto Solari_2020
+Miguel Rodríguez_2020
+Emre Mor_2020
+Santi Mina_2020
+Iago Aspas_2020
+Facundo Ferreyra_2020
+Lautaro de León_2020
+Rubén Blanco_2021
+Matías Dituro_2021
+Gaizka Campos_2021
+Coke Carrillo_2021
+César Fernández_2021
+Joseph Aidoo_2021
+Néstor Araújo_2021
+Jeison Murillo_2021
+José Fontán_2021
+Carlos Domínguez_2021
+Javi Castro_2021
+Javi Galán_2021
+Fernando Medrano_2021
+Hugo Mallo_2021
+Kevin Vázquez_2021
+Thomas Carrique_2021
+Renato Tapia_2021
+Okay Yokuşlu_2021
+Fran Beltrán_2021
+Orbelín Pineda_2021
+Gabri Veiga_2021
+Damián Rodríguez_2021
+Hugo Sotelo_2021
+Brais Méndez_2021
+Denis Suárez_2021
+Miguel Baeza_2021
+Franco Cervi_2021
+Nolito_2021
+Alfon González_2021
+Hugo Álvarez_2021
+Augusto Solari_2021
+Iago Aspas_2021
+Thiago Galhardo_2021
+Santi Mina_2021
+Agustín Marchesín_2022
+Iván Villar_2022
+Christian Joel_2022
+Diego Alves_2022
+Coke Carrillo_2022
+Ruly García_2022
+Joseph Aidoo_2022
+Unai Núñez_2022
+Carlos Domínguez_2022
+Sergio Barcia_2022
+Javi Domínguez_2022
+Javi Galán_2022
+Fernando Medrano_2022
+Martín Conde_2022
+Hugo Mallo_2022
+Óscar Mingueza_2022
+Kevin Vázquez_2022
+Renato Tapia_2022
+Gabri Veiga_2022
+Fran Beltrán_2022
+Luca de la Torre_2022
+Hugo Sotelo_2022
+Óscar Rodríguez_2022
+Williot Swedberg_2022
+Miguel Baeza_2022
+Franco Cervi_2022
+Hugo Álvarez_2022
+Carles Pérez_2022
+Augusto Solari_2022
+Miguel Rodríguez_2022
+Jørgen Strand Larsen_2022
+Iago Aspas_2022
+Haris Seferovic_2022
+Gonçalo Paciência_2022
+Pablo Durán_2022
+Fran López_2022
+Dani Hernández_2012
+Jaime Jiménez_2012
+Marc Valiente_2012
+Jesús Rueda_2012
+Henrique Sereno_2012
+Iván Casado_2012
+Jorge Pesca_2012
+Mikel Balenziaga_2012
+Carlos Peña_2012
+Antonio Rukavina_2012
+Rubén Peña_2012
+Javier Baraja_2012
+Álvaro Rubio_2012
+Víctor Pérez_2012
+Lluis Sastre_2012
+Óscar González_2012
+Omar Ramos_2012
+Juan Neira_2012
+Valdet Rama_2012
+Patrick Ebert_2012
+Alberto Bueno_2012
+Javi Guerra_2012
+Manucho_2012
+Daniel Larsson_2012
+Lolo Plá_2012
+Diego Mariño_2013
+Dani Hernández_2013
+Jaime Jiménez_2013
+Julio Iricibar_2013
+Marc Valiente_2013
+Jesús Rueda_2013
+Stefan Mitrovic_2013
+Heinz Barmettler_2013
+Jorge Pesca_2013
+Carlos Peña_2013
+Zakarya Bergdich_2013
+Antonio Rukavina_2013
+Gilberto García_2013
+Javier Baraja_2013
+Álvaro Rubio_2013
+Fausto Rossi_2013
+Víctor Pérez_2013
+Lluis Sastre_2013
+Peli_2013
+Antonio Amaro_2013
+Óscar González_2013
+Omar Ramos_2013
+Daniel Vadillo_2013
+Valdet Rama_2013
+Zubi_2013
+Patrick Ebert_2013
+Jeffrén_2013
+Javi Guerra_2013
+Manucho_2013
+Humberto Osorio_2013
+Daniel Larsson_2013
+Jordi Masip_2018
+Yoel Rodríguez_2018
+José Antonio Caro_2018
+Samuel Pérez_2018
+Fernando Calero_2018
+Joaquín Fernández_2018
+Kiko Olivas_2018
+Alberto Guitián_2018
+Mohammed Salisu_2018
+Nacho Martínez_2018
+Moi Delgado_2018
+Roberto Corral_2018
+Antoñito_2018
+Javi Moyano_2018
+Javi Aparicio_2018
+Luismi Sánchez_2018
+Moctar El Hacen_2018
+Borja Fernández_2018
+Rubén Alcaraz_2018
+Fede San Emeterio_2018
+Míchel Herrero_2018
+Anuar_2018
+Antonio Cotán_2018
+Ivi López_2018
+Antonio Domínguez_2018
+Pablo Muñoz_2018
+Toni Villa_2018
+Waldo Rubio_2018
+Óscar Plano_2018
+Daniele Verde_2018
+Keko Gontán_2018
+Leo Suárez_2018
+Pablo Hervías_2018
+David Mayoral_2018
+Kuki Zalazar_2018
+Enes Ünal_2018
+Sergi Guardiola_2018
+Duje Cop_2018
+Stiven Plaza_2018
+Miguel de la Fuente_2018
+Chris Ramos_2018
+Jordi Masip_2019
+Andriy Lunin_2019
+José Antonio Caro_2019
+Samuel Pérez_2019
+Mohammed Salisu_2019
+Joaquín Fernández_2019
+Kiko Olivas_2019
+Federico Barba_2019
+Javi Sánchez_2019
+Diego Alende_2019
+Nacho Martínez_2019
+Raúl Carnero_2019
+Roberto Corral_2019
+Pedro Porro_2019
+Antoñito_2019
+Javi Moyano_2019
+Víctor García_2019
+Matheus Fernandes_2019
+Luismi Sánchez_2019
+Moctar El Hacen_2019
+Rubén Alcaraz_2019
+Fede San Emeterio_2019
+Míchel Herrero_2019
+Anuar_2019
+Álvaro Aguado_2019
+Kike Pérez_2019
+Hatem Ben Arfa_2019
+Toni Villa_2019
+Waldo Rubio_2019
+Óscar Plano_2019
+Jorge de Frutos_2019
+Pablo Hervías_2019
+Sergi Guardiola_2019
+Enes Ünal_2019
+Sandro Ramírez_2019
+Stiven Plaza_2019
+Miguel de la Fuente_2019
+Jordi Masip_2020
+Roberto_2020
+Samuel Pérez_2020
+Gaizka Campos_2020
+Javi Sánchez_2020
+Joaquín Fernández_2020
+Jawad El Yamiq_2020
+Kiko Olivas_2020
+Bruno González_2020
+Miguel Rubio_2020
+Lucas Freitas_2020
+Jesús Palomeque_2020
+Lucas Olaza_2020
+Nacho Martínez_2020
+Raúl Carnero_2020
+Ignasi Vilarrasa_2020
+Saidy Janko_2020
+Sergio López_2020
+Luis Pérez_2020
+Javi Moyano_2020
+Luismi Sánchez_2020
+Oriol Rey_2020
+Rubén Alcaraz_2020
+Fede San Emeterio_2020
+Roque Mesa_2020
+Míchel Herrero_2020
+Kike Pérez_2020
+Moha Moukhliss_2020
+Fran Álvarez_2020
+Jota_2020
+Toni Villa_2020
+Waldo Rubio_2020
+Óscar Plano_2020
+Pablo Hervías_2020
+Fabián Orellana_2020
+Kuki Zalazar_2020
+Shon Weissman_2020
+Marcos André_2020
+Sergi Guardiola_2020
+Kenan Kodro_2020
+Sergio Benito_2020
+Jordi Masip_2022
+Sergio Asenjo_2022
+Álvaro Aceves_2022
+Javi Sánchez_2022
+Joaquín Fernández_2022
+Jawad El Yamiq_2022
+Zouhair Feddal_2022
+Víctor Rofino_2022
+David Torres_2022
+Lucas Olaza_2022
+Sergio Escudero_2022
+Diego Moreno_2022
+Iván Fresneda_2022
+Luis Pérez_2022
+Lucas Rosa_2022
+Martin Hongla_2022
+Mickaël Malsa_2022
+Monchu_2022
+Kike Pérez_2022
+Álvaro Aguado_2022
+Roque Mesa_2022
+Anuar_2022
+Mario Maroto_2022
+Alberto Quintana_2022
+Selim Amallah_2022
+Darwin Machís_2022
+Toni Villa_2022
+Kenedy_2022
+Tunde Akinsola_2022
+Gonzalo Plata_2022
+Óscar Plano_2022
+Iván Sánchez_2022
+Manuel Pozo_2022
+Cyle Larin_2022
+Shon Weissman_2022
+Sergi Guardiola_2022
+Sergio León_2022
+Juanjo Narváez_2022
+Sekou Gassama_2022
+Iván Cédric_2022
+Roberto Arroyo_2022
+Manu Herrera_2013
+Toño_2013
+Marc Martínez_2013
+José Carlos Álvarez_2013
+Alberto Botía_2013
+David Lombán_2013
+Cristian Săpunaru_2013
+Sergio Pelegrín_2013
+Charlie I'Anson_2013
+Nacho Porcar_2013
+Edu Albacar_2013
+Domingo Cisma_2013
+Damián Suárez_2013
+Rubén Pérez_2013
+Carlos Sánchez_2013
+Javi Márquez_2013
+Sergio Mantecón_2013
+David Generelo_2013
+Alberto Rivera_2013
+Carles Gil_2013
+Javi Flores_2013
+Fidel_2013
+Garry Rodrigues_2013
+Aarón Ñíguez_2013
+Miroslav Stevanovic_2013
+Samu Martínez_2013
+Richmond Boakye_2013
+Manu del Moral_2013
+Ferrán Corominas_2013
+Cristian Herrera_2013
+Sergio León_2013
+Álvaro Giménez_2013
+Przemyslaw Tyton_2014
+Manu Herrera_2014
+Pol Freixanet_2014
+José Carlos Álvarez_2014
+David Lombán_2014
+Enzo Roco_2014
+José Ángel_2014
+Sergio Pelegrín_2014
+Rafa Gálvez_2014
+Nacho Porcar_2014
+Domingo Cisma_2014
+Edu Albacar_2014
+Damián Suárez_2014
+Mario Pasalic_2014
+Fayçal Fajr_2014
+Pedro Mosquera_2014
+Adrián González_2014
+Mario Arqués_2014
+Víctor Rodríguez_2014
+Garry Rodrigues_2014
+Franco Fragapane_2014
+Aarón Ñíguez_2014
+Moha Traoré_2014
+Samu Martínez_2014
+Jose Antonio Peral_2014
+Jonathas_2014
+Ferrán Corominas_2014
+Cristian Herrera_2014
+Álvaro Giménez_2014
+Paulo Gazzaniga_2020
+Edgar Badia_2020
+Diego Rodríguez_2020
+Lluis Andreu_2020
+Luis Castillo_2020
+Dani Calvo_2020
+Diego González_2020
+Josema_2020
+Gonzalo Verdú_2020
+Nacho Pastor_2020
+John Donald_2020
+Gerard Barri_2020
+Juan Sánchez Miño_2020
+Johan Mojica_2020
+Youssouf Koné_2020
+José Salinas_2020
+Helibelton Palacios_2020
+Antonio Barragán_2020
+Iván Marcone_2020
+Nuke Mfulu_2020
+Luismi Sánchez_2020
+Raúl Guti_2020
+Ramón Folch_2020
+César Moreno_2020
+Jony Álamo_2020
+Víctor Rodríguez_2020
+Fidel_2020
+Pere Milla_2020
+Tete Morente_2020
+Pablo Piatti_2020
+Emiliano Rigoni_2020
+Josan_2020
+Jeison Lucumí_2020
+Miguel Cifuentes_2020
+Lucas Boyé_2020
+Guido Carrillo_2020
+Claudio Medina_2020
+Nino_2020
+Mourad El Ghezouani_2020
+Cheikh Diamanka_2020
+Diego Bri_2020
+Edgar Badia_2021
+Axel Werner_2021
+Kiko Casilla_2021
+Lluis Andreu_2021
+Enzo Roco_2021
+Diego González_2021
+Pedro Bigas_2021
+Josema_2021
+Gonzalo Verdú_2021
+Sergio Bono_2021
+John Donald_2021
+Johan Mojica_2021
+Lucas Olaza_2021
+Helibelton Palacios_2021
+Antonio Barragán_2021
+Carles Marco_2021
+Omar Mascarell_2021
+Gerard Gumbau_2021
+Iván Marcone_2021
+Raúl Guti_2021
+Kike Pérez_2021
+César Moreno_2021
+Jony Álamo_2021
+Javier Pastore_2021
+Pere Milla_2021
+Tete Morente_2021
+Fidel_2021
+Pablo Piatti_2021
+Josan_2021
+Lucas Boyé_2021
+Ezequiel Ponce_2021
+Darío Benedetto_2021
+Lucas Pérez_2021
+Guido Carrillo_2021
+Diego Bri_2021
+Cheikh Diamanka_2021
+Joselu Friaza_2021
+Edgar Badia_2022
+Axel Werner_2022
+Juanpe Navarro_2022
+Jesús López_2022
+Luismi Quirant_2022
+Lisandro Magallán_2022
+Enzo Roco_2022
+Diego González_2022
+Pedro Bigas_2022
+John Donald_2022
+Federico Fernández_2022
+Gonzalo Verdú_2022
+Javi Pamies_2022
+Manuel Cocca_2022
+Johan Mojica_2022
+Lautaro Blanco_2022
+Nicolás Fernández Mercau_2022
+Carlos Clerc_2022
+José Ángel Carmona_2022
+Pol Lirola_2022
+Helibelton Palacios_2022
+Carles Marco_2022
+Gerard Gumbau_2022
+Omar Mascarell_2022
+Raúl Guti_2022
+Domingos Quina_2022
+Pape Cheikh_2022
+Branislav Knezevic_2022
+Alejandro Alfaro_2022
+Rodrigo Mendoza_2022
+Randy Nteka_2022
+Javier Pastore_2022
+Pere Milla_2022
+Tete Morente_2022
+Fidel_2022
+Álex Collado_2022
+Josan_2022
+Lucas Boyé_2022
+Ezequiel Ponce_2022
+Roger Martí_2022
+Juan Carlos_2014
+Mikel Saizar_2014
+Aleksandar Pantic_2014
+Deivid_2014
+Iñigo López_2014
+José Crespo_2014
+Iago Bouzón_2014
+Jonathan Bijimine_2014
+Fran Serrano_2014
+Edimar_2014
+Dani Pinillos_2014
+Adrián Gunino_2014
+Edu Campabadal_2014
+Rene Krhin_2014
+Bruno Zuculini_2014
+Fausto Rossi_2014
+Abel Gómez_2014
+Patrick Ekeng_2014
+Luso_2014
+Carlos Caballero_2014
+Aritz López Garai_2014
+Borja García_2014
+José Carlos_2014
+Fede Vico_2014
+Bebé_2014
+Héldon_2014
+Fidel_2014
+Sergio García_2014
+José Fran_2014
+Fede Cartabia_2014
+José María López Silva_2014
+Ryder Matos_2014
+Nabil Ghilas_2014
+Mike Havenaar_2014
+Florin Andone_2014
+Xisco_2014
+Xabi Irureta_2014
+Jaime Jiménez_2014
+Jon Irazusta_2014
+Raúl Navas_2014
+Raúl Albentosa_2014
+Borja Ekiza_2014
+Rafa Páez_2014
+Txema Añibarro_2014
+Abraham Minero_2014
+Dídac Vilà_2014
+Ander Capa_2014
+Eneko Bóveda_2014
+Lillo Castellano_2014
+Borja Fernández_2014
+Derek Boateng_2014
+Jon Errasti_2014
+Dani García_2014
+Javi Lara_2014
+Saúl Berjón_2014
+Dani Nieto_2014
+Mikel Arruabarrena_2014
+Federico Piovaccari_2014
+Manu del Moral_2014
+Ángel Rodríguez_2014
+Dejan Lekic_2014
+Xabi Irureta_2015
+Asier Riesgo_2015
+Jaime Jiménez_2015
+Jorge Mediavilla_2015
+Mauro dos Santos_2015
+Aleksandar Pantic_2015
+Iván Ramis_2015
+Borja Ekiza_2015
+Ion Ansotegi_2015
+Julen López_2015
+David Juncà_2015
+Antonio Luna_2015
+Ander Gayoso_2015
+Imanol Corral_2015
+Ander Capa_2015
+Lillo Castellano_2015
+Josip Radosevic_2015
+Gonzalo Escalante_2015
+Dani García_2015
+Adrián González_2015
+Jon Errasti_2015
+Eddy Israfilov_2015
+Íñigo Barrenetxea_2015
+Simone Verdi_2015
+Asier Etxaburu_2015
+Takashi Inui_2015
+Saúl Berjón_2015
+Keko Gontán_2015
+Izet Hajrovic_2015
+Jota Peleteiro_2015
+Thaylor_2015
+Mikel Arruabarrena_2015
+Sergi Enrich_2015
+Borja Bastón_2015
+Kike García_2015
+Yoel Rodríguez_2016
+Asier Riesgo_2016
+Quique Cebriá_2016
+Markel Areitio_2016
+Florian Lejeune_2016
+Alejandro Gálvez_2016
+Mauro dos Santos_2016
+Anaitz Arbilla_2016
+Iván Ramis_2016
+Julen López_2016
+Antonio Luna_2016
+David Juncà_2016
+Ander Capa_2016
+Rubén Peña_2016
+Gonzalo Escalante_2016
+Dani García_2016
+Adrián González_2016
+Fran Rico_2016
+Christian Rivera_2016
+Imanol Sarriegi_2016
+Takashi Inui_2016
+Bebé_2016
+Pedro León_2016
+Jota Peleteiro_2016
+Josué Dorrio_2016
+Sergi Enrich_2016
+Kike García_2016
+Nano Mesa_2016
+Marko Dmitrovic_2017
+Yoel Rodríguez_2017
+Asier Riesgo_2017
+Markel Areitio_2017
+Vukasin Jovanovic_2017
+Paulo Oliveira_2017
+Anaitz Arbilla_2017
+Alejandro Gálvez_2017
+David Lombán_2017
+Iván Ramis_2017
+Julen López_2017
+Cote_2017
+David Juncà_2017
+Ángel López_2017
+Ander Capa_2017
+Rubén Peña_2017
+Pape Diop_2017
+Dani García_2017
+Joan Jordán_2017
+Gonzalo Escalante_2017
+Fran Rico_2017
+Christian Rivera_2017
+Imanol Sarriegi_2017
+Julen Azkue_2017
+Takashi Inui_2017
+Bebé_2017
+Fabián Orellana_2017
+Iván Alejo_2017
+Pedro León_2017
+Xesc Regis_2017
+Sergi Enrich_2017
+Kike García_2017
+Charles_2017
+Marko Dmitrovic_2018
+Yoel Rodríguez_2018
+Asier Riesgo_2018
+Markel Areitio_2018
+Paulo Oliveira_2018
+Pedro Bigas_2018
+Anaitz Arbilla_2018
+Iván Ramis_2018
+Kaiser_2018
+Marc Cucurella_2018
+Cote_2018
+Rubén Peña_2018
+Jordi Calavera_2018
+Sergio Álvarez_2018
+Pape Diop_2018
+Joan Jordán_2018
+Gonzalo Escalante_2018
+Miguel Marí_2018
+Pablo de Blasis_2018
+Bebé_2018
+Pere Milla_2018
+Fabián Orellana_2018
+Pedro León_2018
+Pablo Hervías_2018
+Sergi Enrich_2018
+Kike García_2018
+Charles_2018
+Marc Cardona_2018
+Alberto Marí_2018
+Marko Dmitrovic_2019
+Yoel Rodríguez_2019
+Paulo Oliveira_2019
+Pedro Bigas_2019
+Anaitz Arbilla_2019
+Esteban Burgos_2019
+Iván Ramis_2019
+Unai Dufur_2019
+Cote_2019
+Rafa Soares_2019
+Ekhi Bravo_2019
+Álvaro Tejero_2019
+Rober Correa_2019
+Sergio Cubero_2019
+Sergio Álvarez_2019
+Pape Diop_2019
+Gonzalo Escalante_2019
+Edu Expósito_2019
+Sebastián Cristóforo_2019
+Miguel Marí_2019
+Miguel Atienza_2019
+Pablo de Blasis_2019
+Takashi Inui_2019
+Fabián Orellana_2019
+Pedro León_2019
+Sergi Enrich_2019
+Kike García_2019
+Charles_2019
+Quique González_2019
+Marko Dmitrovic_2020
+Yoel Rodríguez_2020
+Jonmi Magunagoitia_2020
+Unai Ayala_2020
+Paulo Oliveira_2020
+Esteban Burgos_2020
+Pedro Bigas_2020
+José Antonio Martínez_2020
+Anaitz Arbilla_2020
+Unai Dufur_2020
+Kévin Rodrigues_2020
+Rafa Soares_2020
+Cote_2020
+Alejandro Pozo_2020
+Álvaro Tejero_2020
+Rober Correa_2020
+Sergio Cubero_2020
+Sergio Álvarez_2020
+Pape Diop_2020
+Edu Expósito_2020
+Aleix García_2020
+Recio_2020
+Roberto Olabe_2020
+Miguel Atienza_2020
+Takashi Inui_2020
+Bryan Gil_2020
+Damian Kadzior_2020
+Pedro León_2020
+Kike García_2020
+Yoshinori Muto_2020
+Sergi Enrich_2020
+Quique González_2020
+Eñaut Mendia_2020
+Unai Arieta_2020
+Javi Varas_2015
+Raúl Lizoain_2015
+Dani Lorenzo_2015
+Aythami Artiles_2015
+Pedro Bigas_2015
+Antolín Alcaraz_2015
+Mauricio Lemos_2015
+David García_2015
+Stéphane Serbourdin_2015
+Dani Castellano_2015
+Javier Garrido_2015
+David Simón_2015
+Ángel López_2015
+Vicente Gómez_2015
+Mubarak Wakaso_2015
+Roque Mesa_2015
+Javi Castellano_2015
+Hernán Santana_2015
+Ángel Montoro_2015
+Emmanuel Culio_2015
+Jonathan Viera_2015
+Tana_2015
+Nili Perdomo_2015
+Juan Carlos Valerón_2015
+Momo_2015
+Carlos González_2015
+Nabil El Zhar_2015
+Nauzet Alemán_2015
+Willian José_2015
+Sergio Araujo_2015
+Asdrúbal Padrón_2015
+Jefté Betancor_2015
+Jeremy Betancor_2015
+Raúl Lizoain_2016
+Javi Varas_2016
+Mauricio Lemos_2016
+Pedro Bigas_2016
+Aythami Artiles_2016
+David García_2016
+Eric Curbelo_2016
+Dani Castellano_2016
+Hélder Lopes_2016
+Michel Macedo_2016
+David Simón_2016
+Vicente Gómez_2016
+Roque Mesa_2016
+Ángel Montoro_2016
+Hernán Santana_2016
+Javi Castellano_2016
+Jonathan Viera_2016
+Kevin-Prince Boateng_2016
+Alen Halilovic_2016
+Tana_2016
+Tyronne_2016
+José Artiles_2016
+Jesé_2016
+Momo_2016
+Benito Ramírez_2016
+Nabil El Zhar_2016
+Mateo García_2016
+Marko Livaja_2016
+Sergio Araujo_2016
+Alfredo Ortuño_2016
+Asdrúbal Padrón_2016
+Héctor Figueroa_2016
+Erik Expósito_2016
+Leandro Chichizola_2017
+Raúl Lizoain_2017
+Benito Del Valle_2017
+Mauricio Lemos_2017
+Pedro Bigas_2017
+Alejandro Gálvez_2017
+Aythami Artiles_2017
+David García_2017
+Dani Castellano_2017
+Matías Aguirregaray_2017
+Ximo Navarro_2017
+Michel Macedo_2017
+David Simón_2017
+Sergi Samper_2017
+Vicente Gómez_2017
+Peter Etebo_2017
+Gabriel Peñalba_2017
+Javi Castellano_2017
+Hernán Santana_2017
+Alberto Aquilani_2017
+Fabio González_2017
+Jonathan Viera_2017
+Alen Halilovic_2017
+Tana_2017
+Oussama Tannane_2017
+Borja Herrera_2017
+Vitolo_2017
+Hernán Toledo_2017
+Nacho Gil_2017
+Benito Ramírez_2017
+Momo_2017
+Jairo Samperio_2017
+Loïc Rémy_2017
+Jonathan Calleri_2017
+Sergio Araujo_2017
+Emmanuel Emenike_2017
+Imoh Ezekiel_2017
+Erik Expósito_2017
+Fernando Pacheco_2016
+Adrián Ortolá_2016
+Víctor Laguardia_2016
+Zouhair Feddal_2016
+Aleksandar Pantic_2016
+Rodrigo Ely_2016
+Alexis Ruano_2016
+Einar Galilea_2016
+Theo Hernández_2016
+Raúl Carnero_2016
+Kiko Femenía_2016
+Carlos Vigaray_2016
+Martín Aguirregabiria_2016
+Dani Torres_2016
+Marcos Llorente_2016
+Víctor Camarasa_2016
+Manu García_2016
+Nenad Krsticic_2016
+Sergio Llamas_2016
+Óscar Romero_2016
+Manu García_2016
+Ibai Gómez_2016
+Aleksandar Katai_2016
+Cristian Espinoza_2016
+Edgar Méndez_2016
+Gaizka Toquero_2016
+Deyverson_2016
+Christian Santos_2016
+Rubén Sobrino_2016
+Manu Barreiro_2016
+Fernando Pacheco_2017
+Antonio Sivera_2017
+Joritz Landeta_2017
+Aritz Castro_2017
+Rodrigo Ely_2017
+Víctor Laguardia_2017
+Alexis Ruano_2017
+Guillermo Maripán_2017
+Adrián Diéguez_2017
+Einar Galilea_2017
+Alfonso Pedraza_2017
+Rubén Duarte_2017
+Héctor Hernández_2017
+Martín Aguirregabiria_2017
+Carlos Vigaray_2017
+Víctor López_2017
+Dani Torres_2017
+Tomás Pina_2017
+Manu García_2017
+Álvaro Medrán_2017
+Mubarak Wakaso_2017
+Óscar Romero_2017
+Enzo Zidane_2017
+Ibai Gómez_2017
+Burgui_2017
+Aleksandar Katai_2017
+Munir El Haddadi_2017
+Hernán Pérez_2017
+Bojan Krkic_2017
+John Guidetti_2017
+Rubén Sobrino_2017
+Christian Santos_2017
+Ermedin Demirovic_2017
+Fernando Pacheco_2018
+Antonio Sivera_2018
+Álex Domínguez_2018
+Guillermo Maripán_2018
+Víctor Laguardia_2018
+Rodrigo Ely_2018
+Adrián Diéguez_2018
+Rubén Duarte_2018
+Adrián Marín_2018
+Martín Aguirregabiria_2018
+Ximo Navarro_2018
+Carlos Vigaray_2018
+Dani Torres_2018
+Antonio Perera_2018
+Tomás Pina_2018
+Mubarak Wakaso_2018
+Manu García_2018
+Darko Brasanac_2018
+Jony_2018
+Takashi Inui_2018
+Ibai Gómez_2018
+Burgui_2018
+Álex Blanco_2018
+Patrick Twumasi_2018
+Jonathan Calleri_2018
+Rubén Sobrino_2018
+John Guidetti_2018
+Diego Rolán_2018
+Borja Bastón_2018
+Fernando Pacheco_2019
+Antonio Sivera_2019
+Roberto_2019
+Aritz Castro_2019
+Guillermo Maripán_2019
+Víctor Laguardia_2019
+Lisandro Magallán_2019
+Rodrigo Ely_2019
+Tachi_2019
+Rubén Duarte_2019
+Adrián Marín_2019
+Javi López_2019
+Martín Aguirregabiria_2019
+Ximo Navarro_2019
+Rafa Navarro_2019
+Ljubomir Fejsa_2019
+Jeando Fuchs_2019
+Dani Torres_2019
+Víctor Camarasa_2019
+Pere Pons_2019
+Tomás Pina_2019
+Mubarak Wakaso_2019
+Manu García_2019
+Ismael Gutiérrez_2019
+Javi Muñoz_2019
+Abdallahi Mahmoud_2019
+Luis Rioja_2019
+Burgui_2019
+Puma_2019
+Borja Sainz_2019
+Aleix Vidal_2019
+Edgar Méndez_2019
+Paulino de la Fuente_2019
+Lucas Pérez_2019
+Joselu_2019
+Oliver Burke_2019
+John Guidetti_2019
+Fernando Pacheco_2020
+Antonio Sivera_2020
+Aritz Castro_2020
+Florian Lejeune_2020
+Víctor Laguardia_2020
+Rodrigo Ely_2020
+Tachi_2020
+Abdel Abqar_2020
+Stephane Keller_2020
+Hugo Pérez_2020
+Rubén Duarte_2020
+Adrián Marín_2020
+Javi López_2020
+Eneko Ortiz_2020
+Tomás Tavares_2020
+Martín Aguirregabiria_2020
+Ximo Navarro_2020
+Rodrigo Battaglia_2020
+Pere Pons_2020
+Tomás Pina_2020
+Manu García_2020
+Abdallahi Mahmoud_2020
+Pepe Blanco_2020
+Sergi García_2020
+Luis Rioja_2020
+Iñigo Córdoba_2020
+Borja Sainz_2020
+Burgui_2020
+Facundo Pellistri_2020
+Edgar Méndez_2020
+Jota Peleteiro_2020
+Joselu_2020
+Lucas Pérez_2020
+Deyverson_2020
+John Guidetti_2020
+Fernando Pacheco_2021
+Antonio Sivera_2021
+Jesús Owono_2021
+Adrián Rodríguez_2021
+Óscar Medina_2021
+Iván Sanz_2021
+Matt Miazga_2021
+Víctor Laguardia_2021
+Florian Lejeune_2021
+Tachi_2021
+Abdel Abqar_2021
+Rubén Duarte_2021
+Javi López_2021
+Saúl García_2021
+Nahuel Tenaglia_2021
+Martín Aguirregabiria_2021
+Ximo Navarro_2021
+Alexandru Țîrlea_2021
+Mamadou Loum_2021
+Antonio Perera_2021
+Gonzalo Escalante_2021
+Pere Pons_2021
+Toni Moya_2021
+Tomás Pina_2021
+Álex Balboa_2021
+Tomás Mendes_2021
+Manu García_2021
+Iván Martín_2021
+Luis Rioja_2021
+Facundo Pellistri_2021
+Jason_2021
+Edgar Méndez_2021
+Unai Ropero_2021
+Manu Vallejo_2021
+Joselu_2021
+Lucas Pérez_2021
+Miguel de la Fuente_2021
+Taichi Hara_2021
+Mamadou Sylla_2021
+John Guidetti_2021
+Marc Tenas_2021
+Giorgi Gagua_2021
+Alan Godoy_2021
+Iago Herrerín_2016
+Jon Ander Serantes_2016
+Alberto Brignoli_2016
+Nereo Champagne_2016
+Diego Barrios_2016
+Pablo Insua_2016
+Dimitrios Siovas_2016
+Unai Bustinza_2016
+Martín Mantovani_2016
+Álvaro Molina_2016
+Diego Rico_2016
+Adrián Marín_2016
+Sergio Segura_2016
+Tito_2016
+Víctor Díaz_2016
+Rubén Pérez_2016
+David Timor_2016
+Carl Medjani_2016
+Erik Morán_2016
+Gabriel Pires_2016
+Unai López_2016
+Alberto Martín_2016
+Lluis Sastre_2016
+Iu Ranera_2016
+Álex Mozo_2016
+Omar Ramos_2016
+Alexander Szymanowski_2016
+Darwin Machís_2016
+Samu García_2016
+Nabil El Zhar_2016
+Rober Ibáñez_2016
+Toni Dovale_2016
+Sergio Arribas_2016
+Alberto Bueno_2016
+Miguel Ángel Guerrero_2016
+Luciano_2016
+Mamadou Koné_2016
+Jon Ander Serantes_2017
+Iván Cuéllar_2017
+Nereo Champagne_2017
+Dimitrios Siovas_2017
+Unai Bustinza_2017
+Ezequiel Muñoz_2017
+Mauro dos Santos_2017
+Martín Mantovani_2017
+Diego Rico_2017
+Raúl Carnero_2017
+Joseba Zaldua_2017
+Tito_2017
+Dani Gallardo_2017
+Rubén Pérez_2017
+Gerard Gumbau_2017
+Erik Morán_2017
+Gabriel Pires_2017
+Javi Eraso_2017
+Darko Brasanac_2017
+Jaime Sierra_2017
+Álex Mozo_2017
+Omar Ramos_2017
+Yahya Al-Shehri_2017
+Alexander Szymanowski_2017
+José Naranjo_2017
+Nordin Amrabat_2017
+Nabil El Zhar_2017
+Sergio Arribas_2017
+William de Camargo_2017
+Miguel Ángel Guerrero_2017
+Claudio Beauvue_2017
+Mamadou Koné_2017
+Leonardo Rocha_2017
+Gabri Salazar_2017
+Andriy Lunin_2018
+Iván Cuéllar_2018
+Jon Ander Serantes_2018
+Andrés Prieto_2018
+David Tejero_2018
+Dimitrios Siovas_2018
+Kenneth Omeruo_2018
+Unai Bustinza_2018
+Diego Reyes_2018
+Rodri Tarín_2018
+Ezequiel Muñoz_2018
+Josua Mejías_2018
+Jonathan Silva_2018
+Vasyl Kravets_2018
+Raúl Carnero_2018
+Allan Nyom_2018
+Juanfran Moreno_2018
+Rubén Pérez_2018
+Mikel Vesga_2018
+Gerard Gumbau_2018
+Recio_2018
+Javi Eraso_2018
+Facundo García_2018
+Óscar Rodríguez_2018
+Fede Vico_2018
+José Manuel Arnáiz_2018
+Alexander Szymanowski_2018
+Dani Ojeda_2018
+Nabil El Zhar_2018
+Javier Avilés_2018
+Youssef En-Nesyri_2018
+Martin Braithwaite_2018
+Guido Carrillo_2018
+Michael Santos_2018
+Diego Rolán_2018
+Sabin Merino_2018
+Mamadou Koné_2018
+Owusu_2018
+Juan Soriano_2019
+Iván Cuéllar_2019
+André Grandi_2019
+Pablo Lombo_2019
+Dimitrios Siovas_2019
+Chidozie Awaziem_2019
+Unai Bustinza_2019
+Kenneth Omeruo_2019
+Rodri Tarín_2019
+Ivi López_2019
+Jonathan Silva_2019
+Kévin Rodrigues_2019
+Vasyl Kravets_2019
+Mario del Campo_2019
+Roberto Rosales_2019
+Marc Navarro_2019
+Rubén Pérez_2019
+Ibrahim Amadou_2019
+Aymane Mourid_2019
+Roque Mesa_2019
+Recio_2019
+Christian Rivera_2019
+Javi Eraso_2019
+Iván Amores_2019
+Óscar Rodríguez_2019
+Federico Varela_2019
+José Manuel Arnáiz_2019
+Alexander Szymanowski_2019
+Dani Plomer_2019
+Bryan Gil_2019
+Aitor Ruibal_2019
+Javier Avilés_2019
+Miguel Ángel Guerrero_2019
+Youssef En-Nesyri_2019
+Martin Braithwaite_2019
+Roger Assalé_2019
+Guido Carrillo_2019
+Sabin Merino_2019
+Manu Garrido_2019
+Bono_2017
+Gorka Iraizoz_2017
+Marcel Lizak_2017
+Bernardo Espinosa_2017
+Juanpe_2017
+Jonás Ramalho_2017
+Marc Muniesa_2017
+Pedro Alcalá_2017
+Bambo Diaby_2017
+Johan Mojica_2017
+Aday Benítez_2017
+Carles Planas_2017
+Pablo Maffeo_2017
+Maximiliano Villa_2017
+Pedro Porro_2017
+Álex Granell_2017
+David Timor_2017
+Pere Pons_2017
+Douglas Luiz_2017
+Aleix García_2017
+Borja García_2017
+Farid Boulaya_2017
+Eloi Amagat_2017
+Marlos Moreno_2017
+Portu_2017
+Cristhian Stuani_2017
+Olarenwaju Kayode_2017
+Choco Lozano_2017
+Michael Olunga_2017
+Kévin Soni_2017
+Bono_2018
+José Aurelio Suárez_2018
+Gorka Iraizoz_2018
+Marc Vito_2018
+Juanpe_2018
+Bernardo Espinosa_2018
+Jonás Ramalho_2018
+Marc Muniesa_2018
+Pedro Alcalá_2018
+Johan Mojica_2018
+Aday Benítez_2018
+Raúl Carnero_2018
+Jairo Izquierdo_2018
+Carles Planas_2018
+Yhoan Andzouana_2018
+Pedro Porro_2018
+Álex Granell_2018
+David Timor_2018
+Pere Pons_2018
+Aleix García_2018
+Douglas Luiz_2018
+Seung-ho Paik_2018
+Èric Montes_2018
+Borja García_2018
+Portu_2018
+Patrick Roberts_2018
+Valery Fernández_2018
+Sebas Coris_2018
+Cristhian Stuani_2018
+Choco Lozano_2018
+Seydou Doumbia_2018
+Kévin Soni_2018
+Álex Pachón_2018
+Paulo Gazzaniga_2022
+Juan Carlos_2022
+Toni Fuidias_2022
+Lluc Matas_2022
+Santiago Bueno_2022
+David López_2022
+Alexander Callens_2022
+Bernardo Espinosa_2022
+Juanpe_2022
+Eric Monjonell_2022
+Biel Farrés_2022
+Miguel Gutiérrez_2022
+Javi Hernández_2022
+Arnau Martínez_2022
+Yan Couto_2022
+Oriol Romeu_2022
+Ramón Terrats_2022
+Ibrahima Kébé_2022
+Aleix García_2022
+Yangel Herrera_2022
+Álex Sala_2022
+Iván Martín_2022
+Reinier_2022
+Borja García_2022
+Samu Saiz_2022
+Ricard Artero_2022
+Rodrigo Riquelme_2022
+Toni Villa_2022
+Óscar Ureña_2022
+Joel Roca_2022
+Viktor Tsygankov_2022
+Valery Fernández_2022
+Manu Vallejo_2022
+Taty Castellanos_2022
+Cristhian Stuani_2022
+Pau Víctor_2022
+Dawda Camara_2022
+Aleksandar Jovanovic_2018
+Axel Werner_2018
+Javi Varas_2018
+Roberto Santamaría_2018
+Antonio Valera_2018
+Ander Bardají_2018
+Jorge Pulido_2018
+Xabi Etxeita_2018
+Rúben Semedo_2018
+Pablo Insua_2018
+Martín Mantovani_2018
+Adrián Diéguez_2018
+Nacho Uche_2018
+Javi Galán_2018
+Luisinho_2018
+Rajko Brezancic_2018
+Jorge Miramón_2018
+Carlos Akapo_2018
+Javier Almerge_2018
+Damián Musto_2018
+Juan Aguilera_2018
+Gonzalo Melero_2018
+Christian Rivera_2018
+Yangel Herrera_2018
+Lluis Sastre_2018
+Javito López_2018
+Juanpi_2018
+Eugeni_2018
+Jonathan Rubio Toro_2018
+Juanjo Camacho_2018
+Moi Gómez_2018
+David Ferreiro_2018
+Álex Gallar_2018
+Serdar Gürler_2018
+Cucho Hernández_2018
+Chimy Ávila_2018
+Enric Gallego_2018
+Samuele Longo_2018
+Dani Escriche_2018
+Álvaro Fernández_2020
+Andrés Fernández_2020
+Antonio Valera_2020
+Javi Gasca_2020
+Jorge Cofrades_2020
+Denis Vavro_2020
+Dimitrios Siovas_2020
+Jorge Pulido_2020
+Pablo Insua_2020
+Gastón Silva_2020
+Javi Galán_2020
+Sergio Gómez_2020
+Luisinho_2020
+Pablo Maffeo_2020
+Pedro López_2020
+Idrissa Doumbia_2020
+Jaime Seoane_2020
+Kelechi Nwakali_2020
+Pedro Mosquera_2020
+Mikel Rico_2020
+Manuel Galán_2020
+Juan Peñaloza_2020
+Borja García_2020
+Juan Carlos Real_2020
+Eugeni_2020
+Javi Ontiveros_2020
+David Ferreiro_2020
+Joaquín Muñoz_2020
+Gustavo Abizanda_2020
+Rafa Mir_2020
+Sandro Ramírez_2020
+Shinji Okazaki_2020
+Dani Escriche_2020
+Kevin Carlos_2020
+Conan Ledesma_2020
+David Gil_2020
+Juan Flere_2020
+Juanjo Garrancho_2020
+Alberto Cifuentes_2020
+Fali_2020
+Marcos Mauro_2020
+Juan Cala_2020
+Pedro Alcalá_2020
+Álex Martín_2020
+Sergio González_2020
+Jean-Pierre Rhyner_2020
+Saturday Erimuya_2020
+Momo Mbaye_2020
+Alfonso Espino_2020
+Jairo Izquierdo_2020
+Marc Baró_2020
+Iza Carcelén_2020
+Carlos Akapo_2020
+Jens Jönsson_2020
+Yann Bodiger_2020
+Jon Ander Garrido_2020
+José Mari_2020
+Augusto Fernández_2020
+Álvaro Bastida_2020
+Álex Fernández_2020
+Jorge Pombo_2020
+Alberto Perea_2020
+Salvi Sánchez_2020
+Iván Alejo_2020
+Filip Malbasic_2020
+Bobby Adekanye_2020
+Mamady Diarra_2020
+Kike Carrasco_2020
+Choco Lozano_2020
+Álvaro Giménez_2020
+Rubén Sobrino_2020
+Ivan Saponjic_2020
+Álvaro Negredo_2020
+Nano Mesa_2020
+Manu Nieto_2020
+Conan Ledesma_2021
+David Gil_2021
+Juan Flere_2021
+Victor Aznar_2021
+Fali_2021
+Víctor Chust_2021
+Marcos Mauro_2021
+Varazdat Haroyan_2021
+Juan Cala_2021
+Luis Hernández_2021
+Alfonso Espino_2021
+Santiago Arzamendia_2021
+Genar Fornés_2021
+Iza Carcelén_2021
+Carlos Akapo_2021
+Raúl Parra_2021
+Jens Jönsson_2021
+Tomás Alarcón_2021
+José Mari_2021
+Rubén Alcaraz_2021
+Fede San Emeterio_2021
+Álvaro Bastida_2021
+Martín Calderón_2021
+Álex Fernández_2021
+Oussama Idrissi_2021
+Alberto Perea_2021
+Salvi Sánchez_2021
+Iván Alejo_2021
+Álvaro Jiménez_2021
+Ivan Chapela_2021
+Choco Lozano_2021
+Lucas Pérez_2021
+Rubén Sobrino_2021
+Álvaro Negredo_2021
+Florin Andone_2021
+Milutin Osmajic_2021
+Pedro Benito_2021
+Conan Ledesma_2022
+David Gil_2022
+Victor Aznar_2022
+Nando Almodóvar_2022
+Fali_2022
+Víctor Chust_2022
+Jorge Meré_2022
+Luis Hernández_2022
+Momo Mbaye_2022
+Juan Cala_2022
+Carlos García_2022
+Lautaro Spatz_2022
+Alfonso Espino_2022
+Santiago Arzamendia_2022
+Joseba Zaldua_2022
+Iza Carcelén_2022
+Raúl Parra_2022
+Kikín_2022
+Antonio Blanco_2022
+Tomás Alarcón_2022
+José Mari_2022
+Jon Ander Garrido_2022
+Rubén Alcaraz_2022
+Gonzalo Escalante_2022
+Fede San Emeterio_2022
+Youba Diarra_2022
+Álvaro Bastida_2022
+Curro Muñoz_2022
+Moussa Diakité_2022
+Álex Fernández_2022
+Brian Ocampo_2022
+Awer Mabil_2022
+Alberto Perea_2022
+José Antonio de la Rosa_2022
+Théo Bongonda_2022
+Iván Alejo_2022
+Mamady Diarra_2022
+Choco Lozano_2022
+Rubén Sobrino_2022
+Roger Martí_2022
+Sergi Guardiola_2022
+Chris Ramos_2022
+Álvaro Negredo_2022
+Lucas Pérez_2022
+Álvaro Giménez_2022
+Francisco Mwepu_2022
+Etta Eyong_2022
